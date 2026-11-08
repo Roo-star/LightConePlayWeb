@@ -1,0 +1,438 @@
+{
+  "schemaVersion": 1,
+  "output": "assets/xr-v2/covers/metro-runner.jpg",
+  "width": 1600,
+  "height": 1000,
+  "bytes": 442522,
+  "sha256": "000cbcd79cc65dca2b2bb6550d1a8742c394d0f0ad96d98bf9086677600a5453",
+  "createdAt": "2026-11-07",
+  "process": "User-requested non-generative Photoshop-style pixel collage implemented with Node Canvas.",
+  "originalGameAssets": true,
+  "aiGenerated": false,
+  "notRealXRGameplayCapture": true,
+  "sources": [
+    {
+      "path": "assets/xr-v2/cover-sources/metro.jpg",
+      "sourcePage": "https://unsplash.com/photos/empty-subway-station-hallway-with-tiled-walls-and-fluorescent-lights-Yj0zZ5s6fAY",
+      "credit": "Jason Leung / Unsplash",
+      "operation": "crop and subtle color overlay"
+    },
+    {
+      "path": "assets/xr-v2/game-media/temple-run-appstore-3.png",
+      "sourcePage": "https://apps.apple.com/us/app/temple-run/id420009108",
+      "credit": "Imangi Studios, LLC",
+      "operation": "manual polygon crop of original Guy Dangerous pixels",
+      "crop": [
+        400,
+        1750,
+        600,
+        750
+      ],
+      "mask": [
+        [
+          240,
+          128
+        ],
+        [
+          266,
+          132
+        ],
+        [
+          271,
+          152
+        ],
+        [
+          267,
+          178
+        ],
+        [
+          262,
+          201
+        ],
+        [
+          286,
+          213
+        ],
+        [
+          307,
+          211
+        ],
+        [
+          324,
+          234
+        ],
+        [
+          339,
+          258
+        ],
+        [
+          356,
+          270
+        ],
+        [
+          346,
+          278
+        ],
+        [
+          371,
+          318
+        ],
+        [
+          390,
+          348
+        ],
+        [
+          411,
+          378
+        ],
+        [
+          413,
+          401
+        ],
+        [
+          408,
+          415
+        ],
+        [
+          402,
+          404
+        ],
+        [
+          399,
+          386
+        ],
+        [
+          381,
+          388
+        ],
+        [
+          376,
+          355
+        ],
+        [
+          354,
+          320
+        ],
+        [
+          331,
+          281
+        ],
+        [
+          307,
+          275
+        ],
+        [
+          284,
+          267
+        ],
+        [
+          285,
+          333
+        ],
+        [
+          306,
+          366
+        ],
+        [
+          312,
+          382
+        ],
+        [
+          306,
+          410
+        ],
+        [
+          289,
+          422
+        ],
+        [
+          294,
+          442
+        ],
+        [
+          289,
+          475
+        ],
+        [
+          284,
+          509
+        ],
+        [
+          288,
+          541
+        ],
+        [
+          300,
+          555
+        ],
+        [
+          288,
+          567
+        ],
+        [
+          273,
+          575
+        ],
+        [
+          254,
+          575
+        ],
+        [
+          253,
+          523
+        ],
+        [
+          257,
+          485
+        ],
+        [
+          253,
+          438
+        ],
+        [
+          247,
+          433
+        ],
+        [
+          243,
+          494
+        ],
+        [
+          237,
+          552
+        ],
+        [
+          243,
+          578
+        ],
+        [
+          246,
+          610
+        ],
+        [
+          249,
+          645
+        ],
+        [
+          261,
+          677
+        ],
+        [
+          254,
+          704
+        ],
+        [
+          244,
+          720
+        ],
+        [
+          230,
+          735
+        ],
+        [
+          210,
+          735
+        ],
+        [
+          205,
+          724
+        ],
+        [
+          211,
+          699
+        ],
+        [
+          218,
+          680
+        ],
+        [
+          216,
+          649
+        ],
+        [
+          205,
+          610
+        ],
+        [
+          192,
+          565
+        ],
+        [
+          190,
+          517
+        ],
+        [
+          193,
+          449
+        ],
+        [
+          195,
+          401
+        ],
+        [
+          202,
+          379
+        ],
+        [
+          195,
+          354
+        ],
+        [
+          185,
+          311
+        ],
+        [
+          183,
+          274
+        ],
+        [
+          159,
+          261
+        ],
+        [
+          145,
+          254
+        ],
+        [
+          151,
+          232
+        ],
+        [
+          165,
+          207
+        ],
+        [
+          190,
+          164
+        ],
+        [
+          200,
+          141
+        ],
+        [
+          219,
+          130
+        ]
+      ],
+      "holes": [
+        [
+          [
+            180,
+            210
+          ],
+          [
+            208,
+            164
+          ],
+          [
+            217,
+            157
+          ],
+          [
+            218,
+            178
+          ],
+          [
+            224,
+            201
+          ],
+          [
+            210,
+            204
+          ]
+        ]
+      ]
+    },
+    {
+      "path": "assets/xr-v2/game-media/temple-run-appstore-0.png",
+      "sourcePage": "https://apps.apple.com/us/app/temple-run/id420009108",
+      "credit": "Imangi Studios, LLC",
+      "operation": "manual polygon crops of original coin, score and meter; repeated coin texture placed in perspective",
+      "coinCrop": [
+        1075,
+        317,
+        65,
+        61
+      ],
+      "scoreCrop": [
+        890,
+        190,
+        400,
+        225
+      ],
+      "meterCrop": [
+        0,
+        195,
+        320,
+        985
+      ]
+    }
+  ],
+  "additions": [
+    "subtle spatial alignment guide",
+    "contact shadow"
+  ],
+  "coins": [
+    {
+      "x": 644,
+      "y": 492,
+      "width": 13
+    },
+    {
+      "x": 647.829469184744,
+      "y": 502.74074074074076,
+      "width": 18.666666666666664
+    },
+    {
+      "x": 654.1060297666614,
+      "y": 522.3794024509776,
+      "width": 24.333333333333332
+    },
+    {
+      "x": 661.8282344143707,
+      "y": 547.8105260216638,
+      "width": 30
+    },
+    {
+      "x": 670.6699724472323,
+      "y": 577.9259259259259,
+      "width": 35.666666666666664
+    },
+    {
+      "x": 680.449920483645,
+      "y": 612.0851321249887,
+      "width": 41.333333333333336
+    },
+    {
+      "x": 691.0489926897513,
+      "y": 649.856005646027,
+      "width": 47
+    },
+    {
+      "x": 702.3815787786895,
+      "y": 690.9213022763378,
+      "width": 52.666666666666664
+    },
+    {
+      "x": 714.3824792484363,
+      "y": 735.0352196078207,
+      "width": 58.33333333333333
+    },
+    {
+      "x": 727,
+      "y": 782,
+      "width": 64
+    }
+  ],
+  "rights": "Copyright of original game pixels remains with Imangi Studios. No commercial redistribution permission claimed.",
+  "cutouts": [
+    {
+      "path": "assets/xr-v2/game-media/temple-run-runner-cutout.png",
+      "purpose": "derived exact-pixel original runner silhouette, not a model"
+    },
+    {
+      "path": "assets/xr-v2/game-media/temple-run-coin-cutout.png",
+      "purpose": "derived exact-pixel original HUD coin icon"
+    }
+  ]
+}

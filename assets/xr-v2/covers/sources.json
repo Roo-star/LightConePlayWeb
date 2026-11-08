@@ -1,0 +1,82 @@
+{
+  "version": "1.9.0",
+  "method": "Original photographs and exact original game asset pixels; no generative substitutes",
+  "records": [
+    {
+      "file": "assets/xr-v2/covers/commercial.jpg",
+      "width": 1800,
+      "height": 1215,
+      "sha256": "b9a7609dba3102ad7b62bc518ecad7d487fc6707529a8031c2a4916063f635dc",
+      "sources": [
+        "cover-sources/museum.jpg"
+      ],
+      "process": "Original photograph, resized only; complete frame preserved."
+    },
+    {
+      "file": "assets/xr-v2/covers/culture.jpg",
+      "width": 852,
+      "height": 479,
+      "sha256": "cdf1ed5e70cfe61d1fea2f440c3794da3b39b37419e1eb3d4129553db82ae9e9",
+      "sources": [
+        "cover-sources/culture.png"
+      ],
+      "process": "Original photograph, resized only; complete frame preserved."
+    },
+    {
+      "file": "assets/xr-v2/covers/education.jpg",
+      "width": 1800,
+      "height": 1350,
+      "sha256": "7663f654e92831df6eab48f76c7bb14d45642a88ae0df3367889e04355cc8fed",
+      "sources": [
+        "cover-sources/education-school.jpg"
+      ],
+      "process": "Original photograph, resized only; complete frame preserved."
+    },
+    {
+      "file": "assets/xr-v2/covers/entertainment.jpg",
+      "width": 1800,
+      "height": 1200,
+      "sha256": "44a5e5c35bd368af1a5573475eeae5734b336b1b753a2a2247c1ef18a3facecd",
+      "sources": [
+        "cover-sources/scythe-table.jpg",
+        "game-media/scythe-official-mech-figure.jpg"
+      ],
+      "process": "User-requested Photoshop-style composition using unchanged real Scythe tabletop photography plus a chroma cutout of the official photographed Togawa miniature; original miniature pixels retained, with selection glow and sparse scan lines only."
+    },
+    {
+      "file": "assets/xr-v2/covers/personal.jpg",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "40740b32c897c170cc87422b5d79165b8cf92ad1e336c0b12a7874eb700d159d",
+      "sources": [
+        "cover-sources/desk.jpg",
+        "game-media/mario-odyssey-full-color.png",
+        "game-media/mario-odyssey-coin.png",
+        "game-media/mario-odyssey-question-block.png"
+      ],
+      "process": "Exact official Mario, Odyssey coin and question-block PNG pixels composited over a real study photograph. No invented character or HUD."
+    }
+  ],
+  "credits": {
+    "commercial": {
+      "text": "上海自然博物館 AR 展示實拍",
+      "url": "https://whlyj.sh.gov.cn/wlyw/20220105/33135fabeedf4d04b333cb7cb2d0e3aa.html"
+    },
+    "personal": {
+      "text": "書房攝影：Benjamin Siegel / Boston University；角色與道具：Nintendo / Super Mario Odyssey；XR 合成示意",
+      "url": "https://www.nintendo.com/sg/switch/aaac/index.html"
+    },
+    "culture": {
+      "text": "Ocupus — Forces of Nature 現場投影實拍",
+      "url": "https://ocupus.in/work/forces-of-nature"
+    },
+    "entertainment": {
+      "text": "Scythe 原版桌遊實拍：Tim Chuon / Stonemaier Games；官方棋子原圖抠圖與XR選中地塊合成",
+      "url": "https://aus.stonemaiergames.com/products/scythe"
+    },
+    "education": {
+      "text": "Delph Side Community Primary School — Quiver AR 課堂實拍",
+      "url": "https://delphside.lancs.sch.uk/news/2022-09-27-augmented-reality-in-ipad-club"
+    }
+  }
+}

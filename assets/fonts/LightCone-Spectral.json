@@ -1,0 +1,55 @@
+{
+  "family": "LightCone Spectral",
+  "style": "Medium",
+  "version": "1.001",
+  "originalOutlines": true,
+  "designSource": "tools/build-spectral-font.py",
+  "glyphCount": 70,
+  "mappedCharacters": 105,
+  "unitsPerEm": 1000,
+  "capHeight": 716,
+  "strokeWidth": 62,
+  "outline": "Hand-drawn angular monoline paths with chamfered terminals, 16-unit optical cuts and a 0.042 shear. No external glyph outlines used.",
+  "nativeGeometryCleanup": {
+    "method": "Skia path Boolean union via fontTools.removeOverlaps with winding correction",
+    "inputContours": 414,
+    "outputContours": 132,
+    "glyphsSimplified": 57,
+    "sampleContours": {
+      "A": {
+        "before": 8,
+        "after": 2
+      },
+      "E": {
+        "before": 5,
+        "after": 2
+      },
+      "C": {
+        "before": 8,
+        "after": 2
+      },
+      "U": {
+        "before": 7,
+        "after": 3
+      },
+      "B": {
+        "before": 11,
+        "after": 2
+      },
+      "O": {
+        "before": 10,
+        "after": 2
+      },
+      "R": {
+        "before": 8,
+        "after": 1
+      },
+      "X": {
+        "before": 4,
+        "after": 2
+      }
+    }
+  },
+  "ttf": "assets/fonts/LightCone-Spectral.ttf",
+  "woff2": "assets/fonts/LightCone-Spectral.woff2"
+}

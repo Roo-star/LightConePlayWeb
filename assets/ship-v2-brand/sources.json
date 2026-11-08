@@ -1,0 +1,52 @@
+{
+  "purpose": "Transparent original partner marks for the starship wall; no added name captions.",
+  "assets": [
+    {
+      "file": "hkstp.svg",
+      "original": "../logos/hkstp.svg",
+      "source": "https://www.hkstp.org/en/programmes/ideation",
+      "assetSource": "https://www.hkstp.org/-/media/corpsite/assets/hkstp-logo/hkstp_logo_25_v2_color_0810v2.svg?mw=1980&rev=73998d5848f64e97b6b5aa54462e1808&hash=A00E82B84236EEAC260D7F9FEED4EAD7",
+      "processing": "Original HKSTP path geometry retained; anniversary 25 and TO NEXT paths excluded; blue/orange styled lighter for dark-wall contrast. No tracing or replacement lettering."
+    },
+    {
+      "file": "polyu.svg",
+      "original": "../logos/polyu.svg",
+      "source": "https://www.polyu.edu.hk/",
+      "assetSource": "https://kids.kiddle.co/images/9/9e/PolyU_Logo_with_wordmark.svg",
+      "processing": "Exact original path geometry retained; wordmark gray styled ivory and symbol burgundy styled light rose for contrast. Transparent vector."
+    },
+    {
+      "file": "polyu-design.svg",
+      "original": "../logos/polyu-design.svg",
+      "source": "https://www.polyu.edu.hk/sd/",
+      "assetSource": "https://upload.wikimedia.org/wikipedia/commons/a/a7/PolyU_Design_Logo.svg",
+      "processing": "Exact original path geometry retained; dark fill styled light lavender for contrast. Transparent vector."
+    },
+    {
+      "file": "aicid.svg",
+      "original": "../logos/aicid.png",
+      "source": "https://ai-cid.org/Events/",
+      "assetSource": "https://ai-cid.org/images/logo_ico.png",
+      "processing": "Original transparent 64px icon embedded unchanged in SVG; alpha-preserving SVG color filter applies ice blue. No tracing or generated replacement."
+    },
+    {
+      "file": "microfund.svg",
+      "reference": "User supplied teal MICRO FUND wordmark",
+      "source": "https://www.polyu.edu.hk/kteo/entrepreneurship/funding_investment/polyu-micro-fund-scheme/",
+      "provenance": "Reference-derived typography, not an official master download.",
+      "processing": "Arial Bold outlines with exact supplied wording and single-line layout; reference letter proportions fitted to 800 by 90; teal lightened for a dark wall. Font outlined offline; no runtime font dependency."
+    },
+    {
+      "file": "ideation.svg",
+      "reference": "User supplied IDEATION / FUNDING / SCHEME title from the programme poster",
+      "source": "https://www.polyu.edu.hk/kteo/entrepreneurship/funding_investment/ideation-funding-scheme/",
+      "provenance": "Reference-derived typography, not an official master download.",
+      "processing": "Arial regular outlines with exact supplied three-line wording and equal-width alignment; orange, coral and ochre palette lightened for a dark wall. Background artwork and unrelated institutional marks excluded. Font outlined offline; no runtime font dependency."
+    }
+  ],
+  "notes": [
+    "Two programme vectors preserve the supplied wording, arrangement, broad proportions and palette but are not pixel-identical official master artwork.",
+    "Generated image cutouts were rejected after inspection because they altered lettering; those generated images are not shipped.",
+    "Official source download was blocked by automatic approval review due unrelated Application Insights telemetry. No rejected download path was retried."
+  ]
+}

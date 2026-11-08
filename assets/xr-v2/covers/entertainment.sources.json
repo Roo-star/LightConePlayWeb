@@ -1,0 +1,148 @@
+{
+  "schemaVersion": 1,
+  "output": "assets/xr-v2/covers/entertainment.jpg",
+  "width": 1800,
+  "height": 1200,
+  "bytes": 629571,
+  "sha256": "44a5e5c35bd368af1a5573475eeae5734b336b1b753a2a2247c1ef18a3facecd",
+  "createdAt": "2026-11-07",
+  "process": "User-requested Photoshop-style composition using unchanged real Scythe tabletop photography plus a chroma cutout of the official photographed Togawa miniature; original miniature pixels retained, with selection glow and sparse scan lines only.",
+  "sources": [
+    {
+      "path": "assets/xr-v2/cover-sources/scythe-table.jpg",
+      "credit": "Tim Chuon / Stonemaier Games",
+      "sourcePage": "https://aus.stonemaiergames.com/products/scythe"
+    },
+    {
+      "path": "assets/xr-v2/game-media/scythe-official-mech-figure.jpg",
+      "credit": "Stonemaier Games",
+      "sourcePage": "https://stonemaiergames.com/games/scythe/mechs/"
+    }
+  ],
+  "selectedHex": [
+    [
+      946,
+      571
+    ],
+    [
+      1020,
+      542
+    ],
+    [
+      1096,
+      560
+    ],
+    [
+      1111,
+      602
+    ],
+    [
+      1034,
+      634
+    ],
+    [
+      958,
+      615
+    ]
+  ],
+  "adjacentHex": [
+    [
+      1096,
+      560
+    ],
+    [
+      1164,
+      532
+    ],
+    [
+      1231,
+      553
+    ],
+    [
+      1246,
+      592
+    ],
+    [
+      1174,
+      622
+    ],
+    [
+      1111,
+      602
+    ]
+  ],
+  "virtualMiniature": {
+    "source": "assets/xr-v2/game-media/scythe-togawa-piece.png",
+    "position": [
+      863,
+      181
+    ],
+    "size": [
+      350,
+      362
+    ]
+  },
+  "aiGenerated": false,
+  "originalGamePixels": true,
+  "notActualXRGameplayCapture": true,
+  "derivedAssets": [
+    {
+      "path": "assets/xr-v2/game-media/scythe-crimea-piece.png",
+      "width": 580,
+      "height": 550,
+      "bytes": 217838,
+      "sha256": "97a23f0ff3b10263972d2de317f7823a2510c7e470ffd9798375471fbc7e7d23",
+      "source": "assets/xr-v2/game-media/scythe-official-mechs.jpg",
+      "sourcePage": "https://stonemaiergames.com/games/scythe/mechs/",
+      "crop": [
+        1420,
+        690,
+        580,
+        550
+      ],
+      "process": "Rectangular crop; gray background removed by RGB chroma mask. Original colored miniature pixels preserved.",
+      "threeDimensionalModel": false,
+      "aiGenerated": false,
+      "rights": "Stonemaier Games; local user-requested visual prototype. Commercial redistribution permission not verified."
+    },
+    {
+      "path": "assets/xr-v2/game-media/scythe-rusviet-piece.png",
+      "width": 600,
+      "height": 735,
+      "bytes": 261508,
+      "sha256": "b776568db55851290418a3a1f2720b164346b03dc7c64160541a039c177358f7",
+      "source": "assets/xr-v2/game-media/scythe-official-mechs.jpg",
+      "sourcePage": "https://stonemaiergames.com/games/scythe/mechs/",
+      "crop": [
+        2700,
+        380,
+        600,
+        735
+      ],
+      "process": "Rectangular crop; gray background removed by RGB chroma mask. Original colored miniature pixels preserved.",
+      "threeDimensionalModel": false,
+      "aiGenerated": false,
+      "rights": "Stonemaier Games; local user-requested visual prototype. Commercial redistribution permission not verified."
+    },
+    {
+      "path": "assets/xr-v2/game-media/scythe-togawa-piece.png",
+      "width": 300,
+      "height": 310,
+      "bytes": 94549,
+      "sha256": "96e01573671877e0df2c6c87d6bdd2422df3fddd5b30dc1704fecc3ee3447172",
+      "source": "assets/xr-v2/game-media/scythe-official-mech-figure.jpg",
+      "sourcePage": "https://stonemaiergames.com/games/scythe/mechs/",
+      "crop": [
+        1200,
+        180,
+        300,
+        310
+      ],
+      "process": "Rectangular crop; surrounding photograph removed by purple chroma mask. Original miniature pixels preserved.",
+      "threeDimensionalModel": false,
+      "aiGenerated": false,
+      "rights": "Stonemaier Games; local user-requested visual prototype. Commercial redistribution permission not verified."
+    }
+  ],
+  "rights": "Original game artwork and miniature photography remain copyrighted by Stonemaier Games. No commercial license claimed."
+}

@@ -1,0 +1,44 @@
+{
+  "living-room.png": {
+    "type": "AI-authored concept environment",
+    "note": "Generated specifically for LightCone Play prototype. Not deployed XR footage."
+  },
+  "roomalive": {
+    "type": "official third-party embedded research video",
+    "title": "RoomAlive",
+    "creator": "Microsoft Research",
+    "page": "https://www.microsoft.com/en-us/research/project/roomalive/",
+    "video": "https://www.youtube.com/watch?v=ILb5ExBzHqw"
+  },
+  "play-squared": {
+    "type": "official third-party embedded project video",
+    "title": "PLAY² at Tanween",
+    "creator": "Moment Factory",
+    "page": "https://momentfactory.com/products/large-scale-interactive-games",
+    "video": "https://vimeo.com/390021638"
+  },
+  "urbanescape": {
+    "type": "venue-led game design research",
+    "page": "https://urbanmissions.games/why-a-successful-destination-game-may-be-just-the-beginning/"
+  },
+  "aether": {
+    "type": "user-provided visual reference channel",
+    "page": "https://www.youtube.com/@AE.T.HE.R",
+    "note": "Channel access throttled during research; no specific project claims or footage copied."
+  },
+  "prototype-recording": {
+    "type": "On-demand browser canvas recording capability",
+    "format": "video/webm",
+    "duration_seconds": 12,
+    "note": "A recording is generated only when the visitor presses Record. Uses captureStream and MediaRecorder; no camera/microphone input."
+  },
+  "playground-concept.mp4": {
+    "type": "Original composited concept animation",
+    "duration_seconds": 16,
+    "resolution": "1280x720",
+    "fps": 24,
+    "creator": "LightCone Play website prototype",
+    "notes": "AI-authored environment plus animated spatial game overlays. Not deployed XR footage."
+  }
+}
+

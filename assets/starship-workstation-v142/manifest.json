@@ -1,0 +1,1487 @@
+{
+  "complete": true,
+  "version": "1.4.2",
+  "generatedAt": "2026-11-07T16:08:15.075786+00:00",
+  "sourceBlend": {
+    "file": "assets/ship-v13-from-v12/lightcone-v13-from-v12.blend",
+    "sha256": "dff7aafb0674b5ef0e1b498bc71ce736e70aee4a77626fd6f368642f950faa19"
+  },
+  "sourceGLB": {
+    "file": "assets/ship-v13-from-v12/lightcone-v13-from-v12.glb",
+    "sha256": "8e9dd445fd29e7a286a7105a964d1fd7abc10298b4859d6cdabeb64c1dedd2fc"
+  },
+  "openedSource": {
+    "file": "assets/ship-v13-from-v12/lightcone-v13-from-v12.glb",
+    "sha256": "8e9dd445fd29e7a286a7105a964d1fd7abc10298b4859d6cdabeb64c1dedd2fc"
+  },
+  "sourceBlendOpened": false,
+  "originalBlendOpened": false,
+  "executionMode": "offline-bpy4-native-GLB-reference",
+  "authoringScript": {
+    "file": "tools/build-starship-workstation-v142.py",
+    "sha256": "09c5b3251627878b87e87e49da8ff688d148153561527d88b31ded61951761c0"
+  },
+  "outputBlend": {
+    "file": "assets/starship-workstation-v142/console.blend",
+    "sha256": "4998025967991a18fb702eef9f0d84b7c7ef3a99be6e64eea244b985d2776498"
+  },
+  "outputGLB": {
+    "file": "assets/starship-workstation-v142/console.glb",
+    "sha256": "67e26d9ad0564781499dc4379b54d5d408627e0b0f2f44e81746603b5cb7700e"
+  },
+  "blenderVersion": "4.2.0",
+  "generator": "Khronos glTF Blender I/O v4.2.57",
+  "execution": "Existing official bpy 4.2 imported the actual native vessel GLB and authored new hardware; no render execution",
+  "sourceCompatibility": {
+    "openedFormat": "Native vessel glTF 2.0 binary",
+    "openedSource": {
+      "file": "assets/ship-v13-from-v12/lightcone-v13-from-v12.glb",
+      "sha256": "8e9dd445fd29e7a286a7105a964d1fd7abc10298b4859d6cdabeb64c1dedd2fc"
+    },
+    "sourceBlendOpened": false,
+    "runtimeVersion": [
+      4,
+      2,
+      0
+    ],
+    "runtime": "4.2.0",
+    "originalBlendFormat": "Blender 5.0; retained as unopened, unchanged protected baseline",
+    "undefinedNodes": [],
+    "scope": "The original .blend and .glb files remain byte-for-byte unchanged. Identity checks cover the actual native GLB reference imported into Blender, before and after adding the new hardware. The original Blender 5.0 scene was not opened; preservation is not a claim about loading its native datablocks."
+  },
+  "nativeBuild": true,
+  "bounds": {
+    "min": [
+      -9.0,
+      0.0,
+      5.306022644042969
+    ],
+    "max": [
+      9.043877601623535,
+      4.920000076293945,
+      14.600000381469727
+    ],
+    "coordinateSystem": "Three.js Y-up world metres"
+  },
+  "objectCount": 179,
+  "triangleCount": 50572,
+  "materialNames": [
+    "LC142_HW_MAT_Titanium_satin",
+    "LC142_HW_MAT_Machined_edge",
+    "LC142_HW_MAT_Graphite_chassis",
+    "LC142_HW_MAT_Graphite_deck",
+    "LC142_HW_MAT_Optical_inset",
+    "LC142_HW_MAT_Isolation_rubber",
+    "LC142_HW_MAT_Gunmetal_fasteners",
+    "LC142_HW_MAT_Cyan_instrument_ink",
+    "LC142_HW_MAT_Lavender_instrument_ink",
+    "LC142_HW_MAT_Recessed_cyan",
+    "LC142_HW_MAT_Etched_graphite"
+  ],
+  "collection": "LightCone / V1.4.2 native workstation",
+  "exportRoot": "LC142_HW_ROOT",
+  "rootIdentity": true,
+  "originalSceneIdentityPreserved": true,
+  "originalScene": {
+    "pointer": 2166683802584,
+    "name": "LightCone / V1.4.2 native GLB reference authoring",
+    "sceneCount": 2,
+    "camera": null
+  },
+  "preservedReferenceObjects": true,
+  "importedReferenceScene": {
+    "pointer": 2166683802584,
+    "name": "LightCone / V1.4.2 native GLB reference authoring",
+    "sceneCount": 2,
+    "camera": null
+  },
+  "preservationScope": "Imported actual native GLB reference scene and datablocks only; original Blender 5.0 file is an unopened protected baseline",
+  "originalObjectCount": 366,
+  "protectedObjectCount": 366,
+  "preservationAudit": {
+    "file": "assets/starship-workstation-v142/preservation-audit.json",
+    "sha256": "b703ae4753b84bf8cd611ac0f06790f66a083f3d7ae328ac8e28d3b4aa70513f"
+  },
+  "protectedNativeAssets": [
+    {
+      "file": "assets/ship-v13-from-v12/lightcone-v13-from-v12.blend",
+      "sha256": "dff7aafb0674b5ef0e1b498bc71ce736e70aee4a77626fd6f368642f950faa19"
+    },
+    {
+      "file": "assets/ship-v13-from-v12/lightcone-v13-from-v12.glb",
+      "sha256": "8e9dd445fd29e7a286a7105a964d1fd7abc10298b4859d6cdabeb64c1dedd2fc"
+    }
+  ],
+  "derivedOnlyVisibilityChanges": [
+    {
+      "name": "LC navigation instrument",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC console / bevelled floating lower shell",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC console / cabinet status light -1",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC console / cabinet status light 1",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC console / concealed structural crossbeam",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC console / front edge status reveal.002",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC console / front edge status reveal.003",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC console / functional cooling slot -1.0",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC console / functional cooling slot -1.1",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC console / functional cooling slot -1.2",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC console / functional cooling slot -1.3",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC console / functional cooling slot 1.0",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC console / functional cooling slot 1.1",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC console / functional cooling slot 1.2",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC console / functional cooling slot 1.3",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC console / inset cabinet fascia -1",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC console / inset cabinet fascia 1",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC console / modules inset",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC console / paired equipment cabinet -1",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC console / paired equipment cabinet 1",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC console / recessed gasket layer",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC console / stepped optical upper deck",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC console / weighted side footing -1",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC console / weighted side footing 1",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC legend / MODULES.001",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC ORBIT PLAY instrument",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC legend / ORBIT / PLAY.001",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC ORBIT / end guard -1",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC ORBIT / end guard 1",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC ORBIT / exit-side phosphor -1.001",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC ORBIT / exit-side phosphor 1.001",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC ORBIT / guiding phosphor 1.001",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC ORBIT / open-side split guard -1",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC ORBIT / open-side split guard 1",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC ORBIT / recessed play surface",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC ORBIT / side guard 1",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC ORBIT / table transfer ramp",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC raised button / about",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC key colour insert / about",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC key gasket / about",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC key optical inlay / about",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC legend / ABOUT.002",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC tactile keycap / about",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC raised button / engine",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC key colour insert / engine",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC key gasket / engine",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC key optical inlay / engine",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC legend / UNIVERSE.001",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC tactile keycap / engine",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC raised button / hologravity",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC key colour insert / hologravity",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC key gasket / hologravity",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC key optical inlay / hologravity",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC legend / HOLOGRAM.005",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC tactile keycap / hologravity",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC raised button / join",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC key colour insert / join",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC key gasket / join",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC key optical inlay / join",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC legend / JOIN US.001",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC tactile keycap / join",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC raised button / memory",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC key colour insert / memory",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC key gasket / memory",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC key optical inlay / memory",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC legend / MEMORY.001",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC tactile keycap / memory",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC raised button / partners",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC key colour insert / partners",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC key gasket / partners",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC key optical inlay / partners",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC legend / OUR PARTNERS.001",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC tactile keycap / partners",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC raised button / play",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC key colour insert / play",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC key gasket / play",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC key optical inlay / play",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC legend / XR PLAYGROUND.005",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC tactile keycap / play",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC raised button / stories",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC key colour insert / stories",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC key gasket / stories",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC key optical inlay / stories",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC legend / GAMES.005",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC tactile keycap / stories",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC rear navigation light cell",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC legend / NAVIGATION.001",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC rear sign / luminous field",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC rear sign / optical chassis",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC rear sign / phosphor perimeter",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC rear sign / cantilever saddle -1",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC rear sign / cantilever saddle 1",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC rear sign / structural upright -1",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC rear sign / structural upright 1",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC table / physical plinth navigation footprint",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    }
+  ],
+  "noRenderingExecuted": true,
+  "originalFilesUnchanged": true,
+  "desktopObstacles": [
+    {
+      "name": "LC142_HW_Portrait_screen_foot",
+      "minX": 8.28499984741211,
+      "maxX": 8.8149995803833,
+      "minZ": 5.809999942779541,
+      "maxZ": 6.489999771118164
+    },
+    {
+      "name": "LC142_HW_Portrait_screen_stalk",
+      "minX": 8.454999923706055,
+      "maxX": 8.645000457763672,
+      "minZ": 6.070000171661377,
+      "maxZ": 6.230000019073486
+    }
+  ],
+  "referenceDesign": {
+    "reference1": "Sculpted stepped titanium perimeter, cyan/lavender inset optical beds, low raked rear instrument spine, portrait display, open illuminated metal supports",
+    "reference2": "Dark graphite mission-control console with machined central holographic emitter socket",
+    "runtimePreserved": "Nine physical key locations, two-sided Navigation plaque, animated emitter/iris/beam, raised maze with sphere support, deliberate ramp entry and single rolling desk marble",
+    "materials": "Linearized sRGB satin metals, dark optical glass, limited .25-.48 emission, no new lights",
+    "graphicMethod": "Editable native mesh schematic paths and radial registers; no added text or bitmap mockups",
+    "deckTop": 2.725,
+    "leftOpticalBedTop": 2.845,
+    "serviceBedTop": 2.81,
+    "mazeSocketTop": 2.84,
+    "frontReviewEye": [
+      0,
+      15.6,
+      16.4
+    ],
+    "backReviewEye": [
+      0,
+      18.5,
+      1.6
+    ],
+    "noRenderingExecuted": true
+  }
+}

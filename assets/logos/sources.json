@@ -1,0 +1,67 @@
+{
+  "checkedAt": "2026-10-28",
+  "downloadStatus": "Local institutional marks downloaded and inspected. Programme names are captions beside genuine parent-organisation marks.",
+  "assets": [
+    {
+      "id": "hkstp",
+      "name": "HKSTP",
+      "file": "hkstp.svg",
+      "source": "https://www.hkstp.org/en/programmes/ideation",
+      "url": "https://www.hkstp.org/-/media/corpsite/assets/hkstp-logo/hkstp_logo_25_v2_color_0810v2.svg?mw=1980&rev=73998d5848f64e97b6b5aa54462e1808&hash=A00E82B84236EEAC260D7F9FEED4EAD7",
+      "status": "downloaded",
+      "rights": "Institutional trademark; contextual identification only."
+    },
+    {
+      "id": "polyu",
+      "name": "The Hong Kong Polytechnic University",
+      "file": "polyu.svg",
+      "source": "https://kids.kiddle.co/Image:PolyU_Logo_with_wordmark.svg",
+      "url": "https://kids.kiddle.co/images/9/9e/PolyU_Logo_with_wordmark.svg",
+      "status": "downloaded",
+      "rights": "Institutional trademark; source identifies contextual fair use."
+    },
+    {
+      "id": "polyu-design",
+      "name": "PolyU Design",
+      "file": "polyu-design.svg",
+      "source": "https://commons.wikimedia.org/wiki/File:PolyU_Design_Logo.svg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/PolyU_Design_Logo.svg",
+      "officialReference": "https://www.polyu.edu.hk/sd/",
+      "status": "downloaded",
+      "rights": "Institutional trademark; retain original asset."
+    },
+    {
+      "id": "aicid",
+      "name": "AiCID — AI for Creative Innovation Design Joint Lab",
+      "file": "aicid.png",
+      "source": "https://ai-cid.org/Events/",
+      "url": "https://ai-cid.org/images/logo_ico.png",
+      "status": "downloaded",
+      "notes": "Original transparent 64 px icon supplied by the official site; not traced or redrawn."
+    }
+  ],
+  "programmeCaptions": [
+    {
+      "id": "ideation",
+      "name": "HKSTP Ideation",
+      "parentAsset": "hkstp.svg",
+      "source": "https://www.hkstp.org/en/programmes/ideation",
+      "notes": "The official programme pages do not expose a standalone programme logo. The UI uses the genuine HKSTP mark with a separate programme caption."
+    },
+    {
+      "id": "microfund",
+      "name": "PolyU Micro Fund",
+      "parentAsset": "polyu.svg",
+      "source": "https://www.polyu.edu.hk/kteo/entrepreneurship/funding_investment/polyu-micro-fund-scheme/",
+      "notes": "Original PolyU mark with a separate programme caption; no invented Micro Fund logo."
+    }
+  ],
+  "unresolved": [
+    {
+      "id": "lightcone-company",
+      "name": "LIGHTCONE (18)(1).png",
+      "libraryFileId": "libfile_b58158a39884819196db4ec06fbadb75",
+      "reason": "Original 2010x2048 PNG transfer incomplete: 1048576 of 2025964 bytes. Automatic approval review rejected transfer polling due unrelated Visual Studio telemetry; action was not retried. No replacement logo was invented."
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+/* Explicit local font fallbacks for Latin, CJK, emoji and UI symbols. */
+html,body{font-family:Sora,"Segoe UI","Microsoft JhengHei","PingFang TC","Noto Sans CJK TC",Arial,sans-serif}
+button,input,select,textarea{font-family:inherit}
+.icon-button,.view-controls button,.spatial-footer button,.back-link,.settings-heading{font-family:"Segoe UI Symbol","Segoe UI","Microsoft JhengHei",sans-serif}
+.icon-button svg,.view-controls button svg,.back-link svg{display:block;width:19px;height:19px;stroke:currentColor;fill:none;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round;flex-shrink:0}
+.back-link{display:inline-flex;align-items:center;justify-content:center}
+.game-rules,.game-controls,#sidebar-rules,#sidebar-sources{font-family:Sora,"Segoe UI","Microsoft JhengHei","PingFang TC",sans-serif}

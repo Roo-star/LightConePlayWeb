@@ -1,0 +1,18 @@
+{
+  "sources": {
+    "palace.js": "73f3d2ec8cd3a2430004c1b479f2aabdddb116a9711920193e4895667ceb0f0c",
+    "palace.css": "560851858818d988a5d26c2ce28ce3802b69667087f901d0b4a44357831e80f6",
+    "vendor/OrbitControls.js": "b97879c748170baadeb3fb84cea1ffdf4674e283dc06042f34e2acb95a76042c"
+  },
+  "output": "dimension/memory-content-runtime.js",
+  "outputSha256": "cc7612eb7f10b327041eeb3e89d18646766c3895be3304a2fe61e24b6917445e",
+  "method": "Bundle original palaceHTML and mountPalace without changing their code, data or stored-note schema; share the existing Three.js runtime. Exhibition styles are applied outside this original module.",
+  "renderer": {
+    "version": "0.180.0",
+    "source": "three/examples/jsm/renderers/CSS3DRenderer.js",
+    "sourceSha256": "ff7e2468e6e2e153d8914fd8c0e2dcf162d40bb985d5541daece3b795f9e365c",
+    "local": "vendor/CSS3DRenderer.js",
+    "localSha256": "1c5676240adfb39afbab63a2e1eb3e085504f9995316aaff5a163b163a46a8a7",
+    "change": "Only the module import is resolved to the existing local Three.js module."
+  }
+}

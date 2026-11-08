@@ -1,0 +1,4189 @@
+{
+  "originalScene": {
+    "pointer": 2166683802584,
+    "name": "LightCone / V1.4.2 native GLB reference authoring",
+    "sceneCount": 2,
+    "camera": null
+  },
+  "importedReferenceScene": {
+    "pointer": 2166683802584,
+    "name": "LightCone / V1.4.2 native GLB reference authoring",
+    "sceneCount": 2,
+    "camera": null
+  },
+  "preservationScope": "Imported actual native GLB reference scene and datablocks",
+  "openedSource": {
+    "file": "assets/ship-v13-from-v12/lightcone-v13-from-v12.glb",
+    "sha256": "8e9dd445fd29e7a286a7105a964d1fd7abc10298b4859d6cdabeb64c1dedd2fc"
+  },
+  "sourceBlendOpened": false,
+  "originalBlendOpened": false,
+  "preservedReferenceObjects": true,
+  "executionMode": "offline-bpy4-native-GLB-reference",
+  "originalObjectCount": 366,
+  "protectedObjectCount": 366,
+  "objects": [
+    {
+      "name": "Canopy sealed longitudinal joint 1.001",
+      "pointer": 2166696302088,
+      "beforeFingerprint": "8e35358e89a2ee98c4e7243e05b671f1677e6a1a27d6ee03d22571d0d0f49b57",
+      "afterFingerprint": "8e35358e89a2ee98c4e7243e05b671f1677e6a1a27d6ee03d22571d0d0f49b57",
+      "unchanged": true
+    },
+    {
+      "name": "Canopy sealed longitudinal joint 2.001",
+      "pointer": 2166696319336,
+      "beforeFingerprint": "0750561b68eda8bab98832bb098261577895d0e4843271372a8a82597464cc9a",
+      "afterFingerprint": "0750561b68eda8bab98832bb098261577895d0e4843271372a8a82597464cc9a",
+      "unchanged": true
+    },
+    {
+      "name": "Canopy sealed longitudinal joint 3.001",
+      "pointer": 2166696318104,
+      "beforeFingerprint": "f7a114773e3ec36c0dcd0b5b840d3dd6ad3573fb32e5c080cad15d532b2627bb",
+      "afterFingerprint": "f7a114773e3ec36c0dcd0b5b840d3dd6ad3573fb32e5c080cad15d532b2627bb",
+      "unchanged": true
+    },
+    {
+      "name": "Canopy sealed longitudinal joint 4.001",
+      "pointer": 2166696330424,
+      "beforeFingerprint": "cafc5dfda4f7f0e375cf167ab77b63b291c2c14bb64ddc257628fb9e5542ddbd",
+      "afterFingerprint": "cafc5dfda4f7f0e375cf167ab77b63b291c2c14bb64ddc257628fb9e5542ddbd",
+      "unchanged": true
+    },
+    {
+      "name": "Canopy sealed longitudinal joint 5.001",
+      "pointer": 2166696329192,
+      "beforeFingerprint": "84ddd230231b9c4570101558e2a09c93b0fa8b8b96857994fd06668b87c5949d",
+      "afterFingerprint": "84ddd230231b9c4570101558e2a09c93b0fa8b8b96857994fd06668b87c5949d",
+      "unchanged": true
+    },
+    {
+      "name": "Low sill guide -1.001",
+      "pointer": 2166696320568,
+      "beforeFingerprint": "5cd4731ceab178f62f81504201563ab9746fdde1a2ed8babc1b875a17f835d30",
+      "afterFingerprint": "5cd4731ceab178f62f81504201563ab9746fdde1a2ed8babc1b875a17f835d30",
+      "unchanged": true
+    },
+    {
+      "name": "Low sill guide 1.001",
+      "pointer": 2166696321800,
+      "beforeFingerprint": "602b4d4a22cdf0aa788df1e8e99b23f63a0dd9a81af5bf3e864eb1abfb49ccf7",
+      "afterFingerprint": "602b4d4a22cdf0aa788df1e8e99b23f63a0dd9a81af5bf3e864eb1abfb49ccf7",
+      "unchanged": true
+    },
+    {
+      "name": "Observation touch light -1.001",
+      "pointer": 2166696323032,
+      "beforeFingerprint": "cf40699597b9867563449fa3f99ad8687af64aa6f84fcfcffa0910fcde69a2f2",
+      "afterFingerprint": "cf40699597b9867563449fa3f99ad8687af64aa6f84fcfcffa0910fcde69a2f2",
+      "unchanged": true
+    },
+    {
+      "name": "Observation touch light 1.001",
+      "pointer": 2166696324264,
+      "beforeFingerprint": "a2fb13c476451d7c039c527998750f716e6b28ea214dfc102191795c212c4a17",
+      "afterFingerprint": "a2fb13c476451d7c039c527998750f716e6b28ea214dfc102191795c212c4a17",
+      "unchanged": true
+    },
+    {
+      "name": "Light Cells / continuous reflective floor",
+      "pointer": 2166696325496,
+      "beforeFingerprint": "392cd0a390552ffdb5318e555c49a0b0d01cd0461b51ae715c5ce0ea7822ed3c",
+      "afterFingerprint": "392cd0a390552ffdb5318e555c49a0b0d01cd0461b51ae715c5ce0ea7822ed3c",
+      "unchanged": true
+    },
+    {
+      "name": "Ceramic expansion joint",
+      "pointer": 2166696326728,
+      "beforeFingerprint": "5e94c2ac9b1dfab31da73f5113e548ee7a9ea06e7edaa2211af8c62c088a19dc",
+      "afterFingerprint": "5e94c2ac9b1dfab31da73f5113e548ee7a9ea06e7edaa2211af8c62c088a19dc",
+      "unchanged": true
+    },
+    {
+      "name": "Ceramic expansion joint.001",
+      "pointer": 2166696327960,
+      "beforeFingerprint": "b61ff470f93146d35128e2b76422f402d9970d9c36ec5395434cd63a221494de",
+      "afterFingerprint": "b61ff470f93146d35128e2b76422f402d9970d9c36ec5395434cd63a221494de",
+      "unchanged": true
+    },
+    {
+      "name": "Ceramic expansion joint.002",
+      "pointer": 2166698044392,
+      "beforeFingerprint": "c765c82cd2659001d018220c2791c6d55118998fedfbe0f970af2a01b59bd4fe",
+      "afterFingerprint": "c765c82cd2659001d018220c2791c6d55118998fedfbe0f970af2a01b59bd4fe",
+      "unchanged": true
+    },
+    {
+      "name": "Ceramic expansion joint.003",
+      "pointer": 2166698055480,
+      "beforeFingerprint": "9d5ad347257ccbb88a19cf932f0de10b29b944e0482a8e5179f76128606ea5e3",
+      "afterFingerprint": "9d5ad347257ccbb88a19cf932f0de10b29b944e0482a8e5179f76128606ea5e3",
+      "unchanged": true
+    },
+    {
+      "name": "Ceramic expansion joint.004",
+      "pointer": 2166698051784,
+      "beforeFingerprint": "78f91bcec7500031ec442a679153bf197b533f9f14f653a5bca8a67b076cc686",
+      "afterFingerprint": "78f91bcec7500031ec442a679153bf197b533f9f14f653a5bca8a67b076cc686",
+      "unchanged": true
+    },
+    {
+      "name": "Ceramic expansion joint.005",
+      "pointer": 2166698050552,
+      "beforeFingerprint": "f6be232c524ba6579aeed760c830db641d3288f6c88c2e99d70f44509bd1615b",
+      "afterFingerprint": "f6be232c524ba6579aeed760c830db641d3288f6c88c2e99d70f44509bd1615b",
+      "unchanged": true
+    },
+    {
+      "name": "Ceramic expansion joint.006",
+      "pointer": 2166698049320,
+      "beforeFingerprint": "35d755d882db0eaeb24f5c1ea349a5ffba455dbe278efafb59ad772ec85fd3fa",
+      "afterFingerprint": "35d755d882db0eaeb24f5c1ea349a5ffba455dbe278efafb59ad772ec85fd3fa",
+      "unchanged": true
+    },
+    {
+      "name": "Ceramic expansion joint.007",
+      "pointer": 2166698045624,
+      "beforeFingerprint": "b14d421275cf4c4357a2cece9b36738e50dd759b5c8210ced03d8f2cc46b3bfd",
+      "afterFingerprint": "b14d421275cf4c4357a2cece9b36738e50dd759b5c8210ced03d8f2cc46b3bfd",
+      "unchanged": true
+    },
+    {
+      "name": "Ceramic expansion joint.008",
+      "pointer": 2166698043160,
+      "beforeFingerprint": "0c8242aa038bafb3cc51fab0fc467147cae71b8a9eb96e5066683c9c11f9c7b8",
+      "afterFingerprint": "0c8242aa038bafb3cc51fab0fc467147cae71b8a9eb96e5066683c9c11f9c7b8",
+      "unchanged": true
+    },
+    {
+      "name": "Ceramic expansion joint.009",
+      "pointer": 2166698053016,
+      "beforeFingerprint": "126a4ff4c995f778a1d75109a21ea72f269d72615451341da0f5bbd41579f549",
+      "afterFingerprint": "126a4ff4c995f778a1d75109a21ea72f269d72615451341da0f5bbd41579f549",
+      "unchanged": true
+    },
+    {
+      "name": "Ceramic expansion joint.010",
+      "pointer": 2166698056712,
+      "beforeFingerprint": "0d7c5c9353ddfd40ce5e54a0a3a7c9dbee89597adcaaa551eafc0f52be61db99",
+      "afterFingerprint": "0d7c5c9353ddfd40ce5e54a0a3a7c9dbee89597adcaaa551eafc0f52be61db99",
+      "unchanged": true
+    },
+    {
+      "name": "Ceramic expansion joint.011",
+      "pointer": 2166698057944,
+      "beforeFingerprint": "0d135a4b464070969d41d814d6f22df5874530dc91e8e41c4cbe201eaf0e5d19",
+      "afterFingerprint": "0d135a4b464070969d41d814d6f22df5874530dc91e8e41c4cbe201eaf0e5d19",
+      "unchanged": true
+    },
+    {
+      "name": "Ceramic expansion joint.012",
+      "pointer": 2166698054248,
+      "beforeFingerprint": "b4da60fe65308c6a69160c7891b278b24e9ade4ea1777250b244af675e21463f",
+      "afterFingerprint": "b4da60fe65308c6a69160c7891b278b24e9ade4ea1777250b244af675e21463f",
+      "unchanged": true
+    },
+    {
+      "name": "Ceramic expansion joint.013",
+      "pointer": 2166698059176,
+      "beforeFingerprint": "0bebb7b985f0e48e951b94da49ac33085d097fec078ab3dbf5aad208e671c24e",
+      "afterFingerprint": "0bebb7b985f0e48e951b94da49ac33085d097fec078ab3dbf5aad208e671c24e",
+      "unchanged": true
+    },
+    {
+      "name": "Ceramic expansion joint.014",
+      "pointer": 2166698048088,
+      "beforeFingerprint": "2b504470716f361e914dbe4dac59087911e14ca2e0f38e3447fc2f1a21b22e35",
+      "afterFingerprint": "2b504470716f361e914dbe4dac59087911e14ca2e0f38e3447fc2f1a21b22e35",
+      "unchanged": true
+    },
+    {
+      "name": "Ceramic expansion joint.015",
+      "pointer": 2166698060408,
+      "beforeFingerprint": "cee8483aefc4ada1be98eeb8e650bc6c37bc35e632deab551c7029ada7fc8240",
+      "afterFingerprint": "cee8483aefc4ada1be98eeb8e650bc6c37bc35e632deab551c7029ada7fc8240",
+      "unchanged": true
+    },
+    {
+      "name": "Ceramic expansion joint.016",
+      "pointer": 2166698061640,
+      "beforeFingerprint": "ef3c449e6ad71265bb23582b4ac52579329fa33a91108aacb4ab58c451b1780a",
+      "afterFingerprint": "ef3c449e6ad71265bb23582b4ac52579329fa33a91108aacb4ab58c451b1780a",
+      "unchanged": true
+    },
+    {
+      "name": "Ceramic expansion joint.017",
+      "pointer": 2166698046856,
+      "beforeFingerprint": "d21284c33c4b04a740f6ab8a1e7cd45a4eed83efa6b7c2a3473ccfaf8d6b3f77",
+      "afterFingerprint": "d21284c33c4b04a740f6ab8a1e7cd45a4eed83efa6b7c2a3473ccfaf8d6b3f77",
+      "unchanged": true
+    },
+    {
+      "name": "Longitudinal deck joint",
+      "pointer": 2166698062872,
+      "beforeFingerprint": "5d44d563b79ff4e55364a716e12ca7b799ecf3b4a9c2ab81df7458ae23a3d2cd",
+      "afterFingerprint": "5d44d563b79ff4e55364a716e12ca7b799ecf3b4a9c2ab81df7458ae23a3d2cd",
+      "unchanged": true
+    },
+    {
+      "name": "Longitudinal deck joint.001",
+      "pointer": 2166698070264,
+      "beforeFingerprint": "9a8c8d174d376a5b824edbc6c13d44f77ccf62c3b83f3754c5d1c7f8b5dc6dd8",
+      "afterFingerprint": "9a8c8d174d376a5b824edbc6c13d44f77ccf62c3b83f3754c5d1c7f8b5dc6dd8",
+      "unchanged": true
+    },
+    {
+      "name": "Longitudinal deck joint.002",
+      "pointer": 2166698072728,
+      "beforeFingerprint": "27cac38075918ab573f96e29324bcd56a97c8eb470341a29f59532755a1cbd85",
+      "afterFingerprint": "27cac38075918ab573f96e29324bcd56a97c8eb470341a29f59532755a1cbd85",
+      "unchanged": true
+    },
+    {
+      "name": "Load-bearing deck foundation",
+      "pointer": 2166698066568,
+      "beforeFingerprint": "2f3f10157b8a4185e93825a539bbc61468ec6deaafa1ea74078305adaf6ee8e6",
+      "afterFingerprint": "2f3f10157b8a4185e93825a539bbc61468ec6deaafa1ea74078305adaf6ee8e6",
+      "unchanged": true
+    },
+    {
+      "name": "Elliptic pressure rib 00",
+      "pointer": 2166698064104,
+      "beforeFingerprint": "85ac6ec1fc2bd4247e46a393b5a5c617e5c66db333256cdf529adc0a17eb50f5",
+      "afterFingerprint": "85ac6ec1fc2bd4247e46a393b5a5c617e5c66db333256cdf529adc0a17eb50f5",
+      "unchanged": true
+    },
+    {
+      "name": "Shadow flange 00",
+      "pointer": 2166698065336,
+      "beforeFingerprint": "96ffa0b291eb7322a710042c8799a3ee5dee5d9124d413cdc51ad493fa0910fc",
+      "afterFingerprint": "96ffa0b291eb7322a710042c8799a3ee5dee5d9124d413cdc51ad493fa0910fc",
+      "unchanged": true
+    },
+    {
+      "name": "Low luminous rib reveal 00",
+      "pointer": 2166698073960,
+      "beforeFingerprint": "d9e9b2a064cacbdfebb18d669b06fec84ab2729e9592ea8a47a7c37ddb050973",
+      "afterFingerprint": "d9e9b2a064cacbdfebb18d669b06fec84ab2729e9592ea8a47a7c37ddb050973",
+      "unchanged": true
+    },
+    {
+      "name": "Anchored rib shoe 00 -1",
+      "pointer": 2166698067800,
+      "beforeFingerprint": "11cb03ceeeff5767b0616ee265d678e19009d054ce3653b63e7125e967e9d212",
+      "afterFingerprint": "11cb03ceeeff5767b0616ee265d678e19009d054ce3653b63e7125e967e9d212",
+      "unchanged": true
+    },
+    {
+      "name": "Anchored rib shoe 00 1",
+      "pointer": 2166698069032,
+      "beforeFingerprint": "7055b5ac06e7ed16cda3a6b91562890424acf038d196489a6405341b13547554",
+      "afterFingerprint": "7055b5ac06e7ed16cda3a6b91562890424acf038d196489a6405341b13547554",
+      "unchanged": true
+    },
+    {
+      "name": "Elliptic pressure rib 01",
+      "pointer": 2166698071496,
+      "beforeFingerprint": "9b4dee5b86465e5a52e691dc1e605d4f0aeab4b6fe836d1a5494f5ca6bb653d4",
+      "afterFingerprint": "9b4dee5b86465e5a52e691dc1e605d4f0aeab4b6fe836d1a5494f5ca6bb653d4",
+      "unchanged": true
+    },
+    {
+      "name": "Shadow flange 01",
+      "pointer": 2165480658088,
+      "beforeFingerprint": "b94913bab344bbe12684ba7a8e12e40bf258577f013df0677be0c4b425644b30",
+      "afterFingerprint": "b94913bab344bbe12684ba7a8e12e40bf258577f013df0677be0c4b425644b30",
+      "unchanged": true
+    },
+    {
+      "name": "Low luminous rib reveal 01",
+      "pointer": 2165480659320,
+      "beforeFingerprint": "2136833783b851cd6b92d3751d0eef1e25b0b121f2c2a3d95b005c771abb91f1",
+      "afterFingerprint": "2136833783b851cd6b92d3751d0eef1e25b0b121f2c2a3d95b005c771abb91f1",
+      "unchanged": true
+    },
+    {
+      "name": "Anchored rib shoe 01 -1",
+      "pointer": 2165480661784,
+      "beforeFingerprint": "5cead12467b3e3a3134109e06c5870ad68ce6334025fd915d1861fcb8682c54f",
+      "afterFingerprint": "5cead12467b3e3a3134109e06c5870ad68ce6334025fd915d1861fcb8682c54f",
+      "unchanged": true
+    },
+    {
+      "name": "Anchored rib shoe 01 1",
+      "pointer": 2165480663016,
+      "beforeFingerprint": "f3cc76982203e07f7e44665ee96717a5d434a85ff6d256bd99ac67746e5296b9",
+      "afterFingerprint": "f3cc76982203e07f7e44665ee96717a5d434a85ff6d256bd99ac67746e5296b9",
+      "unchanged": true
+    },
+    {
+      "name": "Elliptic pressure rib 02",
+      "pointer": 2165480660552,
+      "beforeFingerprint": "f6abddf4b1f1d1b4f04b226888c518693c362e8e07fd786c1119b53ecfbcc789",
+      "afterFingerprint": "f6abddf4b1f1d1b4f04b226888c518693c362e8e07fd786c1119b53ecfbcc789",
+      "unchanged": true
+    },
+    {
+      "name": "Shadow flange 02",
+      "pointer": 2165480648232,
+      "beforeFingerprint": "7fd3a9fb235052ac373384e758145ca0d09e9e366d84e6615f9e73caafdd3f86",
+      "afterFingerprint": "7fd3a9fb235052ac373384e758145ca0d09e9e366d84e6615f9e73caafdd3f86",
+      "unchanged": true
+    },
+    {
+      "name": "Low luminous rib reveal 02",
+      "pointer": 2165480664248,
+      "beforeFingerprint": "0f2d4fc62f8ba79f95efc1e7af0c281faf5bf7d4f9facde23471f41b964b36fc",
+      "afterFingerprint": "0f2d4fc62f8ba79f95efc1e7af0c281faf5bf7d4f9facde23471f41b964b36fc",
+      "unchanged": true
+    },
+    {
+      "name": "Anchored rib shoe 02 -1",
+      "pointer": 2165480649464,
+      "beforeFingerprint": "8b5b6a4134ecb82fbd6c81ceb72752408932a81dd7070082044427051fffcf01",
+      "afterFingerprint": "8b5b6a4134ecb82fbd6c81ceb72752408932a81dd7070082044427051fffcf01",
+      "unchanged": true
+    },
+    {
+      "name": "Anchored rib shoe 02 1",
+      "pointer": 2165480650696,
+      "beforeFingerprint": "862233c097bd6758a9447810162107db6e5154fa2e2cb41ce68e55265180d08d",
+      "afterFingerprint": "862233c097bd6758a9447810162107db6e5154fa2e2cb41ce68e55265180d08d",
+      "unchanged": true
+    },
+    {
+      "name": "Elliptic pressure rib 03",
+      "pointer": 2165480665480,
+      "beforeFingerprint": "5d495ba5cd5c44f1066320b72d3d10997305e4ce679a45d2bdb68073e645d59b",
+      "afterFingerprint": "5d495ba5cd5c44f1066320b72d3d10997305e4ce679a45d2bdb68073e645d59b",
+      "unchanged": true
+    },
+    {
+      "name": "Shadow flange 03",
+      "pointer": 2165480666712,
+      "beforeFingerprint": "20771cd19ed5665778151db69dc12270134a5453684f5fa9e440a0f538aae8b7",
+      "afterFingerprint": "20771cd19ed5665778151db69dc12270134a5453684f5fa9e440a0f538aae8b7",
+      "unchanged": true
+    },
+    {
+      "name": "Low luminous rib reveal 03",
+      "pointer": 2165480651928,
+      "beforeFingerprint": "6af541ef943c998a6ae42729786eedcc4429c3451d130a7e8eebb7eaf39ad7a4",
+      "afterFingerprint": "6af541ef943c998a6ae42729786eedcc4429c3451d130a7e8eebb7eaf39ad7a4",
+      "unchanged": true
+    },
+    {
+      "name": "Anchored rib shoe 03 -1",
+      "pointer": 2165480667944,
+      "beforeFingerprint": "b517f712b02727fb2d0165b58102c6b5e6ad41e0b9a6f0cdcd2b1426564575e1",
+      "afterFingerprint": "b517f712b02727fb2d0165b58102c6b5e6ad41e0b9a6f0cdcd2b1426564575e1",
+      "unchanged": true
+    },
+    {
+      "name": "Anchored rib shoe 03 1",
+      "pointer": 2165480656856,
+      "beforeFingerprint": "ef0ebc85a30357d71ee70c49454b59e3930cd8fce2a4e3096ab27d06c589f95a",
+      "afterFingerprint": "ef0ebc85a30357d71ee70c49454b59e3930cd8fce2a4e3096ab27d06c589f95a",
+      "unchanged": true
+    },
+    {
+      "name": "Elliptic pressure rib 04",
+      "pointer": 2165480655624,
+      "beforeFingerprint": "0bdeac2bf161f751ccae91648347cc848af7572304b631c95012f2370cb33461",
+      "afterFingerprint": "0bdeac2bf161f751ccae91648347cc848af7572304b631c95012f2370cb33461",
+      "unchanged": true
+    },
+    {
+      "name": "Shadow flange 04",
+      "pointer": 2165480653160,
+      "beforeFingerprint": "bf2458c14b24847ca3cdfd56dc00a8c83c3fc1aefc1a568b7ed9bef488b86e66",
+      "afterFingerprint": "bf2458c14b24847ca3cdfd56dc00a8c83c3fc1aefc1a568b7ed9bef488b86e66",
+      "unchanged": true
+    },
+    {
+      "name": "Low luminous rib reveal 04",
+      "pointer": 2165480669176,
+      "beforeFingerprint": "78582c9302c4d6860e6e526d278f3a4727e20bae20f0cd6b1263d539e0ec96e1",
+      "afterFingerprint": "78582c9302c4d6860e6e526d278f3a4727e20bae20f0cd6b1263d539e0ec96e1",
+      "unchanged": true
+    },
+    {
+      "name": "Anchored rib shoe 04 -1",
+      "pointer": 2165480654392,
+      "beforeFingerprint": "1b9c6ba9ff1499b6122eb84de2e505b7ef04c0e76f763cf7ee63a9d42099d68a",
+      "afterFingerprint": "1b9c6ba9ff1499b6122eb84de2e505b7ef04c0e76f763cf7ee63a9d42099d68a",
+      "unchanged": true
+    },
+    {
+      "name": "Anchored rib shoe 04 1",
+      "pointer": 2165480670408,
+      "beforeFingerprint": "2a08a3bb17ec5c7fc1425e1dc82c27554d933d4cf56df3a5f8d06ff51fa2358f",
+      "afterFingerprint": "2a08a3bb17ec5c7fc1425e1dc82c27554d933d4cf56df3a5f8d06ff51fa2358f",
+      "unchanged": true
+    },
+    {
+      "name": "Elliptic pressure rib 05",
+      "pointer": 2165480677800,
+      "beforeFingerprint": "3c5475b31bc26347152dc10b1f41df7c3a4fa790ace935a21cd2eca844c5bfd9",
+      "afterFingerprint": "3c5475b31bc26347152dc10b1f41df7c3a4fa790ace935a21cd2eca844c5bfd9",
+      "unchanged": true
+    },
+    {
+      "name": "Shadow flange 05",
+      "pointer": 2165480671640,
+      "beforeFingerprint": "04285f5ae913ef69b685e5bad4a183185645388ed9016f976846a987abc018ea",
+      "afterFingerprint": "04285f5ae913ef69b685e5bad4a183185645388ed9016f976846a987abc018ea",
+      "unchanged": true
+    },
+    {
+      "name": "Low luminous rib reveal 05",
+      "pointer": 2165480674104,
+      "beforeFingerprint": "c1d2af657cfc30ba2e6e1da4ca31f0fa5228cfb6931630224224803363cc13c4",
+      "afterFingerprint": "c1d2af657cfc30ba2e6e1da4ca31f0fa5228cfb6931630224224803363cc13c4",
+      "unchanged": true
+    },
+    {
+      "name": "Anchored rib shoe 05 -1",
+      "pointer": 2165480676568,
+      "beforeFingerprint": "39e343e13cdbca7ee24d14ef3ecf638cbc3c5083c4ded2533bcc21c091a0dffe",
+      "afterFingerprint": "39e343e13cdbca7ee24d14ef3ecf638cbc3c5083c4ded2533bcc21c091a0dffe",
+      "unchanged": true
+    },
+    {
+      "name": "Anchored rib shoe 05 1",
+      "pointer": 2165480672872,
+      "beforeFingerprint": "e34c82d5c4bb67bb6d5cbcb22fa1cf18fc2c342ac35ab9f4e45f9f003f162f1b",
+      "afterFingerprint": "e34c82d5c4bb67bb6d5cbcb22fa1cf18fc2c342ac35ab9f4e45f9f003f162f1b",
+      "unchanged": true
+    },
+    {
+      "name": "Elliptic pressure rib 06",
+      "pointer": 2165480675336,
+      "beforeFingerprint": "f3b7c9529c4969a485534bddeee97ea4830b6b186f53e46014434e2adc91e0fd",
+      "afterFingerprint": "f3b7c9529c4969a485534bddeee97ea4830b6b186f53e46014434e2adc91e0fd",
+      "unchanged": true
+    },
+    {
+      "name": "Shadow flange 06",
+      "pointer": 2165480679032,
+      "beforeFingerprint": "cd601cba025a3786a09cc677492056ec5e15af08a365a5586048fda8e5bbd711",
+      "afterFingerprint": "cd601cba025a3786a09cc677492056ec5e15af08a365a5586048fda8e5bbd711",
+      "unchanged": true
+    },
+    {
+      "name": "Low luminous rib reveal 06",
+      "pointer": 2165485300856,
+      "beforeFingerprint": "44c7f735d789d86ee05b8c2fcb81bca0948da5bc629f46faf0114d0b004a58a6",
+      "afterFingerprint": "44c7f735d789d86ee05b8c2fcb81bca0948da5bc629f46faf0114d0b004a58a6",
+      "unchanged": true
+    },
+    {
+      "name": "Anchored rib shoe 06 -1",
+      "pointer": 2165485302088,
+      "beforeFingerprint": "364e39146f4d6453b8e2e156b0608c7419ca0e5ed71693adf40ac88bc6bffe51",
+      "afterFingerprint": "364e39146f4d6453b8e2e156b0608c7419ca0e5ed71693adf40ac88bc6bffe51",
+      "unchanged": true
+    },
+    {
+      "name": "Anchored rib shoe 06 1",
+      "pointer": 2165485297160,
+      "beforeFingerprint": "0f29e64615a750951529a2b0b37a2ee893c43055885f477afa25140083bba7f6",
+      "afterFingerprint": "0f29e64615a750951529a2b0b37a2ee893c43055885f477afa25140083bba7f6",
+      "unchanged": true
+    },
+    {
+      "name": "Elliptic pressure rib 07",
+      "pointer": 2165485293464,
+      "beforeFingerprint": "415ab4ed28d4dd6fecad8c8136dfcee065dbfedab5f51df390318f1e51ba9e45",
+      "afterFingerprint": "415ab4ed28d4dd6fecad8c8136dfcee065dbfedab5f51df390318f1e51ba9e45",
+      "unchanged": true
+    },
+    {
+      "name": "Shadow flange 07",
+      "pointer": 2165485289768,
+      "beforeFingerprint": "b44510f39cc3a467b815a2be672b62bf37b19686fd1806e0a6ef1e7b6b10dd02",
+      "afterFingerprint": "b44510f39cc3a467b815a2be672b62bf37b19686fd1806e0a6ef1e7b6b10dd02",
+      "unchanged": true
+    },
+    {
+      "name": "Low luminous rib reveal 07",
+      "pointer": 2165485299624,
+      "beforeFingerprint": "20ea4d63783c1c77845c5d3291daf8a468814e8f6480374f5e3be68085774df1",
+      "afterFingerprint": "20ea4d63783c1c77845c5d3291daf8a468814e8f6480374f5e3be68085774df1",
+      "unchanged": true
+    },
+    {
+      "name": "Anchored rib shoe 07 -1",
+      "pointer": 2165485298392,
+      "beforeFingerprint": "2b803df23c3a552fe2c25c8d7f451655f3299c22fd79c497d8563f9ee5822fd2",
+      "afterFingerprint": "2b803df23c3a552fe2c25c8d7f451655f3299c22fd79c497d8563f9ee5822fd2",
+      "unchanged": true
+    },
+    {
+      "name": "Anchored rib shoe 07 1",
+      "pointer": 2165485303320,
+      "beforeFingerprint": "78500470138c6f6e54d71d42170bbff9f223bd8081e8a0b8e487e0f1944f6c94",
+      "afterFingerprint": "78500470138c6f6e54d71d42170bbff9f223bd8081e8a0b8e487e0f1944f6c94",
+      "unchanged": true
+    },
+    {
+      "name": "Optical canopy lamination 00.0",
+      "pointer": 2165485295928,
+      "beforeFingerprint": "1d2b77b7e2d885bd6e1c0ee55d2c1065af229452226eb8d77f402031190fd87f",
+      "afterFingerprint": "1d2b77b7e2d885bd6e1c0ee55d2c1065af229452226eb8d77f402031190fd87f",
+      "unchanged": true
+    },
+    {
+      "name": "Optical canopy lamination 00.1",
+      "pointer": 2165485304552,
+      "beforeFingerprint": "dae175c9da78ab27b40655637c747b429953b6e8bff8c2c6d097d447de84bac9",
+      "afterFingerprint": "dae175c9da78ab27b40655637c747b429953b6e8bff8c2c6d097d447de84bac9",
+      "unchanged": true
+    },
+    {
+      "name": "Optical canopy lamination 00.2",
+      "pointer": 2165485294696,
+      "beforeFingerprint": "5aba624e0fd6c1f5531a0c83587852729810ef61cc58818fc6d0168cd2bbc0ad",
+      "afterFingerprint": "5aba624e0fd6c1f5531a0c83587852729810ef61cc58818fc6d0168cd2bbc0ad",
+      "unchanged": true
+    },
+    {
+      "name": "Optical canopy lamination 00.3",
+      "pointer": 2165485305784,
+      "beforeFingerprint": "49f519425408e94188bad5a27c96c8776f9ef652a99c66bea97d55555e93e0a3",
+      "afterFingerprint": "49f519425408e94188bad5a27c96c8776f9ef652a99c66bea97d55555e93e0a3",
+      "unchanged": true
+    },
+    {
+      "name": "Optical canopy lamination 00.4",
+      "pointer": 2165485291000,
+      "beforeFingerprint": "58bc3d869b80bc90a8d468aa7cf250e288befd8c5ca17cc11afdb90667106d63",
+      "afterFingerprint": "58bc3d869b80bc90a8d468aa7cf250e288befd8c5ca17cc11afdb90667106d63",
+      "unchanged": true
+    },
+    {
+      "name": "Optical canopy lamination 00.5",
+      "pointer": 2165485314408,
+      "beforeFingerprint": "6fc8c942537e7789a9cc814ec5d3d29f0193e828f42e8956c3e515c5012284d5",
+      "afterFingerprint": "6fc8c942537e7789a9cc814ec5d3d29f0193e828f42e8956c3e515c5012284d5",
+      "unchanged": true
+    },
+    {
+      "name": "Optical canopy lamination 01.0",
+      "pointer": 2165485308248,
+      "beforeFingerprint": "42d0224c286cf580ab24e816f1729a4c1aefad76e707f43dbe787b58eba4d749",
+      "afterFingerprint": "42d0224c286cf580ab24e816f1729a4c1aefad76e707f43dbe787b58eba4d749",
+      "unchanged": true
+    },
+    {
+      "name": "Optical canopy lamination 01.1",
+      "pointer": 2165485310712,
+      "beforeFingerprint": "989b4baa8b1bc5cc6a2c5d814c5add5a412e7f612f0f076dc8d1ff06cf377c27",
+      "afterFingerprint": "989b4baa8b1bc5cc6a2c5d814c5add5a412e7f612f0f076dc8d1ff06cf377c27",
+      "unchanged": true
+    },
+    {
+      "name": "Optical canopy lamination 01.2",
+      "pointer": 2165485311944,
+      "beforeFingerprint": "19684407277459ed0cc97caa29cf3d58e7cc28f0f08e5e1acb57f52dd6923fde",
+      "afterFingerprint": "19684407277459ed0cc97caa29cf3d58e7cc28f0f08e5e1acb57f52dd6923fde",
+      "unchanged": true
+    },
+    {
+      "name": "Optical canopy lamination 01.3",
+      "pointer": 2165487338872,
+      "beforeFingerprint": "a3ec0cf1064786c1c700f0342bfd78c593549a187cc6a87dc989738015388788",
+      "afterFingerprint": "a3ec0cf1064786c1c700f0342bfd78c593549a187cc6a87dc989738015388788",
+      "unchanged": true
+    },
+    {
+      "name": "Optical canopy lamination 01.4",
+      "pointer": 2165487343800,
+      "beforeFingerprint": "746eba99fc55f88db6bc746685c4b05f760a55623afb8fa8503013417f0baa0d",
+      "afterFingerprint": "746eba99fc55f88db6bc746685c4b05f760a55623afb8fa8503013417f0baa0d",
+      "unchanged": true
+    },
+    {
+      "name": "Optical canopy lamination 01.5",
+      "pointer": 2165487340104,
+      "beforeFingerprint": "116bcb8921da91082e4c5872293fe940eef6c62d98900b5594800ed168bc4927",
+      "afterFingerprint": "116bcb8921da91082e4c5872293fe940eef6c62d98900b5594800ed168bc4927",
+      "unchanged": true
+    },
+    {
+      "name": "Optical canopy lamination 02.0",
+      "pointer": 2165487353656,
+      "beforeFingerprint": "65ff9e482906b3affddef53ee4a799686f90f0f5c9e6fdd60ea4fce4c342936f",
+      "afterFingerprint": "65ff9e482906b3affddef53ee4a799686f90f0f5c9e6fdd60ea4fce4c342936f",
+      "unchanged": true
+    },
+    {
+      "name": "Optical canopy lamination 02.1",
+      "pointer": 2165487348728,
+      "beforeFingerprint": "c6639f65f15a912753f5cd40a0f0204de39a23881268c76be6b462cf1fc308a9",
+      "afterFingerprint": "c6639f65f15a912753f5cd40a0f0204de39a23881268c76be6b462cf1fc308a9",
+      "unchanged": true
+    },
+    {
+      "name": "Optical canopy lamination 02.2",
+      "pointer": 2165485316872,
+      "beforeFingerprint": "bfd0c89ddef7ca90ccb0d76d508481b8395a40d0e5b32ef1b3123fe8d50b0449",
+      "afterFingerprint": "bfd0c89ddef7ca90ccb0d76d508481b8395a40d0e5b32ef1b3123fe8d50b0449",
+      "unchanged": true
+    },
+    {
+      "name": "Optical canopy lamination 02.3",
+      "pointer": 2165487341336,
+      "beforeFingerprint": "74790380d8291e0bd1263eb4da55e4305d25effb9cd8b749e8b59f68a3879c55",
+      "afterFingerprint": "74790380d8291e0bd1263eb4da55e4305d25effb9cd8b749e8b59f68a3879c55",
+      "unchanged": true
+    },
+    {
+      "name": "Optical canopy lamination 02.4",
+      "pointer": 2165487345032,
+      "beforeFingerprint": "0689b8a4165ec6c58e855ae84dde6bf44fe400eb7d93e632e65687cdcf6ed40a",
+      "afterFingerprint": "0689b8a4165ec6c58e855ae84dde6bf44fe400eb7d93e632e65687cdcf6ed40a",
+      "unchanged": true
+    },
+    {
+      "name": "Optical canopy lamination 02.5",
+      "pointer": 2165484263128,
+      "beforeFingerprint": "23f0ce424131a2fcceb392bf1ff3ddd7b3598e519baa8852248c7eb02be6a76b",
+      "afterFingerprint": "23f0ce424131a2fcceb392bf1ff3ddd7b3598e519baa8852248c7eb02be6a76b",
+      "unchanged": true
+    },
+    {
+      "name": "Optical canopy lamination 03.0",
+      "pointer": 2165484264360,
+      "beforeFingerprint": "04827237086b85310c409862a5d2344b2e7ce31cd4cab2c99ed5a6a498abb9fb",
+      "afterFingerprint": "04827237086b85310c409862a5d2344b2e7ce31cd4cab2c99ed5a6a498abb9fb",
+      "unchanged": true
+    },
+    {
+      "name": "Optical canopy lamination 03.1",
+      "pointer": 2165484255736,
+      "beforeFingerprint": "e6e6aafc9bc76957629935ead162af11d9549dca216613fc0ff6302816bc49aa",
+      "afterFingerprint": "e6e6aafc9bc76957629935ead162af11d9549dca216613fc0ff6302816bc49aa",
+      "unchanged": true
+    },
+    {
+      "name": "Optical canopy lamination 03.2",
+      "pointer": 2165484266824,
+      "beforeFingerprint": "51b909c70ad3a45c2601350579172f26391a8a774712e884b8a02574f0e60ca2",
+      "afterFingerprint": "51b909c70ad3a45c2601350579172f26391a8a774712e884b8a02574f0e60ca2",
+      "unchanged": true
+    },
+    {
+      "name": "Optical canopy lamination 03.3",
+      "pointer": 2165484256968,
+      "beforeFingerprint": "2226bb73a8625631508176ab52d71d6f4b180b4b1e3a746836e9c2a331deefec",
+      "afterFingerprint": "2226bb73a8625631508176ab52d71d6f4b180b4b1e3a746836e9c2a331deefec",
+      "unchanged": true
+    },
+    {
+      "name": "Optical canopy lamination 03.4",
+      "pointer": 2165487346264,
+      "beforeFingerprint": "3d53b946ba05963c3f261af74b6289a1e7c21c7bf249a7e5fa6372429002a626",
+      "afterFingerprint": "3d53b946ba05963c3f261af74b6289a1e7c21c7bf249a7e5fa6372429002a626",
+      "unchanged": true
+    },
+    {
+      "name": "Optical canopy lamination 03.5",
+      "pointer": 2165484258200,
+      "beforeFingerprint": "be79a6b6ad4b9bdbb58144e96681b6a5f2ab976b8c58a9b381046fe0c214219a",
+      "afterFingerprint": "be79a6b6ad4b9bdbb58144e96681b6a5f2ab976b8c58a9b381046fe0c214219a",
+      "unchanged": true
+    },
+    {
+      "name": "Optical canopy lamination 04.0",
+      "pointer": 2165484254504,
+      "beforeFingerprint": "adcdf08fc04311b84d3bf5426f38ec7147356724e4ea335bb96769580b4c57b9",
+      "afterFingerprint": "adcdf08fc04311b84d3bf5426f38ec7147356724e4ea335bb96769580b4c57b9",
+      "unchanged": true
+    },
+    {
+      "name": "Optical canopy lamination 04.1",
+      "pointer": 2165484261896,
+      "beforeFingerprint": "397c87cb95cb3a70d27f8acae43fe3c4d2c2930d04ea60b70b886e64bed10aa4",
+      "afterFingerprint": "397c87cb95cb3a70d27f8acae43fe3c4d2c2930d04ea60b70b886e64bed10aa4",
+      "unchanged": true
+    },
+    {
+      "name": "Optical canopy lamination 04.2",
+      "pointer": 2165488313160,
+      "beforeFingerprint": "2c09c94cd07099c45a62adf378b200065dc93bbaa4bde652bc82269081c1c609",
+      "afterFingerprint": "2c09c94cd07099c45a62adf378b200065dc93bbaa4bde652bc82269081c1c609",
+      "unchanged": true
+    },
+    {
+      "name": "Optical canopy lamination 04.3",
+      "pointer": 2165488309464,
+      "beforeFingerprint": "2bbd96d0d4afb878027225e610ca2b890245b66f11f303a6bb8f197e2b425472",
+      "afterFingerprint": "2bbd96d0d4afb878027225e610ca2b890245b66f11f303a6bb8f197e2b425472",
+      "unchanged": true
+    },
+    {
+      "name": "Optical canopy lamination 04.4",
+      "pointer": 2165488318088,
+      "beforeFingerprint": "b75edce3903cc9850bff461e4f8320c613e5f238185e6bca08167fdb7dd9dbae",
+      "afterFingerprint": "b75edce3903cc9850bff461e4f8320c613e5f238185e6bca08167fdb7dd9dbae",
+      "unchanged": true
+    },
+    {
+      "name": "Optical canopy lamination 04.5",
+      "pointer": 2165488311928,
+      "beforeFingerprint": "e1c20c4fad1214473b3625bc4575c2ae6a1e33e529b14888a8185bef8f005c94",
+      "afterFingerprint": "e1c20c4fad1214473b3625bc4575c2ae6a1e33e529b14888a8185bef8f005c94",
+      "unchanged": true
+    },
+    {
+      "name": "Optical canopy lamination 05.0",
+      "pointer": 2165488315624,
+      "beforeFingerprint": "c3529b4befad2dcdad2f77c74c156ca078a3ec09c23e8937cf122085f7dfc9cf",
+      "afterFingerprint": "c3529b4befad2dcdad2f77c74c156ca078a3ec09c23e8937cf122085f7dfc9cf",
+      "unchanged": true
+    },
+    {
+      "name": "Optical canopy lamination 05.1",
+      "pointer": 2165488303304,
+      "beforeFingerprint": "29c00f753811562aba4f7638d52f11259d5441553e16bf8eb15e91e480a2914a",
+      "afterFingerprint": "29c00f753811562aba4f7638d52f11259d5441553e16bf8eb15e91e480a2914a",
+      "unchanged": true
+    },
+    {
+      "name": "Optical canopy lamination 05.2",
+      "pointer": 2165488307000,
+      "beforeFingerprint": "b561a1783eef04f4bed5991cb5ca4aa65b1b6417f6729887e8ceb0ddaa54f639",
+      "afterFingerprint": "b561a1783eef04f4bed5991cb5ca4aa65b1b6417f6729887e8ceb0ddaa54f639",
+      "unchanged": true
+    },
+    {
+      "name": "Optical canopy lamination 05.3",
+      "pointer": 2165488316856,
+      "beforeFingerprint": "0b0847f557eaabb45eb5652f5d99038f4880193a84ae08f1f87f9e2cd00a8740",
+      "afterFingerprint": "0b0847f557eaabb45eb5652f5d99038f4880193a84ae08f1f87f9e2cd00a8740",
+      "unchanged": true
+    },
+    {
+      "name": "Optical canopy lamination 05.4",
+      "pointer": 2165488304536,
+      "beforeFingerprint": "f86e31dc01a0709a3bd6ffb92e2d6390aaf08f119a9f9294a2e7893efec44ac0",
+      "afterFingerprint": "f86e31dc01a0709a3bd6ffb92e2d6390aaf08f119a9f9294a2e7893efec44ac0",
+      "unchanged": true
+    },
+    {
+      "name": "Optical canopy lamination 05.5",
+      "pointer": 2165488327944,
+      "beforeFingerprint": "49b0b9306c3073efda5ef8d9c79e3057e7bb155f3db0e1399769c3552589f9e5",
+      "afterFingerprint": "49b0b9306c3073efda5ef8d9c79e3057e7bb155f3db0e1399769c3552589f9e5",
+      "unchanged": true
+    },
+    {
+      "name": "Optical canopy lamination 06.0",
+      "pointer": 2165488331640,
+      "beforeFingerprint": "1d1a3a8413fd3d8ea872bd2222de3d6885a07640b9ac08b110f61ce063e11cd8",
+      "afterFingerprint": "1d1a3a8413fd3d8ea872bd2222de3d6885a07640b9ac08b110f61ce063e11cd8",
+      "unchanged": true
+    },
+    {
+      "name": "Optical canopy lamination 06.1",
+      "pointer": 2165488320552,
+      "beforeFingerprint": "c8f4aa1c1d4f175e4d81047ea77253d4b53743a8dd2a71c5c270e92c42f3c064",
+      "afterFingerprint": "c8f4aa1c1d4f175e4d81047ea77253d4b53743a8dd2a71c5c270e92c42f3c064",
+      "unchanged": true
+    },
+    {
+      "name": "Optical canopy lamination 06.2",
+      "pointer": 2165488329176,
+      "beforeFingerprint": "03fa82e8b5f41be1c2167aaca18787087ab885422d87afc51af6dc31ab5fbb8e",
+      "afterFingerprint": "03fa82e8b5f41be1c2167aaca18787087ab885422d87afc51af6dc31ab5fbb8e",
+      "unchanged": true
+    },
+    {
+      "name": "Optical canopy lamination 06.3",
+      "pointer": 2165488326712,
+      "beforeFingerprint": "92cf82c19a0f7c49a3a9c8614b693100093128a8ec2d58e91a6b5c4273aec797",
+      "afterFingerprint": "92cf82c19a0f7c49a3a9c8614b693100093128a8ec2d58e91a6b5c4273aec797",
+      "unchanged": true
+    },
+    {
+      "name": "Optical canopy lamination 06.4",
+      "pointer": 2165488324248,
+      "beforeFingerprint": "9795319d6300dafedb3022506a6f993d7d1b9c4b930ade4fd5e099b086f064d1",
+      "afterFingerprint": "9795319d6300dafedb3022506a6f993d7d1b9c4b930ade4fd5e099b086f064d1",
+      "unchanged": true
+    },
+    {
+      "name": "Optical canopy lamination 06.5",
+      "pointer": 2165488797416,
+      "beforeFingerprint": "a090f28cbf20df333648be4ff009f706522d18f35d4689ecd13079710048ac12",
+      "afterFingerprint": "a090f28cbf20df333648be4ff009f706522d18f35d4689ecd13079710048ac12",
+      "unchanged": true
+    },
+    {
+      "name": "Low pressure coaming -1",
+      "pointer": 2165488802344,
+      "beforeFingerprint": "06643d11a801aa09d7c2dc1ab96b1fba02a6dcf3b71754f71091f027686b8b91",
+      "afterFingerprint": "06643d11a801aa09d7c2dc1ab96b1fba02a6dcf3b71754f71091f027686b8b91",
+      "unchanged": true
+    },
+    {
+      "name": "Low pressure coaming 1",
+      "pointer": 2165488790024,
+      "beforeFingerprint": "d7100f1170232a08d4c593c7172c9870c3a907b709dc3973d054876d0e68311a",
+      "afterFingerprint": "d7100f1170232a08d4c593c7172c9870c3a907b709dc3973d054876d0e68311a",
+      "unchanged": true
+    },
+    {
+      "name": "Observation pressure frame",
+      "pointer": 2165488787560,
+      "beforeFingerprint": "2474cd58ff7e40788118befb0a679704e67ab3d4180388906404a4e5a10662ac",
+      "afterFingerprint": "2474cd58ff7e40788118befb0a679704e67ab3d4180388906404a4e5a10662ac",
+      "unchanged": true
+    },
+    {
+      "name": "Observation recessed optical reveal",
+      "pointer": 2165488793720,
+      "beforeFingerprint": "6c23b05710eba906ce8e0e91f8c3d1d0cdb586ef2391ef9b69ef51c4797c1d08",
+      "afterFingerprint": "6c23b05710eba906ce8e0e91f8c3d1d0cdb586ef2391ef9b69ef51c4797c1d08",
+      "unchanged": true
+    },
+    {
+      "name": "Observation polished internal lip",
+      "pointer": 2165488792488,
+      "beforeFingerprint": "2508e409074335a646f1b0a6c5b2647cfbef2ae17b2d49f4108ff77f862fd427",
+      "afterFingerprint": "2508e409074335a646f1b0a6c5b2647cfbef2ae17b2d49f4108ff77f862fd427",
+      "unchanged": true
+    },
+    {
+      "name": "Observation cool luminous perimeter",
+      "pointer": 2165488794952,
+      "beforeFingerprint": "932d9337d00b569ab3b1633aa0637fb1c489fda1e5f9d2fcb732e07d18ce5380",
+      "afterFingerprint": "932d9337d00b569ab3b1633aa0637fb1c489fda1e5f9d2fcb732e07d18ce5380",
+      "unchanged": true
+    },
+    {
+      "name": "Observation laminated pane",
+      "pointer": 2165488796184,
+      "beforeFingerprint": "1fc5c6eb47b41fc85b31258cd1527a5ef5bcc78065dae330dec2b22f9789ea26",
+      "afterFingerprint": "1fc5c6eb47b41fc85b31258cd1527a5ef5bcc78065dae330dec2b22f9789ea26",
+      "unchanged": true
+    },
+    {
+      "name": "Observation threshold",
+      "pointer": 2165488799880,
+      "beforeFingerprint": "1e37976fee34ed9370da4466c3459da1f24328b14c7766972a46c387ab5e5aa3",
+      "afterFingerprint": "1e37976fee34ed9370da4466c3459da1f24328b14c7766972a46c387ab5e5aa3",
+      "unchanged": true
+    },
+    {
+      "name": "Observation hand rail -1",
+      "pointer": 2165488803576,
+      "beforeFingerprint": "45482b528fea67c159c17a86ac3def24b2f55d6c5a3c1a01953cc28cf1ba5171",
+      "afterFingerprint": "45482b528fea67c159c17a86ac3def24b2f55d6c5a3c1a01953cc28cf1ba5171",
+      "unchanged": true
+    },
+    {
+      "name": "Observation touchglass -1",
+      "pointer": 2165488801112,
+      "beforeFingerprint": "b2687c8e554402c1a9d9eeabd5edde3ffb24045edb60f6c1ba00f9bc5e46f55c",
+      "afterFingerprint": "b2687c8e554402c1a9d9eeabd5edde3ffb24045edb60f6c1ba00f9bc5e46f55c",
+      "unchanged": true
+    },
+    {
+      "name": "Observation hand rail 1",
+      "pointer": 2165488788792,
+      "beforeFingerprint": "1c9333c2ac9f4d4e403408768ab1640702b7b3416a009230c19934ed98d9efc6",
+      "afterFingerprint": "1c9333c2ac9f4d4e403408768ab1640702b7b3416a009230c19934ed98d9efc6",
+      "unchanged": true
+    },
+    {
+      "name": "Observation touchglass 1",
+      "pointer": 2165488804808,
+      "beforeFingerprint": "9144b7b3fd6f3b13c6d40bad78a46c224ff597cda1009d085525318b992a95ba",
+      "afterFingerprint": "9144b7b3fd6f3b13c6d40bad78a46c224ff597cda1009d085525318b992a95ba",
+      "unchanged": true
+    },
+    {
+      "name": "LC light cell / engine",
+      "pointer": 2165488806040,
+      "beforeFingerprint": "68762ad88ebabe04571a68540d5a9d2ad4d6965b313a648865f8128ee7b25d40",
+      "afterFingerprint": "68762ad88ebabe04571a68540d5a9d2ad4d6965b313a648865f8128ee7b25d40",
+      "unchanged": true
+    },
+    {
+      "name": "LC cell wash / engine.002",
+      "pointer": 2165488791256,
+      "beforeFingerprint": "f6110b8f4e2d15f5470e4e8ef44bc7c301ddb6b6536f286011be45ca84073a4e",
+      "afterFingerprint": "f6110b8f4e2d15f5470e4e8ef44bc7c301ddb6b6536f286011be45ca84073a4e",
+      "unchanged": true
+    },
+    {
+      "name": "LC engine / front chromatic field",
+      "pointer": 2165488822056,
+      "beforeFingerprint": "88f1457deef0296b2b37f04038b7d7130375bbe5d478cbf9783125a608d7da53",
+      "afterFingerprint": "88f1457deef0296b2b37f04038b7d7130375bbe5d478cbf9783125a608d7da53",
+      "unchanged": true
+    },
+    {
+      "name": "LC engine / inner phosphor lip",
+      "pointer": 2165488814664,
+      "beforeFingerprint": "ce8349adb67eaf5f02b1b05a040daacbd3cf4e5f472748e0249c13e045085a42",
+      "afterFingerprint": "ce8349adb67eaf5f02b1b05a040daacbd3cf4e5f472748e0249c13e045085a42",
+      "unchanged": true
+    },
+    {
+      "name": "LC engine / monolithic outer shell",
+      "pointer": 2165488810968,
+      "beforeFingerprint": "c1282a7b692376ce7fed84244f395cac8efac01a1b2d292188ea295b23b71144",
+      "afterFingerprint": "c1282a7b692376ce7fed84244f395cac8efac01a1b2d292188ea295b23b71144",
+      "unchanged": true
+    },
+    {
+      "name": "LC engine / rear phosphor lip",
+      "pointer": 2165488808504,
+      "beforeFingerprint": "0488b1d07f5534e635b49a0fe46d4170bf265d0b77d5dba6c7c973ba87fa5042",
+      "afterFingerprint": "0488b1d07f5534e635b49a0fe46d4170bf265d0b77d5dba6c7c973ba87fa5042",
+      "unchanged": true
+    },
+    {
+      "name": "LC engine / reverse chromatic field",
+      "pointer": 2165488819592,
+      "beforeFingerprint": "196a9e3f2fa194b7b3911411b2af2ffcd4b70d2f89d93c59838d08c62789cfb9",
+      "afterFingerprint": "196a9e3f2fa194b7b3911411b2af2ffcd4b70d2f89d93c59838d08c62789cfb9",
+      "unchanged": true
+    },
+    {
+      "name": "LC isometric / coral rhombus",
+      "pointer": 2165488818360,
+      "beforeFingerprint": "3cb9eb8f81b510a8fb042d579854ae0b3b8d2aad43d05108dc9d0d495ae2f643",
+      "afterFingerprint": "3cb9eb8f81b510a8fb042d579854ae0b3b8d2aad43d05108dc9d0d495ae2f643",
+      "unchanged": true
+    },
+    {
+      "name": "LC isometric / coral rhombus.001",
+      "pointer": 2165488817128,
+      "beforeFingerprint": "93b25043bdaddd20f5e65f8b602510a50d80ad014ae1098bc22d2f18acd9fdec",
+      "afterFingerprint": "93b25043bdaddd20f5e65f8b602510a50d80ad014ae1098bc22d2f18acd9fdec",
+      "unchanged": true
+    },
+    {
+      "name": "LC isometric / coral rhombus.002",
+      "pointer": 2165488820824,
+      "beforeFingerprint": "1dde206ef47404fcceddb967366c08d1a118730b04c0322e5e277ee5ee5fb872",
+      "afterFingerprint": "1dde206ef47404fcceddb967366c08d1a118730b04c0322e5e277ee5ee5fb872",
+      "unchanged": true
+    },
+    {
+      "name": "LC isometric / coral rhombus.003",
+      "pointer": 2165488807272,
+      "beforeFingerprint": "bf605d5aec7056188470630dd32e9dffb1480018de6204a8915ac3896a6cd7e2",
+      "afterFingerprint": "bf605d5aec7056188470630dd32e9dffb1480018de6204a8915ac3896a6cd7e2",
+      "unchanged": true
+    },
+    {
+      "name": "LC isometric / coral rhombus.004",
+      "pointer": 2165488823288,
+      "beforeFingerprint": "cfe774464134903231729f167dbdb3e7e46ca62110e1c157bf404387be0a1f0e",
+      "afterFingerprint": "cfe774464134903231729f167dbdb3e7e46ca62110e1c157bf404387be0a1f0e",
+      "unchanged": true
+    },
+    {
+      "name": "LC isometric / coral rhombus.005",
+      "pointer": 2165488824520,
+      "beforeFingerprint": "69a6fd35c10a4693fbe24e2c8a5a0f8e68a7754509cf5fce9d117d6ab9b8f77a",
+      "afterFingerprint": "69a6fd35c10a4693fbe24e2c8a5a0f8e68a7754509cf5fce9d117d6ab9b8f77a",
+      "unchanged": true
+    },
+    {
+      "name": "LC isometric / coral rhombus.006",
+      "pointer": 2165488809736,
+      "beforeFingerprint": "73259ca2fc7c5956a6f2d27336ee622e3daf2f84213c7fbe3f9df1a70fe04820",
+      "afterFingerprint": "73259ca2fc7c5956a6f2d27336ee622e3daf2f84213c7fbe3f9df1a70fe04820",
+      "unchanged": true
+    },
+    {
+      "name": "LC isometric / coral rhombus.007",
+      "pointer": 2165488815896,
+      "beforeFingerprint": "5d566deb0218777df6bb655f7a66c638c2fc0947581a3fd07db39d8d43496d6a",
+      "afterFingerprint": "5d566deb0218777df6bb655f7a66c638c2fc0947581a3fd07db39d8d43496d6a",
+      "unchanged": true
+    },
+    {
+      "name": "LC isometric / faceted block",
+      "pointer": 2165488825752,
+      "beforeFingerprint": "e56026df20cea8e2cc553804fd5255b6dff4ba59859ab92d839d794b882cdbba",
+      "afterFingerprint": "e56026df20cea8e2cc553804fd5255b6dff4ba59859ab92d839d794b882cdbba",
+      "unchanged": true
+    },
+    {
+      "name": "LC isometric / faceted block.001",
+      "pointer": 2165488826984,
+      "beforeFingerprint": "dd84644f355f4f45798eca8d54cf634d6b8610167e2775b1ab544340ca243609",
+      "afterFingerprint": "dd84644f355f4f45798eca8d54cf634d6b8610167e2775b1ab544340ca243609",
+      "unchanged": true
+    },
+    {
+      "name": "LC isometric / faceted block.002",
+      "pointer": 2165488812200,
+      "beforeFingerprint": "42aed2f600d39c3593c393c3418427933a26b9ade573b8e54f38e8eda6ea6a0d",
+      "afterFingerprint": "42aed2f600d39c3593c393c3418427933a26b9ade573b8e54f38e8eda6ea6a0d",
+      "unchanged": true
+    },
+    {
+      "name": "LC isometric / faceted block.003",
+      "pointer": 2165488828216,
+      "beforeFingerprint": "c63c7c75803851d7d9d32d326fa873de5a0080478b5687fa9e193799b5a63226",
+      "afterFingerprint": "c63c7c75803851d7d9d32d326fa873de5a0080478b5687fa9e193799b5a63226",
+      "unchanged": true
+    },
+    {
+      "name": "LC isometric / faceted block.004",
+      "pointer": 2165488813432,
+      "beforeFingerprint": "f9e11b633208d6e866711ce46451968fb8c35ba2af7dd4e362c8376ad00e59bc",
+      "afterFingerprint": "f9e11b633208d6e866711ce46451968fb8c35ba2af7dd4e362c8376ad00e59bc",
+      "unchanged": true
+    },
+    {
+      "name": "LC isometric / faceted block.005",
+      "pointer": 2165488831912,
+      "beforeFingerprint": "d6d0ade632003bfd98219321b8a76a1786bb185a4cf51d1a9ba03995c71b49cd",
+      "afterFingerprint": "d6d0ade632003bfd98219321b8a76a1786bb185a4cf51d1a9ba03995c71b49cd",
+      "unchanged": true
+    },
+    {
+      "name": "LC isometric / faceted block.006",
+      "pointer": 2165488835608,
+      "beforeFingerprint": "e092757c69e962244012fe7f8ea813cbbe256238f07cf8760895591d626a499e",
+      "afterFingerprint": "e092757c69e962244012fe7f8ea813cbbe256238f07cf8760895591d626a499e",
+      "unchanged": true
+    },
+    {
+      "name": "LC isometric / faceted block.007",
+      "pointer": 2165488843000,
+      "beforeFingerprint": "d91c1cbe394442ae70c82a10bd8e8b05714f276e0def287a67a16f1ecf8033e2",
+      "afterFingerprint": "d91c1cbe394442ae70c82a10bd8e8b05714f276e0def287a67a16f1ecf8033e2",
+      "unchanged": true
+    },
+    {
+      "name": "LC legend / CUBE UNIVERSE.002",
+      "pointer": 2165488833144,
+      "beforeFingerprint": "9e89959e9140ef5b74e616f33a285401d7897e559a447c30dee7afa1773af4b4",
+      "afterFingerprint": "9e89959e9140ef5b74e616f33a285401d7897e559a447c30dee7afa1773af4b4",
+      "unchanged": true
+    },
+    {
+      "name": "LC legend / CUBE UNIVERSE.003",
+      "pointer": 2165488836840,
+      "beforeFingerprint": "ea3d62a9c3bc23a24a56eea5ff3ab8574368041813536ab648311db5b1dba0fb",
+      "afterFingerprint": "ea3d62a9c3bc23a24a56eea5ff3ab8574368041813536ab648311db5b1dba0fb",
+      "unchanged": true
+    },
+    {
+      "name": "LC light cell / memory",
+      "pointer": 2165488841768,
+      "beforeFingerprint": "0b4fa2d25474163f2635549fe35f95514c22d0f1bd7352166797eeaf7c727e35",
+      "afterFingerprint": "0b4fa2d25474163f2635549fe35f95514c22d0f1bd7352166797eeaf7c727e35",
+      "unchanged": true
+    },
+    {
+      "name": "LC archive / luminous reveal 0",
+      "pointer": 2165488834376,
+      "beforeFingerprint": "3c680c2ac76c973b01fac0788e5575ddf90faf74ba4837b6e7fdce3b968ae653",
+      "afterFingerprint": "3c680c2ac76c973b01fac0788e5575ddf90faf74ba4837b6e7fdce3b968ae653",
+      "unchanged": true
+    },
+    {
+      "name": "LC archive / luminous reveal 1",
+      "pointer": 2165488830680,
+      "beforeFingerprint": "494326cac49579ebf17712ebffc06296410b520baec018ffd5bcd5c120d6a929",
+      "afterFingerprint": "494326cac49579ebf17712ebffc06296410b520baec018ffd5bcd5c120d6a929",
+      "unchanged": true
+    },
+    {
+      "name": "LC archive / luminous reveal 2",
+      "pointer": 2165488839304,
+      "beforeFingerprint": "e879b3f4b5e1acb07513031f2b27873b598ba9be03078f411b5a86c750216593",
+      "afterFingerprint": "e879b3f4b5e1acb07513031f2b27873b598ba9be03078f411b5a86c750216593",
+      "unchanged": true
+    },
+    {
+      "name": "LC cell wash / memory.002",
+      "pointer": 2165488844232,
+      "beforeFingerprint": "2571b35d2f71161ab8fbb1ddb55dc59a9c071aa8739b8ef1e19c86796bc6f355",
+      "afterFingerprint": "2571b35d2f71161ab8fbb1ddb55dc59a9c071aa8739b8ef1e19c86796bc6f355",
+      "unchanged": true
+    },
+    {
+      "name": "LC legend / MEMORY PALACE.002",
+      "pointer": 2165488838072,
+      "beforeFingerprint": "10a726f01d59f560fbcaeb3da2a87d60f867df422cc8096f2d59a3a4e365d600",
+      "afterFingerprint": "10a726f01d59f560fbcaeb3da2a87d60f867df422cc8096f2d59a3a4e365d600",
+      "unchanged": true
+    },
+    {
+      "name": "LC legend / MEMORY PALACE.003",
+      "pointer": 2165488840536,
+      "beforeFingerprint": "d248f8ccc46db19e51d8303369736e954c0f30f40f63c8e58e5fca657b8e132d",
+      "afterFingerprint": "d248f8ccc46db19e51d8303369736e954c0f30f40f63c8e58e5fca657b8e132d",
+      "unchanged": true
+    },
+    {
+      "name": "LC memory / front chromatic field",
+      "pointer": 2165488829448,
+      "beforeFingerprint": "32c91f14bdd79467c904e3704b6ad17e9b79c55ec7119456115b87046df80dfe",
+      "afterFingerprint": "32c91f14bdd79467c904e3704b6ad17e9b79c55ec7119456115b87046df80dfe",
+      "unchanged": true
+    },
+    {
+      "name": "LC memory / inner phosphor lip",
+      "pointer": 2165488851624,
+      "beforeFingerprint": "33048ca318e2f56af6f445e646831402fae8496633c7cfe3c57cbffeb627b8fb",
+      "afterFingerprint": "33048ca318e2f56af6f445e646831402fae8496633c7cfe3c57cbffeb627b8fb",
+      "unchanged": true
+    },
+    {
+      "name": "LC memory / monolithic outer shell",
+      "pointer": 2165488845464,
+      "beforeFingerprint": "bb7579446baf6808c19a266b5f72c56af7e3c75ea45ec17862db881a0b873938",
+      "afterFingerprint": "bb7579446baf6808c19a266b5f72c56af7e3c75ea45ec17862db881a0b873938",
+      "unchanged": true
+    },
+    {
+      "name": "LC memory / rear phosphor lip",
+      "pointer": 2165488847928,
+      "beforeFingerprint": "0baf32e135223ae2bea54a8db53c8bc449ad39755b9091eb138bc64b53360ac1",
+      "afterFingerprint": "0baf32e135223ae2bea54a8db53c8bc449ad39755b9091eb138bc64b53360ac1",
+      "unchanged": true
+    },
+    {
+      "name": "LC memory / reverse chromatic field",
+      "pointer": 2165488846696,
+      "beforeFingerprint": "36e3310c03c225ab845614151b9868d3212e3f2cc740d86b2ed810b8117baca0",
+      "afterFingerprint": "36e3310c03c225ab845614151b9868d3212e3f2cc740d86b2ed810b8117baca0",
+      "unchanged": true
+    },
+    {
+      "name": "LC light cell / play",
+      "pointer": 2165488849160,
+      "beforeFingerprint": "fd769419148d05c7374462ad9d1a0c1c246aab56280fdc57c46c04c569e7b778",
+      "afterFingerprint": "fd769419148d05c7374462ad9d1a0c1c246aab56280fdc57c46c04c569e7b778",
+      "unchanged": true
+    },
+    {
+      "name": "LC cell wash / play.002",
+      "pointer": 2165488850392,
+      "beforeFingerprint": "dc7e64f12efc1f7530d454c3000c453d835ea9e066336c4d7cbcadbb0a64d9ad",
+      "afterFingerprint": "dc7e64f12efc1f7530d454c3000c453d835ea9e066336c4d7cbcadbb0a64d9ad",
+      "unchanged": true
+    },
+    {
+      "name": "LC legend / XR PLAYGROUND.003",
+      "pointer": 2165488332872,
+      "beforeFingerprint": "27cb888e3c7c3733f2fb545d0b4ba61fed1d19957b50ef5c0d31d332ed2898f9",
+      "afterFingerprint": "27cb888e3c7c3733f2fb545d0b4ba61fed1d19957b50ef5c0d31d332ed2898f9",
+      "unchanged": true
+    },
+    {
+      "name": "LC legend / XR PLAYGROUND.004",
+      "pointer": 2165488325480,
+      "beforeFingerprint": "7bbb543de8810006d1d16b02bf9586596b98041b59d775e277514bab23bb5d71",
+      "afterFingerprint": "7bbb543de8810006d1d16b02bf9586596b98041b59d775e277514bab23bb5d71",
+      "unchanged": true
+    },
+    {
+      "name": "LC play / front chromatic field",
+      "pointer": 2165494364696,
+      "beforeFingerprint": "5bd03c77dd86a8509fc61fbb2b336c588a5b105fc49bacaa1aff1277a2646ffc",
+      "afterFingerprint": "5bd03c77dd86a8509fc61fbb2b336c588a5b105fc49bacaa1aff1277a2646ffc",
+      "unchanged": true
+    },
+    {
+      "name": "LC play / inner phosphor lip",
+      "pointer": 2165494373320,
+      "beforeFingerprint": "dbadd31d83d6fc2214bc3b32a0b1e7f09069f346342aba25d34f92184c2fe628",
+      "afterFingerprint": "dbadd31d83d6fc2214bc3b32a0b1e7f09069f346342aba25d34f92184c2fe628",
+      "unchanged": true
+    },
+    {
+      "name": "LC play / monolithic outer shell",
+      "pointer": 2165494363464,
+      "beforeFingerprint": "cf99023fcd1d712a0b6d8a8078978d8443fd44358b8550fe0ebf1b99e8cf3a4e",
+      "afterFingerprint": "cf99023fcd1d712a0b6d8a8078978d8443fd44358b8550fe0ebf1b99e8cf3a4e",
+      "unchanged": true
+    },
+    {
+      "name": "LC play / rear phosphor lip",
+      "pointer": 2165494374552,
+      "beforeFingerprint": "1fe1bbd504185157e6f751c8fee6306906493214acfa021694e32961fde1bb58",
+      "afterFingerprint": "1fe1bbd504185157e6f751c8fee6306906493214acfa021694e32961fde1bb58",
+      "unchanged": true
+    },
+    {
+      "name": "LC play / reverse chromatic field",
+      "pointer": 2165494362232,
+      "beforeFingerprint": "8a295e4c5bdbb79936896f6b87c6d44bca4c0e7b4921fef2bccafc9f8c1131d7",
+      "afterFingerprint": "8a295e4c5bdbb79936896f6b87c6d44bca4c0e7b4921fef2bccafc9f8c1131d7",
+      "unchanged": true
+    },
+    {
+      "name": "LC XR / floating aperture facet",
+      "pointer": 2165494378248,
+      "beforeFingerprint": "d6d9d33df06a6ef28808cfd3ee8c2023446dc0d248f414b139fc365a9ac670f2",
+      "afterFingerprint": "d6d9d33df06a6ef28808cfd3ee8c2023446dc0d248f414b139fc365a9ac670f2",
+      "unchanged": true
+    },
+    {
+      "name": "LC XR / floating aperture facet.001",
+      "pointer": 2165494379480,
+      "beforeFingerprint": "babbd894dd86bbfb8a4b440d25d447a56d02e2d5ac7c8b78905a5fbea168baff",
+      "afterFingerprint": "babbd894dd86bbfb8a4b440d25d447a56d02e2d5ac7c8b78905a5fbea168baff",
+      "unchanged": true
+    },
+    {
+      "name": "LC XR / floating aperture facet.002",
+      "pointer": 2165494380712,
+      "beforeFingerprint": "4800240af16f3e794339636166c8b709387a5d9fce208b905bfd1a02ae364ac9",
+      "afterFingerprint": "4800240af16f3e794339636166c8b709387a5d9fce208b905bfd1a02ae364ac9",
+      "unchanged": true
+    },
+    {
+      "name": "LC XR / floating aperture facet.003",
+      "pointer": 2165494375784,
+      "beforeFingerprint": "6d6e41274368b10fec96c27a0aef60fbc65f5343067d9836e4b04d94fc8dc690",
+      "afterFingerprint": "6d6e41274368b10fec96c27a0aef60fbc65f5343067d9836e4b04d94fc8dc690",
+      "unchanged": true
+    },
+    {
+      "name": "LC XR / floating aperture facet.004",
+      "pointer": 2165494377016,
+      "beforeFingerprint": "ea473acbe43ae7d0c61ac19b75babf57924c71ec06e1d186c3fcd16502d900c5",
+      "afterFingerprint": "ea473acbe43ae7d0c61ac19b75babf57924c71ec06e1d186c3fcd16502d900c5",
+      "unchanged": true
+    },
+    {
+      "name": "LC XR / floating aperture facet.005",
+      "pointer": 2165494370856,
+      "beforeFingerprint": "ced241d4ec2937cadaa292a2b99d4aae76d7e45c4ba46c760317c8ef3ed9609b",
+      "afterFingerprint": "ced241d4ec2937cadaa292a2b99d4aae76d7e45c4ba46c760317c8ef3ed9609b",
+      "unchanged": true
+    },
+    {
+      "name": "LC XR / floating aperture facet.006",
+      "pointer": 2165494365928,
+      "beforeFingerprint": "afa9663fd8f1da81400aabd0093b4ce4e929278e94b95a94b696b66e59fafff5",
+      "afterFingerprint": "afa9663fd8f1da81400aabd0093b4ce4e929278e94b95a94b696b66e59fafff5",
+      "unchanged": true
+    },
+    {
+      "name": "LC XR / floating aperture facet.007",
+      "pointer": 2165494381944,
+      "beforeFingerprint": "e3b0ee5c569a84b146610ad9a254defe33c9b7a7bc21a6cc924bfa4aa92861e4",
+      "afterFingerprint": "e3b0ee5c569a84b146610ad9a254defe33c9b7a7bc21a6cc924bfa4aa92861e4",
+      "unchanged": true
+    },
+    {
+      "name": "LC XR / floating aperture facet.008",
+      "pointer": 2165494367160,
+      "beforeFingerprint": "12e8154fa1973ab2f720c327126403fbdd87d7f0b8a3e9d0f1fbfa1cd07fe0e7",
+      "afterFingerprint": "12e8154fa1973ab2f720c327126403fbdd87d7f0b8a3e9d0f1fbfa1cd07fe0e7",
+      "unchanged": true
+    },
+    {
+      "name": "LC XR / floating aperture facet.009",
+      "pointer": 2165494383176,
+      "beforeFingerprint": "d4a09f7a20873853fd6ed67b5cbb8db3ff579d1f1e327832b22b7e0e5aa54610",
+      "afterFingerprint": "d4a09f7a20873853fd6ed67b5cbb8db3ff579d1f1e327832b22b7e0e5aa54610",
+      "unchanged": true
+    },
+    {
+      "name": "LC XR / icy inset",
+      "pointer": 2165494368392,
+      "beforeFingerprint": "a637cd4dfd0d49b8e03c2965f9c0f46b537e944d520ef764a646aa37466205b6",
+      "afterFingerprint": "a637cd4dfd0d49b8e03c2965f9c0f46b537e944d520ef764a646aa37466205b6",
+      "unchanged": true
+    },
+    {
+      "name": "LC XR / icy inset.001",
+      "pointer": 2165494384408,
+      "beforeFingerprint": "cbc8922f9101e594f9733c5f4affc3e2771dd2bf842b3ba274b02c597067e458",
+      "afterFingerprint": "cbc8922f9101e594f9733c5f4affc3e2771dd2bf842b3ba274b02c597067e458",
+      "unchanged": true
+    },
+    {
+      "name": "LC XR / icy inset.002",
+      "pointer": 2165494369624,
+      "beforeFingerprint": "b8fdd77875b630473ea3f10ac0b2d786e5c28cc68862579d0b85aa2993b34880",
+      "afterFingerprint": "b8fdd77875b630473ea3f10ac0b2d786e5c28cc68862579d0b85aa2993b34880",
+      "unchanged": true
+    },
+    {
+      "name": "LC XR / icy inset.003",
+      "pointer": 2165494385640,
+      "beforeFingerprint": "3b9fab8dda3ec38ccc6cbb54af00da9e7d35bec7acbf67c17b61ff06ea8ee908",
+      "afterFingerprint": "3b9fab8dda3ec38ccc6cbb54af00da9e7d35bec7acbf67c17b61ff06ea8ee908",
+      "unchanged": true
+    },
+    {
+      "name": "LC XR / icy inset.004",
+      "pointer": 2165494386872,
+      "beforeFingerprint": "3ddb757f60a1a90edd095e13cf95cfb00482835c20302d3949e16c5219bfabbe",
+      "afterFingerprint": "3ddb757f60a1a90edd095e13cf95cfb00482835c20302d3949e16c5219bfabbe",
+      "unchanged": true
+    },
+    {
+      "name": "LC XR / icy inset.005",
+      "pointer": 2165494372088,
+      "beforeFingerprint": "7b5934e22334c98105be299fda43b1ff5b348838c6a87f2ed76b8ed5a8dbe073",
+      "afterFingerprint": "7b5934e22334c98105be299fda43b1ff5b348838c6a87f2ed76b8ed5a8dbe073",
+      "unchanged": true
+    },
+    {
+      "name": "LC XR / icy inset.006",
+      "pointer": 2165494389336,
+      "beforeFingerprint": "94bb63a53a8708779ab0437364d8e593983158cb399dd94019173418fd4c8dfd",
+      "afterFingerprint": "94bb63a53a8708779ab0437364d8e593983158cb399dd94019173418fd4c8dfd",
+      "unchanged": true
+    },
+    {
+      "name": "LC XR / icy inset.007",
+      "pointer": 2165494391800,
+      "beforeFingerprint": "9427012a2cdedaaa2aec328a5ffc277682b4f568f98b70fa382bb88d690ce73e",
+      "afterFingerprint": "9427012a2cdedaaa2aec328a5ffc277682b4f568f98b70fa382bb88d690ce73e",
+      "unchanged": true
+    },
+    {
+      "name": "LC XR / icy inset.008",
+      "pointer": 2165494388104,
+      "beforeFingerprint": "39c05baf04f55093eb655e3ad53e883ec3d3cae4361d44a9e07e53e9ceae0650",
+      "afterFingerprint": "39c05baf04f55093eb655e3ad53e883ec3d3cae4361d44a9e07e53e9ceae0650",
+      "unchanged": true
+    },
+    {
+      "name": "LC XR / icy inset.009",
+      "pointer": 2165494393032,
+      "beforeFingerprint": "4a277b83dd4b788de56fe6e3535500b50910254e1208e04cd74774e5987b317e",
+      "afterFingerprint": "4a277b83dd4b788de56fe6e3535500b50910254e1208e04cd74774e5987b317e",
+      "unchanged": true
+    },
+    {
+      "name": "LC light cell / stories",
+      "pointer": 2165494394264,
+      "beforeFingerprint": "ad0f27efb2bdb7632bff4b35ed707c7a278dcc8a44801affb296e1490bf2838d",
+      "afterFingerprint": "ad0f27efb2bdb7632bff4b35ed707c7a278dcc8a44801affb296e1490bf2838d",
+      "unchanged": true
+    },
+    {
+      "name": "LC cell wash / stories.002",
+      "pointer": 2165494390568,
+      "beforeFingerprint": "ac1ed3f88b6b90d78c1800a9d8cf37d4e8a75ab43a867b5f1eb9fdc43a69e883",
+      "afterFingerprint": "ac1ed3f88b6b90d78c1800a9d8cf37d4e8a75ab43a867b5f1eb9fdc43a69e883",
+      "unchanged": true
+    },
+    {
+      "name": "LC games / cinematic depth lip",
+      "pointer": 2165494404120,
+      "beforeFingerprint": "46c22d2683bfad8207580780a2cfaa2696c715ee3e538295a399c04563c7d5b4",
+      "afterFingerprint": "46c22d2683bfad8207580780a2cfaa2696c715ee3e538295a399c04563c7d5b4",
+      "unchanged": true
+    },
+    {
+      "name": "LC games / cinematic depth lip.001",
+      "pointer": 2165494399192,
+      "beforeFingerprint": "f9a64726014980401993251a84cd39ca82b4e84b253a81ed94ad1a02681696b1",
+      "afterFingerprint": "f9a64726014980401993251a84cd39ca82b4e84b253a81ed94ad1a02681696b1",
+      "unchanged": true
+    },
+    {
+      "name": "LC games / cinematic depth lip.002",
+      "pointer": 2165494401656,
+      "beforeFingerprint": "d864ee3c36601fd12d881d4de58ebc30ce7f695aa0d6115f6aad85f207e60f05",
+      "afterFingerprint": "d864ee3c36601fd12d881d4de58ebc30ce7f695aa0d6115f6aad85f207e60f05",
+      "unchanged": true
+    },
+    {
+      "name": "LC games / velvet depth",
+      "pointer": 2165494405352,
+      "beforeFingerprint": "3682d92afa4736a2f8e833aaacd60f6ea641373d70449837125558f0c702250e",
+      "afterFingerprint": "3682d92afa4736a2f8e833aaacd60f6ea641373d70449837125558f0c702250e",
+      "unchanged": true
+    },
+    {
+      "name": "LC legend / GAMES.003",
+      "pointer": 2165494400424,
+      "beforeFingerprint": "a19899f0488ffcc3a05549d71160857f48f3f4b1762387a71b7584f0e9f7beac",
+      "afterFingerprint": "a19899f0488ffcc3a05549d71160857f48f3f4b1762387a71b7584f0e9f7beac",
+      "unchanged": true
+    },
+    {
+      "name": "LC legend / GAMES.004",
+      "pointer": 2165494406584,
+      "beforeFingerprint": "251dc4db3daa3d6fb32cc5cbab7ba6fc15b756d6886b5e229e9fdc685deeb0bd",
+      "afterFingerprint": "251dc4db3daa3d6fb32cc5cbab7ba6fc15b756d6886b5e229e9fdc685deeb0bd",
+      "unchanged": true
+    },
+    {
+      "name": "LC stories / front chromatic field",
+      "pointer": 2165494395496,
+      "beforeFingerprint": "d5100d55239bde77db22a22de7c38e77519f9f85982709c148f3be2d6f8d46e4",
+      "afterFingerprint": "d5100d55239bde77db22a22de7c38e77519f9f85982709c148f3be2d6f8d46e4",
+      "unchanged": true
+    },
+    {
+      "name": "LC stories / inner phosphor lip",
+      "pointer": 2165494407816,
+      "beforeFingerprint": "7f004bd4a7b37263a9a4c871f302588a250906c6f874251b6076b9d7d9aa4cd0",
+      "afterFingerprint": "7f004bd4a7b37263a9a4c871f302588a250906c6f874251b6076b9d7d9aa4cd0",
+      "unchanged": true
+    },
+    {
+      "name": "LC stories / monolithic outer shell",
+      "pointer": 2165494396728,
+      "beforeFingerprint": "f2433995e502148445c5ed3acdea467a7122355bd0f7349aee51787c6aad257b",
+      "afterFingerprint": "f2433995e502148445c5ed3acdea467a7122355bd0f7349aee51787c6aad257b",
+      "unchanged": true
+    },
+    {
+      "name": "LC stories / rear phosphor lip",
+      "pointer": 2165494409048,
+      "beforeFingerprint": "4812f8efcff4f5fcb09d5616e04ef10787ed4af5d2831902060d51865ff66fb2",
+      "afterFingerprint": "4812f8efcff4f5fcb09d5616e04ef10787ed4af5d2831902060d51865ff66fb2",
+      "unchanged": true
+    },
+    {
+      "name": "LC stories / reverse chromatic field",
+      "pointer": 2165494397960,
+      "beforeFingerprint": "b7cf8cc0f283f2a4d8eead46ee3d3ca2f4a517c131d34e4feafc1c290fbb43ed",
+      "afterFingerprint": "b7cf8cc0f283f2a4d8eead46ee3d3ca2f4a517c131d34e4feafc1c290fbb43ed",
+      "unchanged": true
+    },
+    {
+      "name": "LC light cell / hologravity",
+      "pointer": 2165494410280,
+      "beforeFingerprint": "b3169b3fe23cfe992161434c6689e783354a4b5c856efe5d0a08303dee922e13",
+      "afterFingerprint": "b3169b3fe23cfe992161434c6689e783354a4b5c856efe5d0a08303dee922e13",
+      "unchanged": true
+    },
+    {
+      "name": "LC cell wash / hologravity.002",
+      "pointer": 2165494412744,
+      "beforeFingerprint": "8fbde62f45045cead3515e7b6a197c18d206d93615707e5d4ef0ce2065d085a3",
+      "afterFingerprint": "8fbde62f45045cead3515e7b6a197c18d206d93615707e5d4ef0ce2065d085a3",
+      "unchanged": true
+    },
+    {
+      "name": "LC hologram / optical lamina 0",
+      "pointer": 2165494413976,
+      "beforeFingerprint": "8d04fa9bd590c72e54b80e78bd1f8f5676118e2491ecc1555993e0fe6fb851f3",
+      "afterFingerprint": "8d04fa9bd590c72e54b80e78bd1f8f5676118e2491ecc1555993e0fe6fb851f3",
+      "unchanged": true
+    },
+    {
+      "name": "LC hologram / optical lamina 1",
+      "pointer": 2165494411512,
+      "beforeFingerprint": "6a3f85ff00db1eee5fc96dc9198c01a65ebcb3f8ea9d173b0869ff442b2e0b2f",
+      "afterFingerprint": "6a3f85ff00db1eee5fc96dc9198c01a65ebcb3f8ea9d173b0869ff442b2e0b2f",
+      "unchanged": true
+    },
+    {
+      "name": "LC hologram / optical lamina 2",
+      "pointer": 2165494415208,
+      "beforeFingerprint": "b9430b577a92c1b7c0f9af7733d44e9e1909efadd42815e0f7be3741ab1a0df0",
+      "afterFingerprint": "b9430b577a92c1b7c0f9af7733d44e9e1909efadd42815e0f7be3741ab1a0df0",
+      "unchanged": true
+    },
+    {
+      "name": "LC hologram / optical lamina 3",
+      "pointer": 2165494416440,
+      "beforeFingerprint": "f953c552db9e90816017aaf0d6ad6fb07c8def3bef09d91860cbc4e516318476",
+      "afterFingerprint": "f953c552db9e90816017aaf0d6ad6fb07c8def3bef09d91860cbc4e516318476",
+      "unchanged": true
+    },
+    {
+      "name": "LC hologram / optical lamina 4",
+      "pointer": 2165494417672,
+      "beforeFingerprint": "d495b228af62d3ee3713ff678d0d016c0e96f312719064f6f6dccbd87adab23b",
+      "afterFingerprint": "d495b228af62d3ee3713ff678d0d016c0e96f312719064f6f6dccbd87adab23b",
+      "unchanged": true
+    },
+    {
+      "name": "LC hologram / optical lamina 5",
+      "pointer": 2165494402888,
+      "beforeFingerprint": "b0700dba23490f08a1c1611f58a0e2d6c931c628121ef37ec1a4398406ad33b2",
+      "afterFingerprint": "b0700dba23490f08a1c1611f58a0e2d6c931c628121ef37ec1a4398406ad33b2",
+      "unchanged": true
+    },
+    {
+      "name": "LC hologram / optical lamina 6",
+      "pointer": 2165494418904,
+      "beforeFingerprint": "6534baa7d77014f17dc856f774b2e794a7543153d7ad786cec98d9ff0536985d",
+      "afterFingerprint": "6534baa7d77014f17dc856f774b2e794a7543153d7ad786cec98d9ff0536985d",
+      "unchanged": true
+    },
+    {
+      "name": "LC hologravity / front chromatic field",
+      "pointer": 2165494420136,
+      "beforeFingerprint": "009c74d4668b5e8328f74baafd7fc90c8f40d1b7c3e07287c274ba716fdc2725",
+      "afterFingerprint": "009c74d4668b5e8328f74baafd7fc90c8f40d1b7c3e07287c274ba716fdc2725",
+      "unchanged": true
+    },
+    {
+      "name": "LC hologravity / inner phosphor lip",
+      "pointer": 2165494421368,
+      "beforeFingerprint": "6176c5c4898b7fdf1401e024ba06ce4cf534fa0d215b34ce72d3a4f559adfb74",
+      "afterFingerprint": "6176c5c4898b7fdf1401e024ba06ce4cf534fa0d215b34ce72d3a4f559adfb74",
+      "unchanged": true
+    },
+    {
+      "name": "LC hologravity / monolithic outer shell",
+      "pointer": 2165494422600,
+      "beforeFingerprint": "375c597b8cafb874e04417b7391c09d0c2c77ef7c4c5ff6acc99df53530e2509",
+      "afterFingerprint": "375c597b8cafb874e04417b7391c09d0c2c77ef7c4c5ff6acc99df53530e2509",
+      "unchanged": true
+    },
+    {
+      "name": "LC hologravity / rear phosphor lip",
+      "pointer": 2165494423832,
+      "beforeFingerprint": "923e950615304526b002b8f62565c3549c9817cf423aac91d4b5faefeb5ecfb1",
+      "afterFingerprint": "923e950615304526b002b8f62565c3549c9817cf423aac91d4b5faefeb5ecfb1",
+      "unchanged": true
+    },
+    {
+      "name": "LC hologravity / reverse chromatic field",
+      "pointer": 2165494425064,
+      "beforeFingerprint": "64e5e5ed9c4076c53990f9d61770dba29116e45ea9f6a234db66f42a0774c1eb",
+      "afterFingerprint": "64e5e5ed9c4076c53990f9d61770dba29116e45ea9f6a234db66f42a0774c1eb",
+      "unchanged": true
+    },
+    {
+      "name": "LC legend / HOLOGRAM.003",
+      "pointer": 2165494426296,
+      "beforeFingerprint": "43bf7cce5718d9383e432e3d0a8403017391e395235dcf7a67ee504a9298335d",
+      "afterFingerprint": "43bf7cce5718d9383e432e3d0a8403017391e395235dcf7a67ee504a9298335d",
+      "unchanged": true
+    },
+    {
+      "name": "LC legend / HOLOGRAM.004",
+      "pointer": 2165504378024,
+      "beforeFingerprint": "30b561f9174bd46026ae06766855c1e0e560fedadfaa182aa0813d6c35f57071",
+      "afterFingerprint": "30b561f9174bd46026ae06766855c1e0e560fedadfaa182aa0813d6c35f57071",
+      "unchanged": true
+    },
+    {
+      "name": "LC responsive hologram",
+      "pointer": 2165504385416,
+      "beforeFingerprint": "76ddad9f4d0cf240338231c2a76a1bc088ccacee97912bf0e8efa3399f682b23",
+      "afterFingerprint": "76ddad9f4d0cf240338231c2a76a1bc088ccacee97912bf0e8efa3399f682b23",
+      "unchanged": true
+    },
+    {
+      "name": "LC hologram / transparent optical envelope",
+      "pointer": 2165504375560,
+      "beforeFingerprint": "94efe0e87e8535ae04c5c25e1e742d933add5abd4f7de523553199e33843a4d9",
+      "afterFingerprint": "94efe0e87e8535ae04c5c25e1e742d933add5abd4f7de523553199e33843a4d9",
+      "unchanged": true
+    },
+    {
+      "name": "LC navigation instrument",
+      "pointer": 2165504389112,
+      "beforeFingerprint": "1c2087f6b092f9a7c222f0faa972324dfb1233f545b4a5dced970b9deb5d308a",
+      "afterFingerprint": "1c2087f6b092f9a7c222f0faa972324dfb1233f545b4a5dced970b9deb5d308a",
+      "unchanged": true
+    },
+    {
+      "name": "LC console / bevelled floating lower shell",
+      "pointer": 2165504384184,
+      "beforeFingerprint": "2b2c2eecea891ded4ea137d3df04019a3d7fa650016d217c893c0070f65e6d35",
+      "afterFingerprint": "2b2c2eecea891ded4ea137d3df04019a3d7fa650016d217c893c0070f65e6d35",
+      "unchanged": true
+    },
+    {
+      "name": "LC console / cabinet status light -1",
+      "pointer": 2165504376792,
+      "beforeFingerprint": "c6545c10b45a15a32990c108937f27dab55a7f17196acf94684223ee7717b263",
+      "afterFingerprint": "c6545c10b45a15a32990c108937f27dab55a7f17196acf94684223ee7717b263",
+      "unchanged": true
+    },
+    {
+      "name": "LC console / cabinet status light 1",
+      "pointer": 2165504387880,
+      "beforeFingerprint": "27bcd0c74f5a496bbb0a83d5d9dc40ee718fe72e1ef88334fb187c86d232df13",
+      "afterFingerprint": "27bcd0c74f5a496bbb0a83d5d9dc40ee718fe72e1ef88334fb187c86d232df13",
+      "unchanged": true
+    },
+    {
+      "name": "LC console / concealed structural crossbeam",
+      "pointer": 2165504380488,
+      "beforeFingerprint": "834a9d0da17579adc8001faba394c540c1518d7d43c66a57292ff23aa45b75ab",
+      "afterFingerprint": "834a9d0da17579adc8001faba394c540c1518d7d43c66a57292ff23aa45b75ab",
+      "unchanged": true
+    },
+    {
+      "name": "LC console / front edge status reveal.002",
+      "pointer": 2165504379256,
+      "beforeFingerprint": "e097e75a2ac88f59c44338e6f52e9993a9808ec851a5e99fa786a92fe9828f2c",
+      "afterFingerprint": "e097e75a2ac88f59c44338e6f52e9993a9808ec851a5e99fa786a92fe9828f2c",
+      "unchanged": true
+    },
+    {
+      "name": "LC console / front edge status reveal.003",
+      "pointer": 2165504390344,
+      "beforeFingerprint": "73497ff5168f3f030f87034fa5e750be23a914cb37aa448a37cb00d602985856",
+      "afterFingerprint": "73497ff5168f3f030f87034fa5e750be23a914cb37aa448a37cb00d602985856",
+      "unchanged": true
+    },
+    {
+      "name": "LC console / functional cooling slot -1.0",
+      "pointer": 2165504386648,
+      "beforeFingerprint": "11c6f4e03c30d3811b2f6666fa4d1a70c1b1eb0576c04827d23f2b8eb35f3408",
+      "afterFingerprint": "11c6f4e03c30d3811b2f6666fa4d1a70c1b1eb0576c04827d23f2b8eb35f3408",
+      "unchanged": true
+    },
+    {
+      "name": "LC console / functional cooling slot -1.1",
+      "pointer": 2165504391576,
+      "beforeFingerprint": "8ce5cb3f0a6740cde2e21fc35d5f154fbefe533265c774c54b361edc0df74e22",
+      "afterFingerprint": "8ce5cb3f0a6740cde2e21fc35d5f154fbefe533265c774c54b361edc0df74e22",
+      "unchanged": true
+    },
+    {
+      "name": "LC console / functional cooling slot -1.2",
+      "pointer": 2165504392808,
+      "beforeFingerprint": "a3d19ce415387dde05f0427e4d4ab62a6c594e7f69d304284ff358bd110f0458",
+      "afterFingerprint": "a3d19ce415387dde05f0427e4d4ab62a6c594e7f69d304284ff358bd110f0458",
+      "unchanged": true
+    },
+    {
+      "name": "LC console / functional cooling slot -1.3",
+      "pointer": 2165504394040,
+      "beforeFingerprint": "b4f598c4e8d5e0c2d578f23f8c4888d8b95d8f7950172478ffb0f1464ed6c4b1",
+      "afterFingerprint": "b4f598c4e8d5e0c2d578f23f8c4888d8b95d8f7950172478ffb0f1464ed6c4b1",
+      "unchanged": true
+    },
+    {
+      "name": "LC console / functional cooling slot 1.0",
+      "pointer": 2165504395272,
+      "beforeFingerprint": "9726be26a0df2e1183cd83ef1bf8a33564dc8cdfced4fc0a8e4fed90d43208f6",
+      "afterFingerprint": "9726be26a0df2e1183cd83ef1bf8a33564dc8cdfced4fc0a8e4fed90d43208f6",
+      "unchanged": true
+    },
+    {
+      "name": "LC console / functional cooling slot 1.1",
+      "pointer": 2165504396504,
+      "beforeFingerprint": "d3d75633edee1aa6e00a961c426a7258e289d3571fde21af84c0d62a5c5d9e13",
+      "afterFingerprint": "d3d75633edee1aa6e00a961c426a7258e289d3571fde21af84c0d62a5c5d9e13",
+      "unchanged": true
+    },
+    {
+      "name": "LC console / functional cooling slot 1.2",
+      "pointer": 2165504381720,
+      "beforeFingerprint": "d2f6aa342cf179a144e3b6887b2b1a1e1d323bad2ef463c3080c2b737eb657fc",
+      "afterFingerprint": "d2f6aa342cf179a144e3b6887b2b1a1e1d323bad2ef463c3080c2b737eb657fc",
+      "unchanged": true
+    },
+    {
+      "name": "LC console / functional cooling slot 1.3",
+      "pointer": 2165504397736,
+      "beforeFingerprint": "d58c79055ed7b4c009828528f8a4f3c874496988fad99652d63bc438febd012a",
+      "afterFingerprint": "d58c79055ed7b4c009828528f8a4f3c874496988fad99652d63bc438febd012a",
+      "unchanged": true
+    },
+    {
+      "name": "LC console / inset cabinet fascia -1",
+      "pointer": 2165504382952,
+      "beforeFingerprint": "b59d050140ebcd7c437626e725d6ba953d059d501a33b8c2a9650acf765188fd",
+      "afterFingerprint": "b59d050140ebcd7c437626e725d6ba953d059d501a33b8c2a9650acf765188fd",
+      "unchanged": true
+    },
+    {
+      "name": "LC console / inset cabinet fascia 1",
+      "pointer": 2165504401432,
+      "beforeFingerprint": "11a44a74cded900e5a95b3f144204a0d318c6df0c3c63aca6d13ea76268e20d3",
+      "afterFingerprint": "11a44a74cded900e5a95b3f144204a0d318c6df0c3c63aca6d13ea76268e20d3",
+      "unchanged": true
+    },
+    {
+      "name": "LC console / modules inset",
+      "pointer": 2165504402664,
+      "beforeFingerprint": "af96974be7b85dff350205b6a4a4a62be64bbd9da6b1c7e6134f10c81385c61b",
+      "afterFingerprint": "af96974be7b85dff350205b6a4a4a62be64bbd9da6b1c7e6134f10c81385c61b",
+      "unchanged": true
+    },
+    {
+      "name": "LC console / paired equipment cabinet -1",
+      "pointer": 2165504410056,
+      "beforeFingerprint": "f3031629f8db1a7716634d0126a8f47fcda5b1b1f1a39f8b09582a2f9c5b9c94",
+      "afterFingerprint": "f3031629f8db1a7716634d0126a8f47fcda5b1b1f1a39f8b09582a2f9c5b9c94",
+      "unchanged": true
+    },
+    {
+      "name": "LC console / paired equipment cabinet 1",
+      "pointer": 2165504403896,
+      "beforeFingerprint": "f81b7691a1c917dd73c7fc9bc8893f9ffc8099f9b9a5d73d05a349933fb52dda",
+      "afterFingerprint": "f81b7691a1c917dd73c7fc9bc8893f9ffc8099f9b9a5d73d05a349933fb52dda",
+      "unchanged": true
+    },
+    {
+      "name": "LC console / recessed gasket layer",
+      "pointer": 2165504413752,
+      "beforeFingerprint": "e0268ddebad7eb0756fe8569325c04c560a8c4889f17a7593f98a286d1b11000",
+      "afterFingerprint": "e0268ddebad7eb0756fe8569325c04c560a8c4889f17a7593f98a286d1b11000",
+      "unchanged": true
+    },
+    {
+      "name": "LC console / stepped optical upper deck",
+      "pointer": 2165504412520,
+      "beforeFingerprint": "8a915499cd0855d384bdde5d54b1ee9e5479ad762d8e1a7c4b30ded20c933e40",
+      "afterFingerprint": "8a915499cd0855d384bdde5d54b1ee9e5479ad762d8e1a7c4b30ded20c933e40",
+      "unchanged": true
+    },
+    {
+      "name": "LC console / weighted side footing -1",
+      "pointer": 2165504406360,
+      "beforeFingerprint": "ff90877535c1ea6377ccf38166c85cd74be7a42e8957e52e9c9c9a979d6e982f",
+      "afterFingerprint": "ff90877535c1ea6377ccf38166c85cd74be7a42e8957e52e9c9c9a979d6e982f",
+      "unchanged": true
+    },
+    {
+      "name": "LC console / weighted side footing 1",
+      "pointer": 2165504400200,
+      "beforeFingerprint": "13e52a6b42d31dd7d5a19df69d70de20582b00d2c78d178c9601d2137225ebed",
+      "afterFingerprint": "13e52a6b42d31dd7d5a19df69d70de20582b00d2c78d178c9601d2137225ebed",
+      "unchanged": true
+    },
+    {
+      "name": "LC legend / MODULES.001",
+      "pointer": 2165504398968,
+      "beforeFingerprint": "3279a75af48bc3bc55549f7db65b7cf57c0ce824fb4f31c8b35e337fd2f20010",
+      "afterFingerprint": "3279a75af48bc3bc55549f7db65b7cf57c0ce824fb4f31c8b35e337fd2f20010",
+      "unchanged": true
+    },
+    {
+      "name": "LC ORBIT PLAY instrument",
+      "pointer": 2165504411288,
+      "beforeFingerprint": "4d1c0eff606fa5f26a68c2c0b2c1e98591486d41dfc6648986b8ffd3a17936b5",
+      "afterFingerprint": "4d1c0eff606fa5f26a68c2c0b2c1e98591486d41dfc6648986b8ffd3a17936b5",
+      "unchanged": true
+    },
+    {
+      "name": "LC legend / ORBIT / PLAY.001",
+      "pointer": 2165504407592,
+      "beforeFingerprint": "9224d0c98ce318027a1643a0145aca496f01277e0acde289451216d1226e8d3e",
+      "afterFingerprint": "9224d0c98ce318027a1643a0145aca496f01277e0acde289451216d1226e8d3e",
+      "unchanged": true
+    },
+    {
+      "name": "LC ORBIT / end guard -1",
+      "pointer": 2165504405128,
+      "beforeFingerprint": "43c24d24c2ce05609e119544a22ea17f4b9e679b20886fe57b2b1a05c1da399a",
+      "afterFingerprint": "43c24d24c2ce05609e119544a22ea17f4b9e679b20886fe57b2b1a05c1da399a",
+      "unchanged": true
+    },
+    {
+      "name": "LC ORBIT / end guard 1",
+      "pointer": 2165504414984,
+      "beforeFingerprint": "81f6690ee9e66072514d52842c2e0c437aaa4e5c1368b2c39bd4d169c9dd6218",
+      "afterFingerprint": "81f6690ee9e66072514d52842c2e0c437aaa4e5c1368b2c39bd4d169c9dd6218",
+      "unchanged": true
+    },
+    {
+      "name": "LC ORBIT / exit-side phosphor -1.001",
+      "pointer": 2165504416216,
+      "beforeFingerprint": "85ca7b490b69179ecf92dad86a947bbd3e7cac563e53335b70712f93d39fc4ad",
+      "afterFingerprint": "85ca7b490b69179ecf92dad86a947bbd3e7cac563e53335b70712f93d39fc4ad",
+      "unchanged": true
+    },
+    {
+      "name": "LC ORBIT / exit-side phosphor 1.001",
+      "pointer": 2165504417448,
+      "beforeFingerprint": "6f477321586ec8d2a7b2692369de48da36997087bdad280f6b424e87c5a51908",
+      "afterFingerprint": "6f477321586ec8d2a7b2692369de48da36997087bdad280f6b424e87c5a51908",
+      "unchanged": true
+    },
+    {
+      "name": "LC ORBIT / guiding phosphor 1.001",
+      "pointer": 2165504418680,
+      "beforeFingerprint": "ebc83af510b1d40ef48b91fc98cb28da826a28cd41d213bb2f4f18e04f68bf36",
+      "afterFingerprint": "ebc83af510b1d40ef48b91fc98cb28da826a28cd41d213bb2f4f18e04f68bf36",
+      "unchanged": true
+    },
+    {
+      "name": "LC ORBIT / open-side split guard -1",
+      "pointer": 2165504419912,
+      "beforeFingerprint": "0fdb3f442acc3bad317436611647b66c9a78002593d2e1960aa54f773ef02516",
+      "afterFingerprint": "0fdb3f442acc3bad317436611647b66c9a78002593d2e1960aa54f773ef02516",
+      "unchanged": true
+    },
+    {
+      "name": "LC ORBIT / open-side split guard 1",
+      "pointer": 2165504423608,
+      "beforeFingerprint": "cbd92b8f3e552aa2adc8ee062eb5d92f595a2940143b316701f1591e9c6b95c5",
+      "afterFingerprint": "cbd92b8f3e552aa2adc8ee062eb5d92f595a2940143b316701f1591e9c6b95c5",
+      "unchanged": true
+    },
+    {
+      "name": "LC ORBIT / recessed play surface",
+      "pointer": 2165504408824,
+      "beforeFingerprint": "4e43244ecf7eeebf88adfea004524ce4f04bc976e07f78f3ad56ec46151a8725",
+      "afterFingerprint": "4e43244ecf7eeebf88adfea004524ce4f04bc976e07f78f3ad56ec46151a8725",
+      "unchanged": true
+    },
+    {
+      "name": "LC ORBIT / side guard 1",
+      "pointer": 2165504424840,
+      "beforeFingerprint": "c166c2a6e8783d69bbb79146d3431cf282989b3157610229ad4f5b2aa7be3728",
+      "afterFingerprint": "c166c2a6e8783d69bbb79146d3431cf282989b3157610229ad4f5b2aa7be3728",
+      "unchanged": true
+    },
+    {
+      "name": "LC ORBIT / table transfer ramp",
+      "pointer": 2165504427304,
+      "beforeFingerprint": "8c854cabe7ccf7843d3e58f5f74592d1c8935a798c7e8b5dae7305d224c01f26",
+      "afterFingerprint": "8c854cabe7ccf7843d3e58f5f74592d1c8935a798c7e8b5dae7305d224c01f26",
+      "unchanged": true
+    },
+    {
+      "name": "LC raised button / about",
+      "pointer": 2165504432232,
+      "beforeFingerprint": "49a8b206b0defe794ce46cc6f353c4be30442ffd53e4d52b866e828b63389125",
+      "afterFingerprint": "49a8b206b0defe794ce46cc6f353c4be30442ffd53e4d52b866e828b63389125",
+      "unchanged": true
+    },
+    {
+      "name": "LC key colour insert / about",
+      "pointer": 2165504434696,
+      "beforeFingerprint": "758f5145bd27c3bacbec27b3532a15a96b981548fa419dd93c0c4d28fd536de4",
+      "afterFingerprint": "758f5145bd27c3bacbec27b3532a15a96b981548fa419dd93c0c4d28fd536de4",
+      "unchanged": true
+    },
+    {
+      "name": "LC key gasket / about",
+      "pointer": 2165504428536,
+      "beforeFingerprint": "e457785ddc5501390d762da04b29e61e9a8efeb5e517605ea61d58a46fb4bf34",
+      "afterFingerprint": "e457785ddc5501390d762da04b29e61e9a8efeb5e517605ea61d58a46fb4bf34",
+      "unchanged": true
+    },
+    {
+      "name": "LC key optical inlay / about",
+      "pointer": 2165504435928,
+      "beforeFingerprint": "ccbd4ac3f287d09a83806b0cb253a2f515f1ae4ec1c9912eaa156313080f06c2",
+      "afterFingerprint": "ccbd4ac3f287d09a83806b0cb253a2f515f1ae4ec1c9912eaa156313080f06c2",
+      "unchanged": true
+    },
+    {
+      "name": "LC legend / ABOUT.002",
+      "pointer": 2165504429768,
+      "beforeFingerprint": "47a903a963b14e9dfa4610c2cb01fb141be67eabbcd24681e22dc826ac2412a4",
+      "afterFingerprint": "47a903a963b14e9dfa4610c2cb01fb141be67eabbcd24681e22dc826ac2412a4",
+      "unchanged": true
+    },
+    {
+      "name": "LC tactile keycap / about",
+      "pointer": 2165504426072,
+      "beforeFingerprint": "e5181f0e07389bfd2a9d8b7539b3c6e3ef58240af1e678920c196fafcea675c7",
+      "afterFingerprint": "e5181f0e07389bfd2a9d8b7539b3c6e3ef58240af1e678920c196fafcea675c7",
+      "unchanged": true
+    },
+    {
+      "name": "LC raised button / engine",
+      "pointer": 2165504431000,
+      "beforeFingerprint": "3aa235fd8141579190203e343294f4e245194d8e00f8323447b90a1b6e3e458c",
+      "afterFingerprint": "3aa235fd8141579190203e343294f4e245194d8e00f8323447b90a1b6e3e458c",
+      "unchanged": true
+    },
+    {
+      "name": "LC key colour insert / engine",
+      "pointer": 2165504421144,
+      "beforeFingerprint": "f04aa8a76e8f540bb1fb3ab1da85473eab8ffe61e05cb2d6571fba999b21c5e8",
+      "afterFingerprint": "f04aa8a76e8f540bb1fb3ab1da85473eab8ffe61e05cb2d6571fba999b21c5e8",
+      "unchanged": true
+    },
+    {
+      "name": "LC key gasket / engine",
+      "pointer": 2165504433464,
+      "beforeFingerprint": "a0339077476080b9ebfd20c4d543f5f8cc84dbb71f56e57d9eb7653bb2ae8f22",
+      "afterFingerprint": "a0339077476080b9ebfd20c4d543f5f8cc84dbb71f56e57d9eb7653bb2ae8f22",
+      "unchanged": true
+    },
+    {
+      "name": "LC key optical inlay / engine",
+      "pointer": 2165504437160,
+      "beforeFingerprint": "0d31ada11e84786ce2a35a1002af5541c07a68b4db3c53a3fd9a16c2cbd09bac",
+      "afterFingerprint": "0d31ada11e84786ce2a35a1002af5541c07a68b4db3c53a3fd9a16c2cbd09bac",
+      "unchanged": true
+    },
+    {
+      "name": "LC legend / UNIVERSE.001",
+      "pointer": 2165504422376,
+      "beforeFingerprint": "40a0aba289d5423a8595ae1ec25d0595a1e32df62726731f82aa7457460fbfd4",
+      "afterFingerprint": "40a0aba289d5423a8595ae1ec25d0595a1e32df62726731f82aa7457460fbfd4",
+      "unchanged": true
+    },
+    {
+      "name": "LC tactile keycap / engine",
+      "pointer": 2165504438392,
+      "beforeFingerprint": "2e1660504516cccbf14f8578900dd981752fde7d178dfb7bc52b2cdf3c48d43f",
+      "afterFingerprint": "2e1660504516cccbf14f8578900dd981752fde7d178dfb7bc52b2cdf3c48d43f",
+      "unchanged": true
+    },
+    {
+      "name": "LC raised button / hologravity",
+      "pointer": 2165504439624,
+      "beforeFingerprint": "6e4ce4dfc73dbfb8227055142746e7bc823ea2089e7b6c46abb92a6e336500e8",
+      "afterFingerprint": "6e4ce4dfc73dbfb8227055142746e7bc823ea2089e7b6c46abb92a6e336500e8",
+      "unchanged": true
+    },
+    {
+      "name": "LC key colour insert / hologravity",
+      "pointer": 2165506969176,
+      "beforeFingerprint": "62b76f9faa25c0bb07097e0f7bca5ba508dbd3a7bb6e1ac7c09a48a7024f4920",
+      "afterFingerprint": "62b76f9faa25c0bb07097e0f7bca5ba508dbd3a7bb6e1ac7c09a48a7024f4920",
+      "unchanged": true
+    },
+    {
+      "name": "LC key gasket / hologravity",
+      "pointer": 2165506966712,
+      "beforeFingerprint": "2a0fae26da6f4b362ccb0d18206e94980e498219be7ce9ac414cf9582c979a90",
+      "afterFingerprint": "2a0fae26da6f4b362ccb0d18206e94980e498219be7ce9ac414cf9582c979a90",
+      "unchanged": true
+    },
+    {
+      "name": "LC key optical inlay / hologravity",
+      "pointer": 2165506963016,
+      "beforeFingerprint": "d89e5d111855f9cddfee22b040894d126fb3db0633dda5516cdd0f1115426b3d",
+      "afterFingerprint": "d89e5d111855f9cddfee22b040894d126fb3db0633dda5516cdd0f1115426b3d",
+      "unchanged": true
+    },
+    {
+      "name": "LC legend / HOLOGRAM.005",
+      "pointer": 2165506964248,
+      "beforeFingerprint": "36b832211009d074c96aa9b8b7c90c36f6005ae4686ebf08fb13f1264a3d2502",
+      "afterFingerprint": "36b832211009d074c96aa9b8b7c90c36f6005ae4686ebf08fb13f1264a3d2502",
+      "unchanged": true
+    },
+    {
+      "name": "LC tactile keycap / hologravity",
+      "pointer": 2165506961784,
+      "beforeFingerprint": "75f439adf8534aea522fb496c0c43a8174faa78e787d5c1bf73f3faf895496fe",
+      "afterFingerprint": "75f439adf8534aea522fb496c0c43a8174faa78e787d5c1bf73f3faf895496fe",
+      "unchanged": true
+    },
+    {
+      "name": "LC raised button / join",
+      "pointer": 2165506967944,
+      "beforeFingerprint": "a7ee4723d4a46c4624cee01ab4139ccc3979185f0389f06d14bb5f96570b37a5",
+      "afterFingerprint": "a7ee4723d4a46c4624cee01ab4139ccc3979185f0389f06d14bb5f96570b37a5",
+      "unchanged": true
+    },
+    {
+      "name": "LC key colour insert / join",
+      "pointer": 2165506960552,
+      "beforeFingerprint": "63be5740e7da57698717c700286140a070eb95855c5ead0950dd28a6985a6224",
+      "afterFingerprint": "63be5740e7da57698717c700286140a070eb95855c5ead0950dd28a6985a6224",
+      "unchanged": true
+    },
+    {
+      "name": "LC key gasket / join",
+      "pointer": 2165506965480,
+      "beforeFingerprint": "3c00c12d810d1e89e6e779ee1f328d70820ed6462c5219d440d28db90b87812f",
+      "afterFingerprint": "3c00c12d810d1e89e6e779ee1f328d70820ed6462c5219d440d28db90b87812f",
+      "unchanged": true
+    },
+    {
+      "name": "LC key optical inlay / join",
+      "pointer": 2165506970408,
+      "beforeFingerprint": "64e39c6813c783b6fb0e99fd27be09d0c7534af0dade9e248344c1eb918f22ca",
+      "afterFingerprint": "64e39c6813c783b6fb0e99fd27be09d0c7534af0dade9e248344c1eb918f22ca",
+      "unchanged": true
+    },
+    {
+      "name": "LC legend / JOIN US.001",
+      "pointer": 2165506971640,
+      "beforeFingerprint": "ff730309a1319d7dfd9a299a816bea1223605567b8869cf0c502e7e28139ecac",
+      "afterFingerprint": "ff730309a1319d7dfd9a299a816bea1223605567b8869cf0c502e7e28139ecac",
+      "unchanged": true
+    },
+    {
+      "name": "LC tactile keycap / join",
+      "pointer": 2165506956856,
+      "beforeFingerprint": "994781622501bfd757bd192701eb54407ae82df984115bfe6d8b10824b7bd5d6",
+      "afterFingerprint": "994781622501bfd757bd192701eb54407ae82df984115bfe6d8b10824b7bd5d6",
+      "unchanged": true
+    },
+    {
+      "name": "LC raised button / memory",
+      "pointer": 2165506972872,
+      "beforeFingerprint": "78d4334031f92241d15469484d94d3870a00e1145d85358bac34290808d236e8",
+      "afterFingerprint": "78d4334031f92241d15469484d94d3870a00e1145d85358bac34290808d236e8",
+      "unchanged": true
+    },
+    {
+      "name": "LC key colour insert / memory",
+      "pointer": 2165506958088,
+      "beforeFingerprint": "390fc5c1550624bd0ebdfc9ba36b9071c70ce123c97186f58ef37677beb9998d",
+      "afterFingerprint": "390fc5c1550624bd0ebdfc9ba36b9071c70ce123c97186f58ef37677beb9998d",
+      "unchanged": true
+    },
+    {
+      "name": "LC key gasket / memory",
+      "pointer": 2165506974104,
+      "beforeFingerprint": "c2e1b7e42858ca5d053623c93f2182bdf31ff336f99dfee670263323fbf7819a",
+      "afterFingerprint": "c2e1b7e42858ca5d053623c93f2182bdf31ff336f99dfee670263323fbf7819a",
+      "unchanged": true
+    },
+    {
+      "name": "LC key optical inlay / memory",
+      "pointer": 2165506959320,
+      "beforeFingerprint": "f3d87093e30cd2117a6829ede5475a249899a84640ba259df43b00169509abf8",
+      "afterFingerprint": "f3d87093e30cd2117a6829ede5475a249899a84640ba259df43b00169509abf8",
+      "unchanged": true
+    },
+    {
+      "name": "LC legend / MEMORY.001",
+      "pointer": 2165506990120,
+      "beforeFingerprint": "585200e94be3a35d3e79607608683d7503373d0eebe3308f0affe44d9f4703d1",
+      "afterFingerprint": "585200e94be3a35d3e79607608683d7503373d0eebe3308f0affe44d9f4703d1",
+      "unchanged": true
+    },
+    {
+      "name": "LC tactile keycap / memory",
+      "pointer": 2165506981496,
+      "beforeFingerprint": "31b43b45c0bec60618a7c9382d3781dddd7c241541e86015de50264fb257d168",
+      "afterFingerprint": "31b43b45c0bec60618a7c9382d3781dddd7c241541e86015de50264fb257d168",
+      "unchanged": true
+    },
+    {
+      "name": "LC raised button / partners",
+      "pointer": 2165506975336,
+      "beforeFingerprint": "627949601588bb59fe94146a34e291fd07a85128d429163a943fd9d03bc334a2",
+      "afterFingerprint": "627949601588bb59fe94146a34e291fd07a85128d429163a943fd9d03bc334a2",
+      "unchanged": true
+    },
+    {
+      "name": "LC key colour insert / partners",
+      "pointer": 2165506991352,
+      "beforeFingerprint": "3f758d7b45e065b810f0e53363433b5b8cc4cd7aa62603925ed9bc1deccf58ec",
+      "afterFingerprint": "3f758d7b45e065b810f0e53363433b5b8cc4cd7aa62603925ed9bc1deccf58ec",
+      "unchanged": true
+    },
+    {
+      "name": "LC key gasket / partners",
+      "pointer": 2165506976568,
+      "beforeFingerprint": "70717d290e6d21d9e1133a3d403801c7539c83b25dd07b1f874ceeb371a9ffd2",
+      "afterFingerprint": "70717d290e6d21d9e1133a3d403801c7539c83b25dd07b1f874ceeb371a9ffd2",
+      "unchanged": true
+    },
+    {
+      "name": "LC key optical inlay / partners",
+      "pointer": 2165506982728,
+      "beforeFingerprint": "d17f7dc70ec6f93460fcc40fb70d3e4b71e2c5234d1e80a674cfb32903122e24",
+      "afterFingerprint": "d17f7dc70ec6f93460fcc40fb70d3e4b71e2c5234d1e80a674cfb32903122e24",
+      "unchanged": true
+    },
+    {
+      "name": "LC legend / OUR PARTNERS.001",
+      "pointer": 2165506986424,
+      "beforeFingerprint": "8d4d2910a05049ff54906b62f45e85a25911bbca1e22b88b0ab4f1bf77f93fe7",
+      "afterFingerprint": "8d4d2910a05049ff54906b62f45e85a25911bbca1e22b88b0ab4f1bf77f93fe7",
+      "unchanged": true
+    },
+    {
+      "name": "LC tactile keycap / partners",
+      "pointer": 2165506992584,
+      "beforeFingerprint": "e9156d608500a608d2fa558034ef44c81f8c0cb809a68aa9e45ceb94c55ec800",
+      "afterFingerprint": "e9156d608500a608d2fa558034ef44c81f8c0cb809a68aa9e45ceb94c55ec800",
+      "unchanged": true
+    },
+    {
+      "name": "LC raised button / play",
+      "pointer": 2165506987656,
+      "beforeFingerprint": "a75d5ee227fbabdcf5be7f394a7ad07bf08542688d32d325b2918f3fde2f3a92",
+      "afterFingerprint": "a75d5ee227fbabdcf5be7f394a7ad07bf08542688d32d325b2918f3fde2f3a92",
+      "unchanged": true
+    },
+    {
+      "name": "LC key colour insert / play",
+      "pointer": 2165506977800,
+      "beforeFingerprint": "76e94f7b1c1ed4080ef47da45c30068c44c4b1f12befba0db494c5b53c4da413",
+      "afterFingerprint": "76e94f7b1c1ed4080ef47da45c30068c44c4b1f12befba0db494c5b53c4da413",
+      "unchanged": true
+    },
+    {
+      "name": "LC key gasket / play",
+      "pointer": 2165506980264,
+      "beforeFingerprint": "f26fe143bad2b159db753b845ce768fcac253b2721a76b286cb9febad3ea1a7e",
+      "afterFingerprint": "f26fe143bad2b159db753b845ce768fcac253b2721a76b286cb9febad3ea1a7e",
+      "unchanged": true
+    },
+    {
+      "name": "LC key optical inlay / play",
+      "pointer": 2165506993816,
+      "beforeFingerprint": "8d70f5f1ed23b18818c39ad53c267ce7e2a5dc905e7cd00c1df6febb2ed842ca",
+      "afterFingerprint": "8d70f5f1ed23b18818c39ad53c267ce7e2a5dc905e7cd00c1df6febb2ed842ca",
+      "unchanged": true
+    },
+    {
+      "name": "LC legend / XR PLAYGROUND.005",
+      "pointer": 2165506979032,
+      "beforeFingerprint": "2e7435ca00d0c711c129c37386473f5c3a737232bb48c21aa60f87e907ac44ea",
+      "afterFingerprint": "2e7435ca00d0c711c129c37386473f5c3a737232bb48c21aa60f87e907ac44ea",
+      "unchanged": true
+    },
+    {
+      "name": "LC tactile keycap / play",
+      "pointer": 2165506983960,
+      "beforeFingerprint": "6d1105ce818dc60b6e9a3b6dc004f4537752ce75426f890add4a45d825bdde5e",
+      "afterFingerprint": "6d1105ce818dc60b6e9a3b6dc004f4537752ce75426f890add4a45d825bdde5e",
+      "unchanged": true
+    },
+    {
+      "name": "LC raised button / stories",
+      "pointer": 2165506995048,
+      "beforeFingerprint": "bcf4315c32791c2631ac2ab2944c63fd6f094fc2d087761b592f3e2689a80395",
+      "afterFingerprint": "bcf4315c32791c2631ac2ab2944c63fd6f094fc2d087761b592f3e2689a80395",
+      "unchanged": true
+    },
+    {
+      "name": "LC key colour insert / stories",
+      "pointer": 2165506996280,
+      "beforeFingerprint": "888bcfd2b9db8c8a18d88a5ce1049059db13a49322564e8d83055529d195a27a",
+      "afterFingerprint": "888bcfd2b9db8c8a18d88a5ce1049059db13a49322564e8d83055529d195a27a",
+      "unchanged": true
+    },
+    {
+      "name": "LC key gasket / stories",
+      "pointer": 2165506997512,
+      "beforeFingerprint": "071c59b8e654776b49d6a08bf44505257101610883f0fa29af51315f992331de",
+      "afterFingerprint": "071c59b8e654776b49d6a08bf44505257101610883f0fa29af51315f992331de",
+      "unchanged": true
+    },
+    {
+      "name": "LC key optical inlay / stories",
+      "pointer": 2165506999976,
+      "beforeFingerprint": "caba6b531237a8fba52afbf433797eff1663c9cde1dbe651a658e0f73e555e8d",
+      "afterFingerprint": "caba6b531237a8fba52afbf433797eff1663c9cde1dbe651a658e0f73e555e8d",
+      "unchanged": true
+    },
+    {
+      "name": "LC legend / GAMES.005",
+      "pointer": 2165506998744,
+      "beforeFingerprint": "bb3382e5e6c16ccb82ccbd121075b0ebf81d0ce5eb8976ae04524acb5e1f3fcb",
+      "afterFingerprint": "bb3382e5e6c16ccb82ccbd121075b0ebf81d0ce5eb8976ae04524acb5e1f3fcb",
+      "unchanged": true
+    },
+    {
+      "name": "LC tactile keycap / stories",
+      "pointer": 2165506985192,
+      "beforeFingerprint": "6c82ebf6856cd27f990c22df7360ca2297d276447fdf7e1fef28bca165051ad3",
+      "afterFingerprint": "6c82ebf6856cd27f990c22df7360ca2297d276447fdf7e1fef28bca165051ad3",
+      "unchanged": true
+    },
+    {
+      "name": "LC rear navigation light cell",
+      "pointer": 2165507014760,
+      "beforeFingerprint": "e62b833586b77517dd446ceb0062ee280d943404aa8080d827e7811a15875ecb",
+      "afterFingerprint": "e62b833586b77517dd446ceb0062ee280d943404aa8080d827e7811a15875ecb",
+      "unchanged": true
+    },
+    {
+      "name": "LC legend / NAVIGATION.001",
+      "pointer": 2165507011064,
+      "beforeFingerprint": "b3885ebbd7291e20d450643dc654384ca8dd1378bf1880cd3ba63683019a6619",
+      "afterFingerprint": "b3885ebbd7291e20d450643dc654384ca8dd1378bf1880cd3ba63683019a6619",
+      "unchanged": true
+    },
+    {
+      "name": "LC rear sign / luminous field",
+      "pointer": 2165507001208,
+      "beforeFingerprint": "c1933a6ed8831c0a72dd6dc58a60860f0ad2be9d375fdbb0122083c59f6bb22c",
+      "afterFingerprint": "c1933a6ed8831c0a72dd6dc58a60860f0ad2be9d375fdbb0122083c59f6bb22c",
+      "unchanged": true
+    },
+    {
+      "name": "LC rear sign / optical chassis",
+      "pointer": 2165507013528,
+      "beforeFingerprint": "62f61a634e70a0ad300117b5694411bb15ee83abadc24ff202661866a0450f57",
+      "afterFingerprint": "62f61a634e70a0ad300117b5694411bb15ee83abadc24ff202661866a0450f57",
+      "unchanged": true
+    },
+    {
+      "name": "LC rear sign / phosphor perimeter",
+      "pointer": 2165507015992,
+      "beforeFingerprint": "e12be61676c4b3fd4404e3475af8cf9ffd64c605876496f0253056c3bccf5a02",
+      "afterFingerprint": "e12be61676c4b3fd4404e3475af8cf9ffd64c605876496f0253056c3bccf5a02",
+      "unchanged": true
+    },
+    {
+      "name": "LC rear sign / cantilever saddle -1",
+      "pointer": 2165507017224,
+      "beforeFingerprint": "a8f3717629158cb76629f1c9dd0ec10d0e0d9d36421b5300bd4a4c677cbdddf5",
+      "afterFingerprint": "a8f3717629158cb76629f1c9dd0ec10d0e0d9d36421b5300bd4a4c677cbdddf5",
+      "unchanged": true
+    },
+    {
+      "name": "LC rear sign / cantilever saddle 1",
+      "pointer": 2165507002440,
+      "beforeFingerprint": "4cbccb819208aee0731ca7a2ae36fa1eb096845c7ef9abb1e2c8a7e8c4755689",
+      "afterFingerprint": "4cbccb819208aee0731ca7a2ae36fa1eb096845c7ef9abb1e2c8a7e8c4755689",
+      "unchanged": true
+    },
+    {
+      "name": "LC rear sign / structural upright -1",
+      "pointer": 2165507018456,
+      "beforeFingerprint": "1c1ed04b961a8d760a654fcab33c959349b21a84eb5a646c3bf88f8d04a4c964",
+      "afterFingerprint": "1c1ed04b961a8d760a654fcab33c959349b21a84eb5a646c3bf88f8d04a4c964",
+      "unchanged": true
+    },
+    {
+      "name": "LC rear sign / structural upright 1",
+      "pointer": 2165507003672,
+      "beforeFingerprint": "631a95e947a6f7756ecc88fe8e0b1516d92fad0dfeb2c5db34a551fe8546598e",
+      "afterFingerprint": "631a95e947a6f7756ecc88fe8e0b1516d92fad0dfeb2c5db34a551fe8546598e",
+      "unchanged": true
+    },
+    {
+      "name": "LC table / physical plinth navigation footprint",
+      "pointer": 2165507019688,
+      "beforeFingerprint": "400be028021a544e7b1b2c83f2861b4fe0213b692154bd8b09848de65f1a28a7",
+      "afterFingerprint": "400be028021a544e7b1b2c83f2861b4fe0213b692154bd8b09848de65f1a28a7",
+      "unchanged": true
+    },
+    {
+      "name": "LC reading station / atrium",
+      "pointer": 2165507004904,
+      "beforeFingerprint": "11b2f74705ba3d14ec64009333b30ece90cbc6bde900628ef603a5edabba2567",
+      "afterFingerprint": "11b2f74705ba3d14ec64009333b30ece90cbc6bde900628ef603a5edabba2567",
+      "unchanged": true
+    },
+    {
+      "name": "LC About / column purple inset -1",
+      "pointer": 2165507009832,
+      "beforeFingerprint": "0f19756008adab743fddfc1d40db610ac837ed0a35f4f7e73cfd96edefb8c50b",
+      "afterFingerprint": "0f19756008adab743fddfc1d40db610ac837ed0a35f4f7e73cfd96edefb8c50b",
+      "unchanged": true
+    },
+    {
+      "name": "LC About / column purple inset 1",
+      "pointer": 2165507006136,
+      "beforeFingerprint": "c2f691e69de9a8c4ebb93afd5c270c0c57f7b70990d3005eee35a4ccd2e2d8c3",
+      "afterFingerprint": "c2f691e69de9a8c4ebb93afd5c270c0c57f7b70990d3005eee35a4ccd2e2d8c3",
+      "unchanged": true
+    },
+    {
+      "name": "LC About / corner light inlay",
+      "pointer": 2165507012296,
+      "beforeFingerprint": "0bd4b8922a71d56999b6e406ae537605401f2e51c4b5656ce014d8d46851c1ae",
+      "afterFingerprint": "0bd4b8922a71d56999b6e406ae537605401f2e51c4b5656ce014d8d46851c1ae",
+      "unchanged": true
+    },
+    {
+      "name": "LC About / corner light inlay.001",
+      "pointer": 2165507008600,
+      "beforeFingerprint": "814ce596ed7c7646f701dcb2bb58f66fab1bdab31b5c6eae1fc5bff464a3b5a6",
+      "afterFingerprint": "814ce596ed7c7646f701dcb2bb58f66fab1bdab31b5c6eae1fc5bff464a3b5a6",
+      "unchanged": true
+    },
+    {
+      "name": "LC About / corner light inlay.002",
+      "pointer": 2165507020920,
+      "beforeFingerprint": "124e8909481131ebdbc3e76a36e2483f10139508407783ab6309adba3a2924bd",
+      "afterFingerprint": "124e8909481131ebdbc3e76a36e2483f10139508407783ab6309adba3a2924bd",
+      "unchanged": true
+    },
+    {
+      "name": "LC About / corner light inlay.003",
+      "pointer": 2165507007368,
+      "beforeFingerprint": "ccd5d1175bfeba478d1a342830299715254a5d1b777e5ce5df9f483636bbf6de",
+      "afterFingerprint": "ccd5d1175bfeba478d1a342830299715254a5d1b777e5ce5df9f483636bbf6de",
+      "unchanged": true
+    },
+    {
+      "name": "LC About / downlight 0",
+      "pointer": 2165514170488,
+      "beforeFingerprint": "a5261188d2eaa7ed07089dc07d07e8faa772894fe61faa9eb3fd860add137617",
+      "afterFingerprint": "a5261188d2eaa7ed07089dc07d07e8faa772894fe61faa9eb3fd860add137617",
+      "unchanged": true
+    },
+    {
+      "name": "LC About / downlight 1",
+      "pointer": 2165514181576,
+      "beforeFingerprint": "961d2834626c446680fbad2375ee70ab0f2b302cc8e135a79fba48cb36190e26",
+      "afterFingerprint": "961d2834626c446680fbad2375ee70ab0f2b302cc8e135a79fba48cb36190e26",
+      "unchanged": true
+    },
+    {
+      "name": "LC About / downlight 2",
+      "pointer": 2165514182808,
+      "beforeFingerprint": "732b538385aaf93dc1f9bfbf3ab7a0e10eba6e7eb6c6da16b977b0b843220d84",
+      "afterFingerprint": "732b538385aaf93dc1f9bfbf3ab7a0e10eba6e7eb6c6da16b977b0b843220d84",
+      "unchanged": true
+    },
+    {
+      "name": "LC About / downlight 3",
+      "pointer": 2165514176648,
+      "beforeFingerprint": "401b93116b100a630fbd20913a2fa2a578e0a12c4f46d4542f9a9fd577f6c2e1",
+      "afterFingerprint": "401b93116b100a630fbd20913a2fa2a578e0a12c4f46d4542f9a9fd577f6c2e1",
+      "unchanged": true
+    },
+    {
+      "name": "LC About / downlight 4",
+      "pointer": 2165514186504,
+      "beforeFingerprint": "77de4019dd5f1af067f1b3b212c986edd66cbf4808a61c16617ca9844db9d0e6",
+      "afterFingerprint": "77de4019dd5f1af067f1b3b212c986edd66cbf4808a61c16617ca9844db9d0e6",
+      "unchanged": true
+    },
+    {
+      "name": "LC About / downlight arm 0.001",
+      "pointer": 2165514177880,
+      "beforeFingerprint": "b19455a2c1f771de35d2b85c28a6546785941722df5d261fa491e7ff9424dfd5",
+      "afterFingerprint": "b19455a2c1f771de35d2b85c28a6546785941722df5d261fa491e7ff9424dfd5",
+      "unchanged": true
+    },
+    {
+      "name": "LC About / downlight arm 1.001",
+      "pointer": 2165514184040,
+      "beforeFingerprint": "e4db402b369591de9493aa84a3798b4659519c2a1baa9ac0ba631510692cc7a6",
+      "afterFingerprint": "e4db402b369591de9493aa84a3798b4659519c2a1baa9ac0ba631510692cc7a6",
+      "unchanged": true
+    },
+    {
+      "name": "LC About / downlight arm 2.001",
+      "pointer": 2165514172952,
+      "beforeFingerprint": "8e599d5b128310fd33cee9a288a38019d009ead97d571576e50ea3969124e9d9",
+      "afterFingerprint": "8e599d5b128310fd33cee9a288a38019d009ead97d571576e50ea3969124e9d9",
+      "unchanged": true
+    },
+    {
+      "name": "LC About / downlight arm 3.001",
+      "pointer": 2165514171720,
+      "beforeFingerprint": "8ee9ba1f7ae868b25ca76bce3885154f1bee743142f716c5f25e9d3ea82f96a7",
+      "afterFingerprint": "8ee9ba1f7ae868b25ca76bce3885154f1bee743142f716c5f25e9d3ea82f96a7",
+      "unchanged": true
+    },
+    {
+      "name": "LC About / downlight arm 4.001",
+      "pointer": 2165514187736,
+      "beforeFingerprint": "33df70f1b4eabe88f2205ee30044958d317c422ea69829411ee7511bdbe9129d",
+      "afterFingerprint": "33df70f1b4eabe88f2205ee30044958d317c422ea69829411ee7511bdbe9129d",
+      "unchanged": true
+    },
+    {
+      "name": "LC About / downlight housing 0",
+      "pointer": 2165514185272,
+      "beforeFingerprint": "ecda6ad883d8d9be65aa8b77b967a0814c8ad7510488487d6ec86e67502ad0bb",
+      "afterFingerprint": "ecda6ad883d8d9be65aa8b77b967a0814c8ad7510488487d6ec86e67502ad0bb",
+      "unchanged": true
+    },
+    {
+      "name": "LC About / downlight housing 1",
+      "pointer": 2165514188968,
+      "beforeFingerprint": "97c1dd24d1e98451903f0736ee72cd262aadfbb6c7998e3ae9234690259e64ac",
+      "afterFingerprint": "97c1dd24d1e98451903f0736ee72cd262aadfbb6c7998e3ae9234690259e64ac",
+      "unchanged": true
+    },
+    {
+      "name": "LC About / downlight housing 2",
+      "pointer": 2165514174184,
+      "beforeFingerprint": "d7943733f7ef34dd69c8b8148f3dce958de0f030f36b15ef7eb238a19d4f85bf",
+      "afterFingerprint": "d7943733f7ef34dd69c8b8148f3dce958de0f030f36b15ef7eb238a19d4f85bf",
+      "unchanged": true
+    },
+    {
+      "name": "LC About / downlight housing 3",
+      "pointer": 2165514190200,
+      "beforeFingerprint": "a22525e5e09bfce4861d57020aaba80986b06d8dc0eeed25281730058b6fb2c8",
+      "afterFingerprint": "a22525e5e09bfce4861d57020aaba80986b06d8dc0eeed25281730058b6fb2c8",
+      "unchanged": true
+    },
+    {
+      "name": "LC About / downlight housing 4",
+      "pointer": 2165514175416,
+      "beforeFingerprint": "cdc8646b050e56a9113bcf5b6535a944781eaf5636b6f4376983b911a3854739",
+      "afterFingerprint": "cdc8646b050e56a9113bcf5b6535a944781eaf5636b6f4376983b911a3854739",
+      "unchanged": true
+    },
+    {
+      "name": "LC About / downlight optical lens 0",
+      "pointer": 2165514191432,
+      "beforeFingerprint": "fabd552c91a5a468ba984bcee5d1150b07cc819aa849ea0e7441ee7bd5ec98dc",
+      "afterFingerprint": "fabd552c91a5a468ba984bcee5d1150b07cc819aa849ea0e7441ee7bd5ec98dc",
+      "unchanged": true
+    },
+    {
+      "name": "LC About / downlight optical lens 1",
+      "pointer": 2165514192664,
+      "beforeFingerprint": "c253494e726ccbc6f83becc6e56fdce786592b7242057c50245158aa67a67750",
+      "afterFingerprint": "c253494e726ccbc6f83becc6e56fdce786592b7242057c50245158aa67a67750",
+      "unchanged": true
+    },
+    {
+      "name": "LC About / downlight optical lens 2",
+      "pointer": 2165514180344,
+      "beforeFingerprint": "4e4e7da89cfc47c25d5081ffa9b3ce18dea309b24c5ae72005adf374d9560455",
+      "afterFingerprint": "4e4e7da89cfc47c25d5081ffa9b3ce18dea309b24c5ae72005adf374d9560455",
+      "unchanged": true
+    },
+    {
+      "name": "LC About / downlight optical lens 3",
+      "pointer": 2165514193896,
+      "beforeFingerprint": "6a4aec28a6e0b0c9f6228da8720d4053a50ca92ca65816b424cca8294d3fff6b",
+      "afterFingerprint": "6a4aec28a6e0b0c9f6228da8720d4053a50ca92ca65816b424cca8294d3fff6b",
+      "unchanged": true
+    },
+    {
+      "name": "LC About / downlight optical lens 4",
+      "pointer": 2165514179112,
+      "beforeFingerprint": "e294fb7833fa293536c18d48c1db48b321d8d8760a39b8dfdccb85a942c94512",
+      "afterFingerprint": "e294fb7833fa293536c18d48c1db48b321d8d8760a39b8dfdccb85a942c94512",
+      "unchanged": true
+    },
+    {
+      "name": "LC About / plum illuminated print face",
+      "pointer": 2165514209912,
+      "beforeFingerprint": "5b50e4ee4c3d5eaa6a5fa6d2f2dff885db5fa7c81b46c83771f65893ba02523e",
+      "afterFingerprint": "5b50e4ee4c3d5eaa6a5fa6d2f2dff885db5fa7c81b46c83771f65893ba02523e",
+      "unchanged": true
+    },
+    {
+      "name": "LC About / precision corner cap",
+      "pointer": 2165514202520,
+      "beforeFingerprint": "611201c6bc641c17f4fdf344a4c6c698937795eedc5164ebcf4e2e59b920b1ab",
+      "afterFingerprint": "611201c6bc641c17f4fdf344a4c6c698937795eedc5164ebcf4e2e59b920b1ab",
+      "unchanged": true
+    },
+    {
+      "name": "LC About / precision corner cap.001",
+      "pointer": 2165514198824,
+      "beforeFingerprint": "eecf4b609e1f53bd9dd1ac4ea7c2ff0f8f891f00d92944c36b2521d2bbd8d64b",
+      "afterFingerprint": "eecf4b609e1f53bd9dd1ac4ea7c2ff0f8f891f00d92944c36b2521d2bbd8d64b",
+      "unchanged": true
+    },
+    {
+      "name": "LC About / precision corner cap.002",
+      "pointer": 2165514195128,
+      "beforeFingerprint": "29220dec4ab3916c5448c75dbfd7e159d2e484da286bf8c5ebe75dd1b701cd22",
+      "afterFingerprint": "29220dec4ab3916c5448c75dbfd7e159d2e484da286bf8c5ebe75dd1b701cd22",
+      "unchanged": true
+    },
+    {
+      "name": "LC About / precision corner cap.003",
+      "pointer": 2165514204984,
+      "beforeFingerprint": "b1bd9a87c4a493c20e894503e568c56094e30bfd9f57e24798c004f34f4d0bea",
+      "afterFingerprint": "b1bd9a87c4a493c20e894503e568c56094e30bfd9f57e24798c004f34f4d0bea",
+      "unchanged": true
+    },
+    {
+      "name": "LC About / radiant inset",
+      "pointer": 2165514197592,
+      "beforeFingerprint": "b7de53610be7d9d1dcb081105871859491c50c1ad1945e09510555883dae02e1",
+      "afterFingerprint": "b7de53610be7d9d1dcb081105871859491c50c1ad1945e09510555883dae02e1",
+      "unchanged": true
+    },
+    {
+      "name": "LC About / recessed bezel",
+      "pointer": 2165514206216,
+      "beforeFingerprint": "721f0367dc6a79c6c93c6bbc9f0530ff936599d6792a8f419bec84a2fa5e44e5",
+      "afterFingerprint": "721f0367dc6a79c6c93c6bbc9f0530ff936599d6792a8f419bec84a2fa5e44e5",
+      "unchanged": true
+    },
+    {
+      "name": "LC About / thick advertising box",
+      "pointer": 2165514196360,
+      "beforeFingerprint": "e323bb4bd5dcb29edf1ff160c0d0c08285fbe0cc8e70fc4c657b4fd2e88a88e3",
+      "afterFingerprint": "e323bb4bd5dcb29edf1ff160c0d0c08285fbe0cc8e70fc4c657b4fd2e88a88e3",
+      "unchanged": true
+    },
+    {
+      "name": "LC About / twin support -1",
+      "pointer": 2165514211144,
+      "beforeFingerprint": "414714e59aa82cb4f0f5fe587354f59d9c3cb5398b957ce12ddfe37c0bdef756",
+      "afterFingerprint": "414714e59aa82cb4f0f5fe587354f59d9c3cb5398b957ce12ddfe37c0bdef756",
+      "unchanged": true
+    },
+    {
+      "name": "LC About / twin support 1",
+      "pointer": 2165514203752,
+      "beforeFingerprint": "fd9e589eb983926a76d513688d20e967e37ebef0176fba8ad35ae5eb3d39f189",
+      "afterFingerprint": "fd9e589eb983926a76d513688d20e967e37ebef0176fba8ad35ae5eb3d39f189",
+      "unchanged": true
+    },
+    {
+      "name": "LC About / weighted foot -1",
+      "pointer": 2165514208680,
+      "beforeFingerprint": "9e04e2c6dc058a3cafbd16ef9e4dd3c06096a81e4f271f2113f5f51a8f6c7d1c",
+      "afterFingerprint": "9e04e2c6dc058a3cafbd16ef9e4dd3c06096a81e4f271f2113f5f51a8f6c7d1c",
+      "unchanged": true
+    },
+    {
+      "name": "LC About / weighted foot 1",
+      "pointer": 2165514207448,
+      "beforeFingerprint": "3bdad7011688cdeefde8f068e0f08876229a1c62ee450beca84ccb4071724397",
+      "afterFingerprint": "3bdad7011688cdeefde8f068e0f08876229a1c62ee450beca84ccb4071724397",
+      "unchanged": true
+    },
+    {
+      "name": "LC legend / A Hong Kong creative.001",
+      "pointer": 2165514212376,
+      "beforeFingerprint": "a34dff1e5c8427e36f521dacb95fba94cda8c78a0bc46cc460d3e47b503480c2",
+      "afterFingerprint": "a34dff1e5c8427e36f521dacb95fba94cda8c78a0bc46cc460d3e47b503480c2",
+      "unchanged": true
+    },
+    {
+      "name": "LC legend / ABOUT.003",
+      "pointer": 2165514213608,
+      "beforeFingerprint": "72e2830d7445cac2028fac354d67b70164b2dd278bfdd9f06ee892ae43d798e8",
+      "afterFingerprint": "72e2830d7445cac2028fac354d67b70164b2dd278bfdd9f06ee892ae43d798e8",
+      "unchanged": true
+    },
+    {
+      "name": "LC legend / AI-assisted engines and tools..001",
+      "pointer": 2165514214840,
+      "beforeFingerprint": "9538ff479f33a0e53cb6e26fc094049c14c4a39f7fc1e4ff31bb1c9692418df7",
+      "afterFingerprint": "9538ff479f33a0e53cb6e26fc094049c14c4a39f7fc1e4ff31bb1c9692418df7",
+      "unchanged": true
+    },
+    {
+      "name": "LC legend / EXPLORE THE STUDIO.001",
+      "pointer": 2165514200056,
+      "beforeFingerprint": "362dc20e8cfc23d6ff11a8c2d965e3227d60999fabbb16912edcdac59802ee58",
+      "afterFingerprint": "362dc20e8cfc23d6ff11a8c2d965e3227d60999fabbb16912edcdac59802ee58",
+      "unchanged": true
+    },
+    {
+      "name": "LC legend / LIGHTCONE PLAY.001",
+      "pointer": 2165514201288,
+      "beforeFingerprint": "d6dd575cd041abf80c38b6f63571306874b2ed869d4bf79492169dd24258763a",
+      "afterFingerprint": "d6dd575cd041abf80c38b6f63571306874b2ed869d4bf79492169dd24258763a",
+      "unchanged": true
+    },
+    {
+      "name": "LC legend / new ways to play..001",
+      "pointer": 2165514219768,
+      "beforeFingerprint": "e57a0f73fbbd0853ae962d161dc84236cedac3ad4d31315ecfab104f8f02b096",
+      "afterFingerprint": "e57a0f73fbbd0853ae962d161dc84236cedac3ad4d31315ecfab104f8f02b096",
+      "unchanged": true
+    },
+    {
+      "name": "LC legend / Original games. Spatial experiences..001",
+      "pointer": 2165514221000,
+      "beforeFingerprint": "8918fc2a0fc9779ab18aaff65ab11e896639923c85975d2cac9a1a9059e6f4cb",
+      "afterFingerprint": "8918fc2a0fc9779ab18aaff65ab11e896639923c85975d2cac9a1a9059e6f4cb",
+      "unchanged": true
+    },
+    {
+      "name": "LC legend / technology studio..001",
+      "pointer": 2165514223464,
+      "beforeFingerprint": "2a6898ec986460d258d873a67d73365ff6059e67967b155bb332089a159f3117",
+      "afterFingerprint": "2a6898ec986460d258d873a67d73365ff6059e67967b155bb332089a159f3117",
+      "unchanged": true
+    },
+    {
+      "name": "LC legend / We turn imagination into.001",
+      "pointer": 2165514222232,
+      "beforeFingerprint": "63e56f0e36694920206768c771a3e4ea93b7f9206b8ad7737f4b2675ecaa23da",
+      "afterFingerprint": "63e56f0e36694920206768c771a3e4ea93b7f9206b8ad7737f4b2675ecaa23da",
+      "unchanged": true
+    }
+  ],
+  "materials": [
+    {
+      "name": "Dots Stroke",
+      "unchanged": true
+    },
+    {
+      "name": "LC / About / readable cyan copy",
+      "unchanged": true
+    },
+    {
+      "name": "LC / About / readable violet lettering",
+      "unchanged": true
+    },
+    {
+      "name": "LC / About / softly luminous plum enamel",
+      "unchanged": true
+    },
+    {
+      "name": "LC / About / violet anodised chassis",
+      "unchanged": true
+    },
+    {
+      "name": "LC / About / violet phosphor",
+      "unchanged": true
+    },
+    {
+      "name": "LC / black optical glass.002",
+      "unchanged": true
+    },
+    {
+      "name": "LC / black optical glass.003",
+      "unchanged": true
+    },
+    {
+      "name": "LC / control legend / about",
+      "unchanged": true
+    },
+    {
+      "name": "LC / control legend / engine",
+      "unchanged": true
+    },
+    {
+      "name": "LC / control legend / hologravity",
+      "unchanged": true
+    },
+    {
+      "name": "LC / control legend / join",
+      "unchanged": true
+    },
+    {
+      "name": "LC / control legend / memory",
+      "unchanged": true
+    },
+    {
+      "name": "LC / control legend / partners",
+      "unchanged": true
+    },
+    {
+      "name": "LC / control legend / play",
+      "unchanged": true
+    },
+    {
+      "name": "LC / control legend / stories",
+      "unchanged": true
+    },
+    {
+      "name": "LC / engine / chromatic ink lettering.002",
+      "unchanged": true
+    },
+    {
+      "name": "LC / engine / coloured chassis.002",
+      "unchanged": true
+    },
+    {
+      "name": "LC / engine / luminous depth.002",
+      "unchanged": true
+    },
+    {
+      "name": "LC / engine / radiant inner edge.002",
+      "unchanged": true
+    },
+    {
+      "name": "LC / graphite titanium.003",
+      "unchanged": true
+    },
+    {
+      "name": "LC / hologram spectral glass 0.002",
+      "unchanged": true
+    },
+    {
+      "name": "LC / hologram spectral glass 1.002",
+      "unchanged": true
+    },
+    {
+      "name": "LC / hologram spectral glass 2.002",
+      "unchanged": true
+    },
+    {
+      "name": "LC / hologram spectral glass 3.002",
+      "unchanged": true
+    },
+    {
+      "name": "LC / hologram spectral glass 4.002",
+      "unchanged": true
+    },
+    {
+      "name": "LC / hologram spectral glass 5.002",
+      "unchanged": true
+    },
+    {
+      "name": "LC / hologram spectral glass 6.002",
+      "unchanged": true
+    },
+    {
+      "name": "LC / hologravity / chromatic ink lettering.002",
+      "unchanged": true
+    },
+    {
+      "name": "LC / hologravity / coloured chassis.002",
+      "unchanged": true
+    },
+    {
+      "name": "LC / hologravity / luminous depth.002",
+      "unchanged": true
+    },
+    {
+      "name": "LC / hologravity / radiant inner edge.002",
+      "unchanged": true
+    },
+    {
+      "name": "LC / instrument enamel.003",
+      "unchanged": true
+    },
+    {
+      "name": "LC / instrument legend.003",
+      "unchanged": true
+    },
+    {
+      "name": "LC / instrument magenta",
+      "unchanged": true
+    },
+    {
+      "name": "LC / instrument purple",
+      "unchanged": true
+    },
+    {
+      "name": "LC / memory / chromatic ink lettering.002",
+      "unchanged": true
+    },
+    {
+      "name": "LC / memory / coloured chassis.002",
+      "unchanged": true
+    },
+    {
+      "name": "LC / memory / luminous depth.002",
+      "unchanged": true
+    },
+    {
+      "name": "LC / memory / radiant inner edge.002",
+      "unchanged": true
+    },
+    {
+      "name": "LC / navigation-sign / luminous depth",
+      "unchanged": true
+    },
+    {
+      "name": "LC / obsidian ceramic.003",
+      "unchanged": true
+    },
+    {
+      "name": "LC / play / chromatic ink lettering.002",
+      "unchanged": true
+    },
+    {
+      "name": "LC / play / coloured chassis.002",
+      "unchanged": true
+    },
+    {
+      "name": "LC / play / luminous depth.002",
+      "unchanged": true
+    },
+    {
+      "name": "LC / play / radiant inner edge.002",
+      "unchanged": true
+    },
+    {
+      "name": "LC / stories / chromatic ink lettering.002",
+      "unchanged": true
+    },
+    {
+      "name": "LC / stories / coloured chassis.002",
+      "unchanged": true
+    },
+    {
+      "name": "LC / stories / luminous depth.002",
+      "unchanged": true
+    },
+    {
+      "name": "LC / stories / radiant inner edge.002",
+      "unchanged": true
+    },
+    {
+      "name": "LC / transparent hologram shell.002",
+      "unchanged": true
+    },
+    {
+      "name": "Light Cells / deep anodised pressure structure.002",
+      "unchanged": true
+    },
+    {
+      "name": "Light Cells / machined blue-black edge.002",
+      "unchanged": true
+    },
+    {
+      "name": "Light Cells / observation luminous gasket.002",
+      "unchanged": true
+    },
+    {
+      "name": "Light Cells / optical panoramic canopy.002",
+      "unchanged": true
+    },
+    {
+      "name": "Light Cells / polished obsidian ceramic.002",
+      "unchanged": true
+    },
+    {
+      "name": "Light Cells / recess shadow.002",
+      "unchanged": true
+    },
+    {
+      "name": "Light Cells / recessed low-luminance blue seam.002",
+      "unchanged": true
+    },
+    {
+      "name": "Light Cells / satin midnight titanium.002",
+      "unchanged": true
+    },
+    {
+      "name": "Material",
+      "unchanged": true
+    }
+  ],
+  "originalDatablockIdentity": {
+    "meshes": true,
+    "curves": true,
+    "materials": true,
+    "cameras": true,
+    "lights": true,
+    "worlds": true
+  },
+  "derivedOnlyVisibilityChanges": [
+    {
+      "name": "LC navigation instrument",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC console / bevelled floating lower shell",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC console / cabinet status light -1",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC console / cabinet status light 1",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC console / concealed structural crossbeam",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC console / front edge status reveal.002",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC console / front edge status reveal.003",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC console / functional cooling slot -1.0",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC console / functional cooling slot -1.1",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC console / functional cooling slot -1.2",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC console / functional cooling slot -1.3",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC console / functional cooling slot 1.0",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC console / functional cooling slot 1.1",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC console / functional cooling slot 1.2",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC console / functional cooling slot 1.3",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC console / inset cabinet fascia -1",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC console / inset cabinet fascia 1",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC console / modules inset",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC console / paired equipment cabinet -1",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC console / paired equipment cabinet 1",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC console / recessed gasket layer",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC console / stepped optical upper deck",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC console / weighted side footing -1",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC console / weighted side footing 1",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC legend / MODULES.001",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC ORBIT PLAY instrument",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC legend / ORBIT / PLAY.001",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC ORBIT / end guard -1",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC ORBIT / end guard 1",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC ORBIT / exit-side phosphor -1.001",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC ORBIT / exit-side phosphor 1.001",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC ORBIT / guiding phosphor 1.001",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC ORBIT / open-side split guard -1",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC ORBIT / open-side split guard 1",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC ORBIT / recessed play surface",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC ORBIT / side guard 1",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC ORBIT / table transfer ramp",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC raised button / about",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC key colour insert / about",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC key gasket / about",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC key optical inlay / about",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC legend / ABOUT.002",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC tactile keycap / about",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC raised button / engine",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC key colour insert / engine",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC key gasket / engine",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC key optical inlay / engine",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC legend / UNIVERSE.001",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC tactile keycap / engine",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC raised button / hologravity",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC key colour insert / hologravity",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC key gasket / hologravity",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC key optical inlay / hologravity",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC legend / HOLOGRAM.005",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC tactile keycap / hologravity",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC raised button / join",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC key colour insert / join",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC key gasket / join",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC key optical inlay / join",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC legend / JOIN US.001",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC tactile keycap / join",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC raised button / memory",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC key colour insert / memory",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC key gasket / memory",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC key optical inlay / memory",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC legend / MEMORY.001",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC tactile keycap / memory",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC raised button / partners",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC key colour insert / partners",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC key gasket / partners",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC key optical inlay / partners",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC legend / OUR PARTNERS.001",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC tactile keycap / partners",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC raised button / play",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC key colour insert / play",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC key gasket / play",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC key optical inlay / play",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC legend / XR PLAYGROUND.005",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC tactile keycap / play",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC raised button / stories",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC key colour insert / stories",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC key gasket / stories",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC key optical inlay / stories",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC legend / GAMES.005",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC tactile keycap / stories",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC rear navigation light cell",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC legend / NAVIGATION.001",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC rear sign / luminous field",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC rear sign / optical chassis",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC rear sign / phosphor perimeter",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC rear sign / cantilever saddle -1",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC rear sign / cantilever saddle 1",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC rear sign / structural upright -1",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC rear sign / structural upright 1",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    },
+    {
+      "name": "LC table / physical plinth navigation footprint",
+      "before": {
+        "hideRender": false,
+        "hideViewport": false,
+        "hideSet": false
+      },
+      "after": {
+        "hideRender": true,
+        "hideViewport": true,
+        "hideSet": true
+      },
+      "reason": "Superseded console hidden only in derived review source; original datablock preserved"
+    }
+  ],
+  "sourceCompatibility": {
+    "openedFormat": "Native vessel glTF 2.0 binary",
+    "openedSource": {
+      "file": "assets/ship-v13-from-v12/lightcone-v13-from-v12.glb",
+      "sha256": "8e9dd445fd29e7a286a7105a964d1fd7abc10298b4859d6cdabeb64c1dedd2fc"
+    },
+    "sourceBlendOpened": false,
+    "runtimeVersion": [
+      4,
+      2,
+      0
+    ],
+    "runtime": "4.2.0",
+    "originalBlendFormat": "Blender 5.0; retained as unopened, unchanged protected baseline",
+    "undefinedNodes": [],
+    "scope": "The original .blend and .glb files remain byte-for-byte unchanged. Identity checks cover the actual native GLB reference imported into Blender, before and after adding the new hardware. The original Blender 5.0 scene was not opened; preservation is not a claim about loading its native datablocks."
+  },
+  "passed": true
+}

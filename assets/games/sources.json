@@ -1,0 +1,117 @@
+{
+  "verifiedOn": "2026-10-27",
+  "delivery": "18 locally bundled original images, maximum long edge 1920px, JPEG. Video embeds load only on explicit play.",
+  "ownership": "User-owned portfolio/game media requested by user.",
+  "sources": {
+    "blackPulse": {
+      "page": "https://www.roostar.org/game/project-four-l3zw3-ce29l",
+      "play": "https://roostarhoney.itch.io/black-pulse",
+      "images": [
+        {
+          "local": "blackpulse-cover.jpg",
+          "original": "https://images.squarespace-cdn.com/content/v1/682b571c1212fd20b52dfdc0/766f3bfd-be9f-44ce-8ca8-64df628127bd/%E5%B0%81%E9%9D%A2%E5%9B%BE.png"
+        },
+        {
+          "local": "blackpulse-city.jpg",
+          "original": "https://images.squarespace-cdn.com/content/v1/682b571c1212fd20b52dfdc0/baec2de5-b2dd-4ec6-9699-485b7ac116f4/WechatIMG350.jpg"
+        },
+        {
+          "local": "blackpulse-taxi.jpg",
+          "original": "https://images.squarespace-cdn.com/content/v1/682b571c1212fd20b52dfdc0/4a5558ba-de56-4459-956c-8a5ab87a70ff/WechatIMG346.jpg"
+        },
+        {
+          "local": "blackpulse-inspect.jpg",
+          "original": "https://images.squarespace-cdn.com/content/v1/682b571c1212fd20b52dfdc0/60862611-040c-4090-9462-5bf43c530808/WechatIMG347.jpg"
+        },
+        {
+          "local": "blackpulse-time.jpg",
+          "original": "https://images.squarespace-cdn.com/content/v1/682b571c1212fd20b52dfdc0/448ffc81-17e9-40ae-b51c-38ca4aff4790/WechatIMG348.jpg"
+        },
+        {
+          "local": "blackpulse-opening.jpg",
+          "original": "https://images.squarespace-cdn.com/content/v1/682b571c1212fd20b52dfdc0/bbc2fe85-1d8f-4c14-bdd4-043aaadde503/WechatIMG343.jpg"
+        },
+        {
+          "local": "blackpulse-danger.jpg",
+          "original": "https://images.squarespace-cdn.com/content/v1/682b571c1212fd20b52dfdc0/08673ef1-3aa3-4051-adc9-435b9b9f90fe/WechatIMG352.jpg"
+        },
+        {
+          "local": "blackpulse-cyrus.jpg",
+          "original": "https://images.squarespace-cdn.com/content/v1/682b571c1212fd20b52dfdc0/a342654b-a26c-41ce-b336-1d2f30a0cb6e/WechatIMG349.jpg"
+        }
+      ]
+    },
+    "paradox": {
+      "page": "https://www.roostar.org/game/project-four-l3zw3-kzsk8",
+      "document": "VR Pre ppt.pdf",
+      "images": [
+        {
+          "local": "paradox-cover.jpg",
+          "page": 1,
+          "embeddedImage": "Im2.png"
+        },
+        {
+          "local": "paradox-staircase.jpg",
+          "page": 6,
+          "embeddedImage": "Im67.png"
+        },
+        {
+          "local": "paradox-figure.jpg",
+          "page": 6,
+          "embeddedImage": "Im68.png"
+        },
+        {
+          "local": "paradox-mirror.jpg",
+          "page": 6,
+          "embeddedImage": "Im69.png"
+        },
+        {
+          "local": "paradox-chair.jpg",
+          "page": 6,
+          "embeddedImage": "Im70.png"
+        },
+        {
+          "local": "paradox-crate.jpg",
+          "page": 6,
+          "embeddedImage": "Im71.png"
+        },
+        {
+          "local": "paradox-interior.jpg",
+          "page": 6,
+          "embeddedImage": "Im72.png"
+        },
+        {
+          "local": "paradox-level-study.jpg",
+          "page": 6,
+          "embeddedImage": "Im64.jpg"
+        },
+        {
+          "local": "paradox-space-study.jpg",
+          "page": 6,
+          "embeddedImage": "Im65.jpg"
+        },
+        {
+          "local": "paradox-mechanics-sheet.jpg",
+          "page": 4,
+          "renderedFullPage": true
+        }
+      ]
+    }
+  },
+  "videos": {
+    "blackPulse": {
+      "id": "SvDb3p0VVvA",
+      "source": "YouTube iframe in official Black Pulse portfolio HTML"
+    },
+    "paradoxMansion": {
+      "id": "UTdfq8nzmrI",
+      "source": "YouTube iframe in official Paradox Mansion portfolio HTML"
+    },
+    "playbackVerified": false
+  },
+  "limitations": [
+    "Video playback requires YouTube access; source IDs verified, live playback not tested.",
+    "Original VR captures include the development capture interface.",
+    "Whole-site browser visual review is separate from component checks."
+  ]
+}

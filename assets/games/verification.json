@@ -1,0 +1,12 @@
+{
+  "checks": 24,
+  "passed": true,
+  "localImages": 18,
+  "verifiedVideoIds": [
+    "SvDb3p0VVvA",
+    "UTdfq8nzmrI"
+  ],
+  "browserVisualQA": "Pending whole-site review",
+  "videoPlayback": "Embeds use IDs in original portfolio pages; live playback not tested",
+  "totalImageBytes": 4394597
+}

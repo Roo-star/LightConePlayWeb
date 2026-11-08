@@ -1,0 +1,103 @@
+{
+  "package": "cubiverse-alpha-v1",
+  "version": "1.4.0",
+  "purpose": "Unmodified original game factories and renderer helpers, bundled for the ship exhibit. No original files are written.",
+  "sources": [
+    {
+      "path": "src/spatial.js",
+      "sha256": "0809fc4d3b9f1b9cd5672b60920e0ea3ce186452e08fa3ccf4100ec73d2338d9"
+    },
+    {
+      "path": "src/cube-labels.js",
+      "sha256": "2967ada45e1fc5bd6b9da020e0757c262e241d48e4eb066d9171977de5b4d9d5"
+    },
+    {
+      "path": "src/slice-renderer.js",
+      "sha256": "9098541e2bc612674e9ff2dd5998cf43bdc55c197b94c3d703209746d6deb132"
+    },
+    {
+      "path": "src/scene.js",
+      "sha256": "7329535a4ddf09b076ffb24eb90a7258bc15d9eed69410ce77a68a90b514a49f"
+    },
+    {
+      "path": "src/slice-state.js",
+      "sha256": "e9e58011853082991daf5e1a306f6bddd22296985aa7b7620bec33516872274b"
+    },
+    {
+      "path": "src/cover-art.js",
+      "sha256": "739dbf324eb137be4f01cde817e8ecfb1fb81a9153ee53a8dfa4331d5aa53922"
+    },
+    {
+      "path": "src/catalog.js",
+      "sha256": "569c58672fad497b59da967f386012c79e2a0863a60ea5a767cc6d15b346aba5"
+    },
+    {
+      "path": "src/games/tetris.js",
+      "sha256": "b743471e0e44cd34a1d30ac7e7e5f6f92ca49dd8506a03f9838e8e59daa26de7"
+    },
+    {
+      "path": "src/games/sudoku-view.js",
+      "sha256": "b966751b541a2d1af3d2551a684fa63b235cfd58c229bde32daab5937226bc87"
+    },
+    {
+      "path": "src/games/sudoku.js",
+      "sha256": "3d135e733cf3ce362b122aa4dbd429e88876f692b1a63254c1cf0f82bcbb8638"
+    },
+    {
+      "path": "src/games/pacman-navigation.js",
+      "sha256": "83c62e442d385fd0bcf3e4e30dbaa6f18e9d0be3b5984f9c1b0a8d9670e45660"
+    },
+    {
+      "path": "src/games/pacman-maze-v13.js",
+      "sha256": "b104ff8abcb4343f27227ecda5e04e546036363a1c4712ca4b49fb97d4f9619d"
+    },
+    {
+      "path": "src/games/pacman-pipes.js",
+      "sha256": "f8c21a4803bfb5651f9ccadeb804c3248eaa990a4f6da9042dc8aaea087c3b27"
+    },
+    {
+      "path": "src/games/pacman.js",
+      "sha256": "0da4e5a85927d2f921508ee2ca3dd516dad4f690402132e6cddb30e944941cd7"
+    },
+    {
+      "path": "src/games/blokus.js",
+      "sha256": "4b47bfc1289e2e59ba833c7aeb470e4f84f47cc33e41e968955572d943ae9818"
+    },
+    {
+      "path": "src/numpuz-v13.css",
+      "sha256": "95c3e332d35b96c1a9afcd60dccd6476721b1f8786ed5ea6ebfec3781a784c54"
+    },
+    {
+      "path": "src/games/numpuz.js",
+      "sha256": "a8689fef3c114192270c568f2ce9b40fcd7c5292a306cb42bd02d2c2b00a1091"
+    },
+    {
+      "path": "src/games/match3-assist.js",
+      "sha256": "b8e104db0a53be2e279c0458b18b55cbc07ee985b79188181df2dbffaac09d1a"
+    },
+    {
+      "path": "src/match3-v13.css",
+      "sha256": "8aaf50db985b2f34084991a1ea24655ce3082f07bbe473f04887bf13d93b48a2"
+    },
+    {
+      "path": "src/games/match3.js",
+      "sha256": "609ef3accf127938d9485512ae9f3cdaf5ece5731e79a9abc6bdbaf5864c3bdb"
+    },
+    {
+      "path": "src/games/tictactoe.js",
+      "sha256": "d9219a97ee63e2da72a67507772ccec8b58d71ab57cc1de4890e99bc3453aef9"
+    },
+    {
+      "path": "src/games/minesweeper.js",
+      "sha256": "678ab9981513df1dcb6c354a15c04a187f46164efdcf682e58008a67e54fe85a"
+    },
+    {
+      "path": "src/games/connect4.js",
+      "sha256": "6359b924cf680e343c214562bb29244790defe7b86ad2955973fd4ffeb383b37"
+    },
+    {
+      "path": "src/games/2048.js",
+      "sha256": "c21bea47ef402e8d542c35f93b5f5412665189313fe80c46c4d9dd83980b0e12"
+    }
+  ]
+}
