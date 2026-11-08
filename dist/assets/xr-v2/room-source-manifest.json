@@ -1,0 +1,285 @@
+{
+  "created": "2026-11-07T11:01:14.226254+00:00",
+  "blenderVersion": "4.2.0",
+  "execution": "Official bpy 4.2.0 native Blender Python module",
+  "roomSource": "acquired architectural/furniture meshes remixed in Blender; no self-authored game assets",
+  "sourceBlend": {
+    "path": "assets/xr-v2/acquired-room-assets/barcelona/3d/pavillon_barcelone_v1.2.blend",
+    "sha256": "92162db8cabcd03641c53df95554b604b494ba74a76a099c7e06637e9379120a",
+    "unchanged": true,
+    "author": "eMirage",
+    "license": "CC-BY",
+    "page": "https://www.blender.org/download/demo-files/"
+  },
+  "assets": [
+    {
+      "role": "XR_FLOOR",
+      "source": "eMirage Barcelona Pavilion",
+      "sourceObjects": [
+        "Cube.033"
+      ],
+      "adaptation": "Original evaluated architectural meshes reused; dimensions and UV coordinates adjusted for architectural assembly."
+    },
+    {
+      "role": "XR_ONYX_WALL",
+      "source": "eMirage Barcelona Pavilion",
+      "sourceObjects": [
+        "Cube.002"
+      ],
+      "adaptation": "Original evaluated architectural meshes reused; dimensions and UV coordinates adjusted for architectural assembly."
+    },
+    {
+      "role": "XR_GLAZING_LEFT",
+      "source": "eMirage Barcelona Pavilion",
+      "sourceObjects": [
+        "Cube.029",
+        "Cube.022"
+      ],
+      "adaptation": "Original evaluated architectural meshes reused; dimensions and UV coordinates adjusted for architectural assembly."
+    },
+    {
+      "role": "XR_GLAZING_RIGHT",
+      "source": "eMirage Barcelona Pavilion",
+      "sourceObjects": [
+        "Cube.029",
+        "Cube.022"
+      ],
+      "adaptation": "Original evaluated architectural meshes reused; dimensions and UV coordinates adjusted for architectural assembly."
+    },
+    {
+      "role": "XR_REAR_CANOPY",
+      "source": "eMirage Barcelona Pavilion",
+      "sourceObjects": [
+        "Plane.001"
+      ],
+      "adaptation": "Original evaluated architectural meshes reused; dimensions and UV coordinates adjusted for architectural assembly."
+    },
+    {
+      "role": "XR_CHROME_COLUMN_-7.7_-5.8",
+      "source": "eMirage Barcelona Pavilion",
+      "sourceObjects": [
+        "Cylinder.004"
+      ],
+      "adaptation": "Original evaluated architectural meshes reused; dimensions and UV coordinates adjusted for architectural assembly."
+    },
+    {
+      "role": "XR_CHROME_COLUMN_-7.7_4.25",
+      "source": "eMirage Barcelona Pavilion",
+      "sourceObjects": [
+        "Cylinder.004"
+      ],
+      "adaptation": "Original evaluated architectural meshes reused; dimensions and UV coordinates adjusted for architectural assembly."
+    },
+    {
+      "role": "XR_CHROME_COLUMN_7.7_-5.8",
+      "source": "eMirage Barcelona Pavilion",
+      "sourceObjects": [
+        "Cylinder.004"
+      ],
+      "adaptation": "Original evaluated architectural meshes reused; dimensions and UV coordinates adjusted for architectural assembly."
+    },
+    {
+      "role": "XR_CHROME_COLUMN_7.7_4.25",
+      "source": "eMirage Barcelona Pavilion",
+      "sourceObjects": [
+        "Cylinder.004"
+      ],
+      "adaptation": "Original evaluated architectural meshes reused; dimensions and UV coordinates adjusted for architectural assembly."
+    },
+    {
+      "role": "SCYTHE_TABLE",
+      "source": "Poly Haven",
+      "id": "WoodenTable_02",
+      "license": "CC0-1.0",
+      "page": "https://polyhaven.com/a/WoodenTable_02",
+      "sourceFile": "assets/xr-v2/acquired-room-assets/WoodenTable_02/WoodenTable_02.gltf",
+      "sourceSha256": "e23631a27990934c78dae2c6b8d23f2735485eb689e4032493719204d7e4eeef",
+      "position": [
+        0.5,
+        0.24,
+        -0.5
+      ],
+      "dimensions": [
+        3.8,
+        0.76,
+        2.4
+      ]
+    },
+    {
+      "role": "MARIO_DESK",
+      "source": "Poly Haven",
+      "id": "SchoolDesk_01",
+      "license": "CC0-1.0",
+      "page": "https://polyhaven.com/a/SchoolDesk_01",
+      "sourceFile": "assets/xr-v2/acquired-room-assets/SchoolDesk_01/SchoolDesk_01.gltf",
+      "sourceSha256": "98eb40d3ed2992d73d6e9150d5d5b8acd64937f4a832c1018eb668b72caabea6",
+      "position": [
+        -4.8,
+        0.24,
+        -4.65
+      ],
+      "dimensions": [
+        3.6,
+        0.78,
+        1.8
+      ]
+    },
+    {
+      "role": "XR_SOFA",
+      "source": "Poly Haven",
+      "id": "sofa_03",
+      "license": "CC0-1.0",
+      "page": "https://polyhaven.com/a/sofa_03",
+      "sourceFile": "assets/xr-v2/acquired-room-assets/sofa_03/sofa_03.gltf",
+      "sourceSha256": "885fd91183328e44af4e2766044c6636fde31ad10af27bb8eb0d57a775ca92c7",
+      "position": [
+        -5.25,
+        0.24,
+        -1.75
+      ],
+      "dimensions": [
+        3.4,
+        1.0,
+        1.25
+      ]
+    },
+    {
+      "role": "XR_COFFEE_TABLE",
+      "source": "Poly Haven",
+      "id": "coffee_table_round_01",
+      "license": "CC0-1.0",
+      "page": "https://polyhaven.com/a/coffee_table_round_01",
+      "sourceFile": "assets/xr-v2/acquired-room-assets/coffee_table_round_01/coffee_table_round_01.gltf",
+      "sourceSha256": "6b9dbd17317c9289ab8e008b05abd146dbe0831c975871732def694de4ad407d",
+      "position": [
+        -4.9,
+        0.24,
+        0.8
+      ],
+      "dimensions": [
+        1.45,
+        0.5,
+        1.45
+      ]
+    },
+    {
+      "role": "XR_SIDE_TABLE",
+      "source": "Poly Haven",
+      "id": "side_table_01",
+      "license": "CC0-1.0",
+      "page": "https://polyhaven.com/a/side_table_01",
+      "sourceFile": "assets/xr-v2/acquired-room-assets/side_table_01/side_table_01.gltf",
+      "sourceSha256": "9ba10e46bb29f1739fc8cd22063a72bb321b30f0551a81db0eeda1da14b8c580",
+      "position": [
+        -5,
+        0.24,
+        2.8
+      ],
+      "dimensions": [
+        1.1,
+        0.38,
+        1.1
+      ]
+    },
+    {
+      "role": "XR_SIDE_TABLE_UPPER",
+      "source": "Poly Haven",
+      "id": "side_table_01",
+      "license": "CC0-1.0",
+      "page": "https://polyhaven.com/a/side_table_01",
+      "sourceFile": "assets/xr-v2/acquired-room-assets/side_table_01/side_table_01.gltf",
+      "sourceSha256": "9ba10e46bb29f1739fc8cd22063a72bb321b30f0551a81db0eeda1da14b8c580",
+      "position": [
+        -6.55,
+        0.24,
+        -3.45
+      ],
+      "dimensions": [
+        1.0,
+        0.64,
+        1.0
+      ]
+    },
+    {
+      "role": "XR_TASK_LAMP",
+      "source": "Poly Haven",
+      "id": "desk_lamp_arm_01",
+      "license": "CC0-1.0",
+      "page": "https://polyhaven.com/a/desk_lamp_arm_01",
+      "sourceFile": "assets/xr-v2/acquired-room-assets/desk_lamp_arm_01/desk_lamp_arm_01.gltf",
+      "sourceSha256": "b3f03ff2c7c186ec73682f7447b3594db2362cbfc0d72a89d2d8967111d2a2b6",
+      "position": [
+        -6.15,
+        1.02,
+        -5.05
+      ],
+      "dimensions": [
+        0.48,
+        0.72,
+        0.48
+      ]
+    },
+    {
+      "role": "XR_HEADSET_STAND",
+      "source": "Poly Haven",
+      "id": "side_table_01",
+      "license": "CC0-1.0",
+      "page": "https://polyhaven.com/a/side_table_01",
+      "sourceFile": "assets/xr-v2/acquired-room-assets/side_table_01/side_table_01.gltf",
+      "sourceSha256": "9ba10e46bb29f1739fc8cd22063a72bb321b30f0551a81db0eeda1da14b8c580",
+      "position": [
+        2,
+        0.24,
+        5.9
+      ],
+      "dimensions": [
+        0.8,
+        0.64,
+        0.8
+      ]
+    },
+    {
+      "role": "XR_HEADSET",
+      "source": "Grab3D external authored VR headset",
+      "license": "CC0-1.0",
+      "page": "https://grab3d.com/models/electronics/vr-headset/",
+      "sourceFile": "assets/xr-v2/acquired-room-assets/vr-headset/headset.glb",
+      "sourceSha256": "227d267e1c48024d2c1e6df8d9580c0818520fc281e27af0c7529fa46df1be13"
+    }
+  ],
+  "meshCount": 23,
+  "triangles": 111749,
+  "packedImages": 23,
+  "outputs": {
+    "room.blend": {
+      "bytes": 27839962,
+      "sha256": "8ad64345d312ba20a3b4a541e84bfb5487d1c1d3592e75e1a13acf65ef43e445"
+    },
+    "room.glb": {
+      "bytes": 29985496,
+      "sha256": "e5094ec455b5a31f0b8e1fb0ec82bf9ab79b15ad8cfc98e77e29c13b5f25b387"
+    },
+    "room-layout.json": {
+      "bytes": 12829,
+      "sha256": "dc961c2c90099216b06da6589fa0b58ca1cfa0904ca12f63909231de702f9a3d"
+    },
+    "room-preview.jpg": {
+      "bytes": 180561,
+      "sha256": "712faed348f41026384d336431ef6a30305f34e42a94f8d19429008f5e17c395"
+    },
+    "room-overview.jpg": {
+      "bytes": 170495,
+      "sha256": "3be173633f4c5b24cb40456de599b8fa154232735d4d38945b07f14cad462fd5"
+    }
+  },
+  "browserGPUVisualReview": false,
+  "headsetPresent": true,
+  "rendered": true,
+  "renderEngine": "Blender Cycles CPU",
+  "surfaceValidation": {
+    "passed": 15,
+    "failed": 0,
+    "report": "assets/xr-v2/room-source-surface-check.json",
+    "sha256": "eeef1b682baab1f53d3e2e18298f1c1850cffca7e6c23c172211b568f46ad824"
+  }
+}

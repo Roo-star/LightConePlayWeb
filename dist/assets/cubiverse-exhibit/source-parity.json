@@ -1,0 +1,199 @@
+{
+  "date": "2026-11-06",
+  "method": "Rebuilt the original sibling Cubiverse/src with its original Vite7.1.12 into a new validation directory; compared all game modules against the existing deployed cubiverse/assets. The only two filename differences are imports of the generated main-entry filename, not game logic.",
+  "checks": [
+    {
+      "deployed": "2048-B7c4WAa9.js",
+      "rebuilt": "2048-B7c4WAa9.js",
+      "originalSha256": "e92f1f78add2de776b4a8e6964f9dbd7ae6350196964b00b89bdabe949b9e64f",
+      "rebuiltSha256": "e92f1f78add2de776b4a8e6964f9dbd7ae6350196964b00b89bdabe949b9e64f",
+      "equal": true,
+      "equalWithEntryFilenameNormalized": true
+    },
+    {
+      "deployed": "2048-D2_lnVFq.js",
+      "rebuilt": "2048-D2_lnVFq.js",
+      "originalSha256": "46a57aa8938747bfbfe81e28e8379b177aef2f268efda6d48e8e7d6d2fef7960",
+      "rebuiltSha256": "46a57aa8938747bfbfe81e28e8379b177aef2f268efda6d48e8e7d6d2fef7960",
+      "equal": true,
+      "equalWithEntryFilenameNormalized": true
+    },
+    {
+      "deployed": "blokus-BsHYK_0B.js",
+      "rebuilt": "blokus-BsHYK_0B.js",
+      "originalSha256": "5ecc3f10af83ac0c9a98b9b016622c9625f7ef68fe4943da37f0a13e7c684782",
+      "rebuiltSha256": "5ecc3f10af83ac0c9a98b9b016622c9625f7ef68fe4943da37f0a13e7c684782",
+      "equal": true,
+      "equalWithEntryFilenameNormalized": true
+    },
+    {
+      "deployed": "blokus-DWCn2eSG.js",
+      "rebuilt": "blokus-DWCn2eSG.js",
+      "originalSha256": "e8db7242dc0ac6b33d685bfdd779cf13916f9d55bb4ae917145971a17bc7776d",
+      "rebuiltSha256": "e8db7242dc0ac6b33d685bfdd779cf13916f9d55bb4ae917145971a17bc7776d",
+      "equal": true,
+      "equalWithEntryFilenameNormalized": true
+    },
+    {
+      "deployed": "connect4-CUD7hLL2.js",
+      "rebuilt": "connect4-CUD7hLL2.js",
+      "originalSha256": "ff8cec290b6ea72d4beced24bd58dc41c9c572024f421ba6e8e5bf2b84d9aed9",
+      "rebuiltSha256": "ff8cec290b6ea72d4beced24bd58dc41c9c572024f421ba6e8e5bf2b84d9aed9",
+      "equal": true,
+      "equalWithEntryFilenameNormalized": true
+    },
+    {
+      "deployed": "connect4-C_hFQ9l7.js",
+      "rebuilt": "connect4-C_hFQ9l7.js",
+      "originalSha256": "cbfcc75c832d3c286c9d4ddb648740215e67612adaaccbf781d745344b961023",
+      "rebuiltSha256": "cbfcc75c832d3c286c9d4ddb648740215e67612adaaccbf781d745344b961023",
+      "equal": true,
+      "equalWithEntryFilenameNormalized": true
+    },
+    {
+      "deployed": "match3-assist-DWicgWpv.js",
+      "rebuilt": "match3-assist-DWicgWpv.js",
+      "originalSha256": "e56250c843ac8202da8433d268748903696b12faa4496f4730901882ab30bf45",
+      "rebuiltSha256": "e56250c843ac8202da8433d268748903696b12faa4496f4730901882ab30bf45",
+      "equal": true,
+      "equalWithEntryFilenameNormalized": true
+    },
+    {
+      "deployed": "match3-DYh_YPrV.js",
+      "rebuilt": "match3-DYh_YPrV.js",
+      "originalSha256": "5278f3f8decfea6e96bac2e71e6e41f3409ea3d0ebe18ab6dc03aa5d270ce843",
+      "rebuiltSha256": "5278f3f8decfea6e96bac2e71e6e41f3409ea3d0ebe18ab6dc03aa5d270ce843",
+      "equal": true,
+      "equalWithEntryFilenameNormalized": true
+    },
+    {
+      "deployed": "match3-CyCfm5Rs.js",
+      "rebuilt": "match3-WyoH6ovw.js",
+      "originalSha256": "983a7026efad7030e136535907c243f31bcbcc517d569adb14b7eb2bdd311196",
+      "rebuiltSha256": "f03f9762b339815eedec34bf0f935139e57b49df934a76c0f84c78258bc51a2b",
+      "equal": false,
+      "equalWithEntryFilenameNormalized": true
+    },
+    {
+      "deployed": "minesweeper-D16TwELO.js",
+      "rebuilt": "minesweeper-D16TwELO.js",
+      "originalSha256": "8b15f21d6ac57b6b42615d7b70e2cddb868a1a0ca3c4c442ce3e280ebd64c28a",
+      "rebuiltSha256": "8b15f21d6ac57b6b42615d7b70e2cddb868a1a0ca3c4c442ce3e280ebd64c28a",
+      "equal": true,
+      "equalWithEntryFilenameNormalized": true
+    },
+    {
+      "deployed": "minesweeper-n85uCSty.js",
+      "rebuilt": "minesweeper-n85uCSty.js",
+      "originalSha256": "5c468ca17a16a44f28457b829f5f9e46ae43a39992d5ee209f7db5242a22eb63",
+      "rebuiltSha256": "5c468ca17a16a44f28457b829f5f9e46ae43a39992d5ee209f7db5242a22eb63",
+      "equal": true,
+      "equalWithEntryFilenameNormalized": true
+    },
+    {
+      "deployed": "numpuz-BJQi9AAj.js",
+      "rebuilt": "numpuz-BJQi9AAj.js",
+      "originalSha256": "df477ad9d3b5c217f3b5c594e47f5d64f898c088f0a208ec091972329a7ede04",
+      "rebuiltSha256": "df477ad9d3b5c217f3b5c594e47f5d64f898c088f0a208ec091972329a7ede04",
+      "equal": true,
+      "equalWithEntryFilenameNormalized": true
+    },
+    {
+      "deployed": "numpuz-iBmuWvBg.js",
+      "rebuilt": "numpuz-CYMejoTm.js",
+      "originalSha256": "31efc2603e6f78694532b0472ab8c72de52897ac9b2fc4c1fd66a9665241c59b",
+      "rebuiltSha256": "985311fb678194ba6ef7079b4e79ee98a017d7934bbb910744fcb382b23dad79",
+      "equal": false,
+      "equalWithEntryFilenameNormalized": true
+    },
+    {
+      "deployed": "pacman-BdHuRBRK.js",
+      "rebuilt": "pacman-BdHuRBRK.js",
+      "originalSha256": "59c8f09072f60023235575d1a3fe01f18c16997bf851391eb67edecf3efe375d",
+      "rebuiltSha256": "59c8f09072f60023235575d1a3fe01f18c16997bf851391eb67edecf3efe375d",
+      "equal": true,
+      "equalWithEntryFilenameNormalized": true
+    },
+    {
+      "deployed": "pacman-DhJk8h7I.js",
+      "rebuilt": "pacman-DhJk8h7I.js",
+      "originalSha256": "caa108348f5364d6088b50a96fb4183743a7ee3218d0511048ceff259323edc7",
+      "rebuiltSha256": "caa108348f5364d6088b50a96fb4183743a7ee3218d0511048ceff259323edc7",
+      "equal": true,
+      "equalWithEntryFilenameNormalized": true
+    },
+    {
+      "deployed": "pacman-maze-v13-DMDPQ553.js",
+      "rebuilt": "pacman-maze-v13-DMDPQ553.js",
+      "originalSha256": "51e9854db3a40d765ec7826166f583fffd5cb3c4a6d8ecae1648d48172938f85",
+      "rebuiltSha256": "51e9854db3a40d765ec7826166f583fffd5cb3c4a6d8ecae1648d48172938f85",
+      "equal": true,
+      "equalWithEntryFilenameNormalized": true
+    },
+    {
+      "deployed": "pacman-navigation-moRDTLkx.js",
+      "rebuilt": "pacman-navigation-moRDTLkx.js",
+      "originalSha256": "c3e18090995485e2dec78c409ba8451ec35a53ddb10e1b34655409ee42022ab7",
+      "rebuiltSha256": "c3e18090995485e2dec78c409ba8451ec35a53ddb10e1b34655409ee42022ab7",
+      "equal": true,
+      "equalWithEntryFilenameNormalized": true
+    },
+    {
+      "deployed": "pacman-pipes-DloLX3B-.js",
+      "rebuilt": "pacman-pipes-DloLX3B-.js",
+      "originalSha256": "f688273a2c5b06c6740514a3642434382ee91f3b88b7976cf7bbfe073c8ddf60",
+      "rebuiltSha256": "f688273a2c5b06c6740514a3642434382ee91f3b88b7976cf7bbfe073c8ddf60",
+      "equal": true,
+      "equalWithEntryFilenameNormalized": true
+    },
+    {
+      "deployed": "sudoku-C5at0GZO.js",
+      "rebuilt": "sudoku-C5at0GZO.js",
+      "originalSha256": "fd28e7d3a1970a20b6d10653d6a639361c86e26c21e89ddc0a310c76f684e25d",
+      "rebuiltSha256": "fd28e7d3a1970a20b6d10653d6a639361c86e26c21e89ddc0a310c76f684e25d",
+      "equal": true,
+      "equalWithEntryFilenameNormalized": true
+    },
+    {
+      "deployed": "sudoku-view-DOD2avyG.js",
+      "rebuilt": "sudoku-view-DOD2avyG.js",
+      "originalSha256": "ff0d85c9d22f8cb5a059a34995f7e96a1b27f77b6a118b5c3823e42abadf67c0",
+      "rebuiltSha256": "ff0d85c9d22f8cb5a059a34995f7e96a1b27f77b6a118b5c3823e42abadf67c0",
+      "equal": true,
+      "equalWithEntryFilenameNormalized": true
+    },
+    {
+      "deployed": "tetris-BZZCP6gJ.js",
+      "rebuilt": "tetris-BZZCP6gJ.js",
+      "originalSha256": "d5e1d5561bd2e44eb7532edd4e863b0954ca4305f3152124a22b694f577d1d4a",
+      "rebuiltSha256": "d5e1d5561bd2e44eb7532edd4e863b0954ca4305f3152124a22b694f577d1d4a",
+      "equal": true,
+      "equalWithEntryFilenameNormalized": true
+    },
+    {
+      "deployed": "tetris-CMD0FLc-.js",
+      "rebuilt": "tetris-CMD0FLc-.js",
+      "originalSha256": "1671d27a9c7877531b7318617948983284cfa2b576f74ffa10fb68aeb42fff28",
+      "rebuiltSha256": "1671d27a9c7877531b7318617948983284cfa2b576f74ffa10fb68aeb42fff28",
+      "equal": true,
+      "equalWithEntryFilenameNormalized": true
+    },
+    {
+      "deployed": "tictactoe-7YFINF5d.js",
+      "rebuilt": "tictactoe-7YFINF5d.js",
+      "originalSha256": "09b6ffe09bdc6c75c082ad1400efee172bb80c662941fc206c155a97d1817d8b",
+      "rebuiltSha256": "09b6ffe09bdc6c75c082ad1400efee172bb80c662941fc206c155a97d1817d8b",
+      "equal": true,
+      "equalWithEntryFilenameNormalized": true
+    },
+    {
+      "deployed": "tictactoe-BOVDZrKZ.js",
+      "rebuilt": "tictactoe-BOVDZrKZ.js",
+      "originalSha256": "bcbb57d7de224c7f767ac37148908229d1f1dabcf71b9c43a0ea91be775185d0",
+      "rebuiltSha256": "bcbb57d7de224c7f767ac37148908229d1f1dabcf71b9c43a0ea91be775185d0",
+      "equal": true,
+      "equalWithEntryFilenameNormalized": true
+    }
+  ],
+  "passed": true
+}

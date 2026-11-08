@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "output": "assets/xr-v2/covers/desk-platformer-demo.mp4",
+  "poster": "assets/xr-v2/covers/personal.jpg",
+  "durationSeconds": 10,
+  "width": 1280,
+  "height": 854,
+  "fps": 24,
+  "frames": 240,
+  "audio": false,
+  "encoder": "FFmpeg / H.264 / yuv420p / faststart",
+  "bytes": 598254,
+  "sha256": "5a694bea320d030c931c9975ba564ef61bfe1acde813da202c2c5e3b72574634",
+  "type": "Exact-pixel photographic concept animation. Not actual XR capture or Nintendo gameplay footage.",
+  "aiGenerated": false,
+  "newCharacterOrModelCreated": false,
+  "method": "Node Canvas sequential frames over a fixed physical photograph; official Mario PNG translated along four parabolic jumps; surface-aligned shadows; four official coin PNGs disappear when collected; original coin icon plus ordinary count numerals.",
+  "script": "tools/xr-media-desk-animation.cjs",
+  "jumps": [
+    {
+      "start": 0.55,
+      "end": 2,
+      "from": [
+        945,
+        658
+      ],
+      "to": [
+        840,
+        614
+      ],
+      "height": 80,
+      "surface": "real keyboard top"
+    },
+    {
+      "start": 2.35,
+      "end": 3.85,
+      "from": [
+        840,
+        614
+      ],
+      "to": [
+        672,
+        633
+      ],
+      "height": 76,
+      "surface": "real desk, right of the mug"
+    },
+    {
+      "start": 4.2,
+      "end": 5.95,
+      "from": [
+        672,
+        633
+      ],
+      "to": [
+        510,
+        617
+      ],
+      "height": 135,
+      "surface": "real desk, left of the mug; arc clears the photographed mug"
+    },
+    {
+      "start": 6.35,
+      "end": 8.1,
+      "from": [
+        510,
+        617
+      ],
+      "to": [
+        491,
+        538
+      ],
+      "height": 88,
+      "surface": "top surface of the real book stack"
+    }
+  ],
+  "coinPositions": [
+    {
+      "x": 892.5,
+      "y": 493,
+      "collectedAt": 1.275
+    },
+    {
+      "x": 756,
+      "y": 484.5,
+      "collectedAt": 3.1
+    },
+    {
+      "x": 591,
+      "y": 427,
+      "collectedAt": 5.075
+    },
+    {
+      "x": 500.5,
+      "y": 426.5,
+      "collectedAt": 7.225
+    }
+  ],
+  "sources": [
+    {
+      "path": "assets/xr-v2/cover-sources/desk.jpg",
+      "sourcePage": "https://sites.bu.edu/sans/benjamin-siegel/",
+      "credit": "Benjamin Siegel / Boston University; photograph"
+    },
+    {
+      "path": "assets/xr-v2/game-media/mario-odyssey-full-color.png",
+      "sourcePage": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Super-Mario-Odyssey-1173332.html?pp=0",
+      "credit": "Nintendo; official full-color promotional character artwork"
+    },
+    {
+      "path": "assets/xr-v2/game-media/mario-odyssey-coin.png",
+      "sourcePage": "https://www.mariowiki.com/File:SMO_Artwork_Coin.png",
+      "credit": "Nintendo EPD / 1-Up Studio; original Odyssey coin artwork reproduced in community archive"
+    }
+  ],
+  "rights": "Original photograph and game artwork retain their respective copyrights. User-requested local visual prototype; no commercial redistribution permission asserted."
+}

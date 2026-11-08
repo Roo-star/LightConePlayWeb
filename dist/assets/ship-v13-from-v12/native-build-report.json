@@ -1,0 +1,131 @@
+{
+  "version": "V1.3 / edited from original V1.2",
+  "complete": true,
+  "renders": [
+    "overview.png",
+    "reverse.png",
+    "worktable.png",
+    "entrance.png",
+    "about.png"
+  ],
+  "startedAt": "2026-11-06T14:16:38.902336+00:00",
+  "authoring": "Incremental edits to the actual opened V1.2 Blender Scene; protected datablocks retained",
+  "blenderVersion": "5.0.1",
+  "layoutFile": "dimension/lightcells-layout.json",
+  "layoutSha256": "087e4106327152366be710562b19376392e6ed36f22208f04d9506354b9f9e72",
+  "provenance": {
+    "mode": "incremental-from-v12",
+    "baselineBlend": {
+      "file": "backups/v1.2-lightcells-before-v1.3/ship-lightcells/lightcone-lightcells.blend",
+      "sha256": "fc8ba1feda07b13972395b522374296557ca2079f2555daf58ca40c86efe54d4"
+    },
+    "baselineGlb": {
+      "file": "backups/v1.2-lightcells-before-v1.3/ship-lightcells/lightcone-lightcells.glb",
+      "sha256": "24cb00321ea29c0a60b02c43dadfa7b03e019c3a39939a1625c0e8013f128061"
+    },
+    "actualOpenedFile": "E:\\CubeEngine\\LightCone-Play-Site\\assets\\ship-lightcells\\lightcone-lightcells.blend",
+    "actualOpenedSha256": "fc8ba1feda07b13972395b522374296557ca2079f2555daf58ca40c86efe54d4",
+    "patchSource": {
+      "file": "tools/patch-v12-to-v13.py",
+      "sha256": "ede272533d98f038fc2c0fcf2fa290ad94efde89375d1903a5820d786b983946"
+    },
+    "sceneBefore": {
+      "name": "LightCone / V1.2 Light Cells",
+      "pointer": 2423169400992,
+      "sceneCount": 2
+    },
+    "protectedObjects": {
+      "reportFile": "assets/ship-v13-from-v12/protected-object-audit.json",
+      "reportSha256": "6232a586caefc3b5bb9c406ccf3789b635fa72ecd3ac1340f3034f21fc14cccb",
+      "passed": true
+    },
+    "sceneAfter": {
+      "name": "LightCone / V1.2 Light Cells",
+      "pointer": 2423169400992,
+      "sceneCount": 2
+    }
+  },
+  "allowedChanges": [
+    "Move the five retained original cell roots, preserving frame dimensions, geometry and colours.",
+    "Remove the Team cell subtree and standalone Partners panel.",
+    "Replace only the navigation desk and About display subtrees with the requested instruments.",
+    "Change original hall cell FONT typography and its dedicated cloned ink material; shrink only text X scale to fit the original frame.",
+    "Translate the original hologram root without changing its geometry, scale or materials.",
+    "Move and aim the original visitor camera."
+  ],
+  "sourceFiles": {
+    "patch-v12-to-v13.py": "ede272533d98f038fc2c0fcf2fa290ad94efde89375d1903a5820d786b983946"
+  },
+  "blendSaved": true,
+  "glbExported": true,
+  "nativeBlendSha256": "dff7aafb0674b5ef0e1b498bc71ce736e70aee4a77626fd6f368642f950faa19",
+  "nativeGlbSha256": "8e9dd445fd29e7a286a7105a964d1fd7abc10298b4859d6cdabeb64c1dedd2fc",
+  "triangles": 344714,
+  "objects": 366,
+  "scene": "LightCone / V1.2 Light Cells",
+  "reusedRoomSource": "assets/ship-v14/rooms",
+  "reusedRooms": {
+    "atrium": {
+      "file": "assets/ship-v14/rooms/atrium.glb",
+      "sha256": "4b599122e717c496069bce4c0c50d3adab2f788c66a903b0ea8effc09f4e6ef8"
+    },
+    "engine": {
+      "file": "assets/ship-v14/rooms/engine.glb",
+      "sha256": "90d89a492c1931cce1114492b119a5c6af217fcc9c42b2f49c291b73cc477048"
+    },
+    "hologravity": {
+      "file": "assets/ship-v14/rooms/hologravity.glb",
+      "sha256": "107809bc50ddecde4caecff6f3b268a3491a7d574705b0a33fcf33d1aaaf3da0"
+    },
+    "memory": {
+      "file": "assets/ship-v14/rooms/memory.glb",
+      "sha256": "f571a163a7249db5d9887f910c6432cbb723fa15e4316b3ec80e8303fd3182b9"
+    },
+    "play": {
+      "file": "assets/ship-v14/rooms/play.glb",
+      "sha256": "d9d6a797ffea3effd3d19e2d6e874059a84619736f9b8c007e64e7d829ed872c"
+    },
+    "signal": {
+      "file": "assets/ship-v14/rooms/signal.glb",
+      "sha256": "2ff0b0977b6ecccadfc69da91135d8ef6d8e20e83224d7ae3acf2a4ee48f0fec"
+    },
+    "stories": {
+      "file": "assets/ship-v14/rooms/stories.glb",
+      "sha256": "2e7b5e21831a45692d781f1eb4c0072348fbb4d263ef724c946e2f91367be9c8"
+    },
+    "team": {
+      "file": "assets/ship-v14/rooms/team.glb",
+      "sha256": "63a90aa67dedaf4dcfdcab22981d98c033d446ec08c0fb66fed53adea9dbcb1e"
+    }
+  },
+  "displayFont": {
+    "file": "assets/fonts/LightCone-Spectral.ttf",
+    "sha256": "273d967af394d2e25e92245d0540492e6086615c8d8629be6c6b390b1a542f54",
+    "packedInBlend": true
+  },
+  "rawExport": {
+    "file": "assets/ship-v13-from-v12/raw-export.glb",
+    "sha256": "21cce22866d5f606baa478a4d209f1956fece1324860fe9b309a99d62d4c1f0b",
+    "preservationStatus": "Native datablock audit passed; exact glTF re-export byte preservation is checked separately."
+  },
+  "completedAt": "2026-11-06T14:18:43.178849+00:00",
+  "exportNormalization": {
+    "mode": "preserve-v12-binary-representation",
+    "passed": true,
+    "reportFile": "assets/ship-v13-from-v12/export-normalization-report.json",
+    "reportSha256": "2ee796d48f83b8fec90c1a1dc11c6fd9fb569f2d074101f63a9b77d71d4a3707",
+    "raw": {
+      "file": "assets/ship-v13-from-v12/raw-export.glb",
+      "sha256": "21cce22866d5f606baa478a4d209f1956fece1324860fe9b309a99d62d4c1f0b"
+    },
+    "final": {
+      "file": "assets/ship-v13-from-v12/lightcone-v13-from-v12.glb",
+      "sha256": "8e9dd445fd29e7a286a7105a964d1fd7abc10298b4859d6cdabeb64c1dedd2fc"
+    },
+    "sourceFiles": {
+      "tools/preserve-v12-export.mjs": "66dea207ab6445993fec43cbdd5b7f6a887e265544bfb348fb4d6e5b7284ea49",
+      "verify-v13-incremental.mjs": "45c7d97df68574448fd9a85c527cfd0fd161cc2556d35fcfc0f36daac0766e72",
+      "vendor/three.module.js": "c8211c69345d2e9949dc7a8ac969380497aa0600a5a8ac6a459c8cd02dd9cb8a"
+    }
+  }
+}

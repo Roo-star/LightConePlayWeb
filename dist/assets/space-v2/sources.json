@@ -1,0 +1,35 @@
+{
+  "created": "2026-11-07T11:48:25.792402+00:00",
+  "assets": [
+    {
+      "file": "assets/space-v2/moon-lroc-2k.jpg",
+      "source": "https://svs.gsfc.nasa.gov/vis/a000000/a004700/a004720/lroc_color_2k.jpg",
+      "page": "https://svs.gsfc.nasa.gov/4720/",
+      "credit": "NASA SVS / Ernie Wright; Lunar Reconnaissance Orbiter camera team",
+      "bytes": 457942,
+      "sha256": "f7130a1822681fa7512d7dcfd40db8c10b9ba4f06777910348698260ed7a2170",
+      "processing": "Original published texture bytes, unchanged",
+      "use": "NASA scientific visualization imagery; not a NASA endorsement"
+    },
+    {
+      "file": "assets/space-v2/moon-lola-height.jpg",
+      "source": "https://svs.gsfc.nasa.gov/vis/a000000/a004700/a004720/ldem_3_8bit.jpg",
+      "page": "https://svs.gsfc.nasa.gov/4720/",
+      "credit": "NASA SVS / Ernie Wright; LRO Lunar Orbiter Laser Altimeter",
+      "bytes": 111552,
+      "sha256": "6d93f887e7d8bedfe35ab89ba785e5e3ca12381bd092a5e6abe2c707dda8bb98",
+      "processing": "Original published texture bytes, unchanged",
+      "use": "NASA scientific visualization imagery; not a NASA endorsement"
+    },
+    {
+      "file": "assets/space-v2/earth-blue-marble-2k.png",
+      "source": "https://svs.gsfc.nasa.gov/vis/a000000/a002900/a002915/bluemarble-2048.png",
+      "page": "https://svs.gsfc.nasa.gov/2915/",
+      "credit": "NASA/Goddard Space Flight Center Scientific Visualization Studio; Reto Stockli / NASA Earth Observatory",
+      "bytes": 1511379,
+      "sha256": "ae6214b078ed0864c96f74bcb10ae3021f6eb116f8059797efe0fa9ea8b89d35",
+      "processing": "Original published texture bytes, unchanged",
+      "use": "NASA scientific visualization imagery; not a NASA endorsement"
+    }
+  ]
+}

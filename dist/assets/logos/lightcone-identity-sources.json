@@ -1,0 +1,13 @@
+{
+  "originalLarge": {
+    "file": "lightcone-original-large.png",
+    "library_file_id": "libfile_eaa83941bc5c81918f2a97174654bc5d",
+    "originalBytes": 2025964
+  },
+  "originalSmall": {
+    "file": "lightcone-original-small.png",
+    "library_file_id": "libfile_09aef757a42481919997df212939b0b9",
+    "originalBytes": 32938
+  },
+  "policy": "Originals retained unchanged. Any transparent cleanup is a separate derivative. Website scales via CSS."
+}

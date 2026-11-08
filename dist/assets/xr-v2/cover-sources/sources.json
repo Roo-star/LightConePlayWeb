@@ -1,0 +1,83 @@
+[
+  {
+    "file": "desk.jpg",
+    "url": "https://sites.bu.edu/sans/files/2021/09/DSCF8487-1024x683.jpg",
+    "page": "https://sites.bu.edu/sans/benjamin-siegel/",
+    "credit": "Benjamin Siegel / Boston University; original physical study photograph",
+    "bytes": 182087,
+    "sha256": "cb7ceb4cad4b64bc680f98082fc2524c983466d5c231a4fd0da43af66acb1d12",
+    "mime": "image/jpeg",
+    "status": "downloaded",
+    "usage": "User-requested local visual reference / composition; source attribution retained; no commercial license asserted."
+  },
+  {
+    "file": "metro.jpg",
+    "url": "https://images.unsplash.com/photo-1711831061176-7671774a86c7?auto=format&fit=crop&fm=jpg&q=90&w=2400",
+    "page": "https://unsplash.com/photos/empty-subway-station-hallway-with-tiled-walls-and-fluorescent-lights-Yj0zZ5s6fAY",
+    "credit": "Jason Leung / Unsplash; physical subway corridor",
+    "bytes": 741479,
+    "sha256": "663201f6ae9e4f74cbc0fb58675576e8eb988ac07d8e1c22772497e66d7bd455",
+    "mime": "image/jpeg",
+    "status": "downloaded",
+    "usage": "User-requested local visual reference / composition; source attribution retained; no commercial license asserted."
+  },
+  {
+    "file": "museum.jpg",
+    "url": "https://img-xhpfm.zhongguowangshi.com/News/202201/GshfshC007015_20220105_CBMFN0A001.jpg",
+    "page": "https://whlyj.sh.gov.cn/wlyw/20220105/33135fabeedf4d04b333cb7cb2d0e3aa.html",
+    "credit": "Shanghai Natural History Museum AR exhibit; Shanghai culture and tourism source",
+    "bytes": 2446361,
+    "sha256": "edd8b421514f2c6174070558e233aba09c9dea0d9ce1bcdca0c87e57b1d41aaa",
+    "mime": "image/jpeg",
+    "status": "downloaded",
+    "usage": "User-requested local visual reference / composition; source attribution retained; no commercial license asserted."
+  },
+  {
+    "file": "culture.png",
+    "url": "https://ocupus.in/wp-content/uploads/2024/11/cc-scene-2.png",
+    "page": "https://ocupus.in/work/forces-of-nature",
+    "credit": "Ocupus / Forces of Nature, photographed projection installation",
+    "bytes": 616232,
+    "sha256": "396022394480ca2cc4ba3e6fb570be5385f0868e8bd7389b1d214ba2f09a89c4",
+    "mime": "image/png",
+    "status": "downloaded",
+    "usage": "User-requested local visual reference / composition; source attribution retained; no commercial license asserted."
+  },
+  {
+    "file": "culture-alt.jpeg",
+    "url": "https://ocupus.in/wp-content/uploads/2024/11/WhatsApp-Image-2024-11-04-at-1.59.29-PM.jpeg",
+    "page": "https://ocupus.in/work/forces-of-nature",
+    "credit": "Ocupus / Forces of Nature, installation photograph",
+    "bytes": 29490,
+    "sha256": "731902c8b642f6cdf1e448586da88433792058101ede24c24ae7cc933994691e",
+    "mime": "image/jpeg",
+    "status": "downloaded",
+    "usage": "User-requested local visual reference / composition; source attribution retained; no commercial license asserted."
+  },
+  {
+    "file": "education.png",
+    "url": "https://quivervision.com/images/quiver_boosts_learning.png",
+    "page": "https://quivervision.com/home/",
+    "status": "failed",
+    "error": "Not an image: text/html"
+  },
+  {
+    "file": "education-school.jpg",
+    "url": "https://files.schudio.com/delph-side-community-primary-school/images/gallery/augmented-reality/20220927_144331066_iOS.jpg",
+    "page": "https://delphside.lancs.sch.uk/news/2022-09-27-augmented-reality-in-ipad-club",
+    "credit": "Delph Side Community Primary School / actual Quiver AR school activity",
+    "bytes": 1128671,
+    "sha256": "bcb32c22b9cd1b073cc1107e9829e3d0577de4789ba48e6da232dd174ed60205",
+    "mime": "image/jpeg",
+    "status": "downloaded",
+    "usage": "User-requested local visual reference / composition; source attribution retained; no commercial license asserted."
+  },
+  {
+    "file": "scythe-table.jpg",
+    "url": "https://aus.stonemaiergames.com/cdn/shop/products/A05I9903_Credit-TimChuon.jpg?v=1619036831",
+    "page": "https://aus.stonemaiergames.com/products/scythe",
+    "credit": "Tim Chuon / Stonemaier Games",
+    "status": "downloaded",
+    "usage": "Original tabletop photograph; local reference, no commercial license asserted"
+  }
+]
